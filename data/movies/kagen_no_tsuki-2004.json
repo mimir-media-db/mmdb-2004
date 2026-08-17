@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kagen_no_tsuki_2004",
+  "title": "Kagen no Tsuki",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1944226",
+    "imdb": "tt0440532",
+    "tmdb": 55875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 112
+}

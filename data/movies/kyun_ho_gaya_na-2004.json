@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kyun_ho_gaya_na_2004",
+  "title": "Kyun! Ho Gaya Na...",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1517341",
+    "imdb": "tt0349703",
+    "tmdb": 19491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 168
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamen_rider_blade_missing_ace_2004",
+  "title": "Kamen Rider Blade: Missing Ace",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189330",
+    "imdb": "tt2020056",
+    "tmdb": 38969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
