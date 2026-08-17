@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_live_at_the_apollo",
+  "title": "Live at the Apollo",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2243214",
+    "imdb": "tt0429378",
+    "tmdb": 819
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 69
+}

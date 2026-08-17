@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_las_noches_de_luciana",
+  "title": "Las noches de Luciana",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5971220",
+    "imdb": "tt0401964",
+    "tmdb": 137202
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 141
+}

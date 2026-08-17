@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_le_sketch_show",
+  "title": "Le Sketch Show",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q110699915",
+    "imdb": "tt0437034",
+    "tmdb": 90139
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}

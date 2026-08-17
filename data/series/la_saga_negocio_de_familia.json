@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_saga_negocio_de_familia",
+  "title": "La Saga, Negocio de Familia",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q9019554",
+    "imdb": "tt0435988",
+    "tmdb": 114161
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 186
+}

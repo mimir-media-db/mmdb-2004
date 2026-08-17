@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_escuelita_vip",
+  "title": "La escuelita VIP",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q10315116",
+    "imdb": "tt0409558",
+    "tmdb": 91060
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 47
+}

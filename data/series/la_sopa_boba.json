@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_sopa_boba",
+  "title": "La sopa boba",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5968168",
+    "imdb": "tt0414774",
+    "tmdb": 99078
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 109
+}

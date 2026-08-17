@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_begins",
+  "title": "Life Begins",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2039222",
+    "imdb": "tt0398504",
+    "tmdb": 2068
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 19
+}

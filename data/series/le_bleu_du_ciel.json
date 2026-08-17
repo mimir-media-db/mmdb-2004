@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_le_bleu_du_ciel",
+  "title": "Le Bleu du ciel",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3220471",
+    "imdb": "tt0395840",
+    "tmdb": 121147
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 34
+}

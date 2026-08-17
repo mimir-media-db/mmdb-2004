@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_bugs",
+  "title": "Love Bugs",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19361854",
+    "imdb": "tt0816391",
+    "tmdb": 23337
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 223
+}

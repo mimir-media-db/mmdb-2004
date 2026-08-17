@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_los_pincheira",
+  "title": "Los Pincheira",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5980194",
+    "imdb": "tt0386966",
+    "tmdb": 106123
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 127
+}
