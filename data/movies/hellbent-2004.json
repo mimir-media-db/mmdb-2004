@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hellbent_2004",
+  "title": "Hellbent",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1991490",
+    "imdb": "tt0356159",
+    "tmdb": 47488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 84
+}

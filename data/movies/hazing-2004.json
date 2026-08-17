@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hazing_2004",
+  "title": "The Hazing",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4443455",
+    "imdb": "tt0366555",
+    "tmdb": 27619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 87
+}
