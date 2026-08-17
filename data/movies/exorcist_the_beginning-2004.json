@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exorcist_the_beginning_2004",
+  "title": "Exorcist: The Beginning",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1337485",
+    "imdb": "tt0204313",
+    "tmdb": 11026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-18",
+  "runtime_minutes": 116
+}

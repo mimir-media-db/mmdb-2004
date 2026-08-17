@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_sunshine_of_the_spotless_mind_2004",
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q208269",
+    "imdb": "tt0338013",
+    "tmdb": 38
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-09",
+  "runtime_minutes": 104
+}

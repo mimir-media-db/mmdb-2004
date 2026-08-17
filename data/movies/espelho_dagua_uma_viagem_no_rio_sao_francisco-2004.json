@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_espelho_dagua_uma_viagem_no_rio_sao_francisco_2004",
+  "title": "Espelho d'Água: Uma Viagem no Rio São Francisco",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10275027",
+    "imdb": "tt0371977",
+    "tmdb": 200599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-09",
+  "runtime_minutes": 110
+}

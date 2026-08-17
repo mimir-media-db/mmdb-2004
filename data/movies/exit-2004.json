@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exit_2004",
+  "title": "Exit",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33532984",
+    "imdb": "tt0487026",
+    "tmdb": 710963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 7
+}

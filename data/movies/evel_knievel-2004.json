@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_evel_knievel_2004",
+  "title": "Evel Knievel",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46600504",
+    "imdb": "tt0403004",
+    "tmdb": 95578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

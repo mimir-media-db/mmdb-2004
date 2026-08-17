@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ellektra_2004",
+  "title": "Ellektra",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959593",
+    "imdb": "tt0385676",
+    "tmdb": 216978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-06",
+  "runtime_minutes": 106
+}
