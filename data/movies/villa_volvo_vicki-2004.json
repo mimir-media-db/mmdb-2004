@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_villa_volvo_vicki_2004",
+  "title": "Villa, Volvo & Vicki",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33593064",
+    "imdb": "tt0439033",
+    "tmdb": 710939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 8
+}

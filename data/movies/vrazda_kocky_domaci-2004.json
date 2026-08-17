@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vrazda_kocky_domaci_2004",
+  "title": "Vrazda kocky domácí",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104894228",
+    "imdb": "tt0401873",
+    "tmdb": 541080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veera_kannadiga_2004",
+  "title": "Veera Kannadiga",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255125",
+    "imdb": "tt4586350",
+    "tmdb": 691046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

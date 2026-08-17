@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vikings_journey_to_new_worlds_2004",
+  "title": "Vikings: Journey to New Worlds",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118189189",
+    "imdb": "tt0432186",
+    "tmdb": 181504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 40
+}

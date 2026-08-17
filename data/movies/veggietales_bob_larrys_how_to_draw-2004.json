@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veggietales_bob_larrys_how_to_draw_2004",
+  "title": "VeggieTales: Bob & Larry's How to Draw!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4934501",
+    "imdb": "tt1355610",
+    "tmdb": 950907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-01"
+}
