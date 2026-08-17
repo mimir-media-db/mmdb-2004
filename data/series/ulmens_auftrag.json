@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ulmens_auftrag",
+  "title": "Ulmens Auftrag",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2475332",
+    "imdb": "tt0768159",
+    "tmdb": 40678
+  },
+  "last_updated": "2026-08-17"
+}

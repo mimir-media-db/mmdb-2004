@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_unsolved",
+  "title": "Unsolved",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7897476",
+    "imdb": "tt1086760",
+    "tmdb": 4938
+  },
+  "last_updated": "2026-08-17"
+}

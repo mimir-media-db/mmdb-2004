@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_untold_stories_of_the_er",
+  "title": "Untold Stories of the E.R.",
+  "start_year": 2004,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q7897755",
+    "imdb": "tt0437043",
+    "tmdb": 268
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 122
+}

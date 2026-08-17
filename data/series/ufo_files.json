@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ufo_files",
+  "title": "UFO Files",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5237676",
+    "imdb": "tt0433320",
+    "tmdb": 4208
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 46
+}
