@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_left_right_sir_2004",
+  "title": "Left Right Sir",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30592629",
+    "imdb": "tt7915692"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-21"
+}

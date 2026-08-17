@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fluxus_hair_tainer_2004",
+  "title": "Fluxus Hair Tainer",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16556341",
+    "imdb": "tt1166099",
+    "tmdb": 1252750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 6
+}

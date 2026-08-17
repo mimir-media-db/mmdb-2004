@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goff_in_der_wuste_2004",
+  "title": "Goff in der Wüste",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013314",
+    "imdb": "tt0415012",
+    "tmdb": 250351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-19",
+  "runtime_minutes": 110
+}

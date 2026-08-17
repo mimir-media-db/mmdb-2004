@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_right_here_right_now_2004",
+  "title": "Right Here Right Now",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600744",
+    "imdb": "tt0381543",
+    "tmdb": 927251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confidence_2004",
+  "title": "Confidence",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q652586",
+    "imdb": "tt0310910",
+    "tmdb": 10743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-08",
+  "runtime_minutes": 94
+}

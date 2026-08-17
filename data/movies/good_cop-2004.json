@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_cop_2004",
+  "title": "The Good Cop",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2411663",
+    "imdb": "tt0392049",
+    "tmdb": 4991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-16",
+  "runtime_minutes": 87
+}

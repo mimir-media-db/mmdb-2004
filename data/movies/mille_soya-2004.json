@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mille_soya_2004",
+  "title": "Mille Soya",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128051",
+    "imdb": "tt2250334",
+    "tmdb": 807464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-21"
+}

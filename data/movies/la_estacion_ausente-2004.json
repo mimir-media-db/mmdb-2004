@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_estacion_ausente_2004",
+  "title": "La estación ausente",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5815438",
+    "imdb": "tt0412692",
+    "tmdb": 108407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-15",
+  "runtime_minutes": 85
+}

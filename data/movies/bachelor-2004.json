@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bachelor_2004",
+  "title": "Bachelor",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16346063",
+    "imdb": "tt3032074",
+    "tmdb": 421718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

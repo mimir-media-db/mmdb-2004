@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_merglers_gift_2004",
+  "title": "Mr. Mergler's Gift",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109973945",
+    "imdb": "tt1110218",
+    "tmdb": 701251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

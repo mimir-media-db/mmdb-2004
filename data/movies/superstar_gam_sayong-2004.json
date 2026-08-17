@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_superstar_gam_sayong_2004",
+  "title": "Superstar Gam Sa-Yong",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11253374",
+    "imdb": "tt0423293",
+    "tmdb": 200774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-17",
+  "runtime_minutes": 113
+}

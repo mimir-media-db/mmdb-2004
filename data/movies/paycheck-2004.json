@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paycheck_2004",
+  "title": "Paycheck",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q247516",
+    "imdb": "tt0338337",
+    "tmdb": 9620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-22",
+  "runtime_minutes": 114
+}

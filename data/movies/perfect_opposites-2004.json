@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_opposites_2004",
+  "title": "Perfect Opposites",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1171505",
+    "imdb": "tt0259567",
+    "tmdb": 44593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-06",
+  "runtime_minutes": 87
+}

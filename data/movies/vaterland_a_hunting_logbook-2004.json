@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vaterland_a_hunting_logbook_2004",
+  "title": "Vaterland: A Hunting Logbook",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15124309",
+    "imdb": "tt0403650",
+    "tmdb": 123544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-19",
+  "runtime_minutes": 94
+}

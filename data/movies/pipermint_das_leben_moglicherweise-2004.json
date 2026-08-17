@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pipermint_das_leben_moglicherweise_2004",
+  "title": "PiperMint... das Leben möglicherweise",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16466228",
+    "imdb": "tt0396809",
+    "tmdb": 462250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-28",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sie_macie_ludzie_2004",
+  "title": "Sie macie ludzie",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9336326",
+    "imdb": "tt2631870",
+    "tmdb": 1024622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-30",
+  "runtime_minutes": 78
+}

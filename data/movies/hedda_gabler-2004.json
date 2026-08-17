@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hedda_gabler_2004",
+  "title": "Hedda Gabler",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23710624",
+    "imdb": "tt0421065",
+    "tmdb": 185183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

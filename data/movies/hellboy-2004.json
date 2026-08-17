@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hellboy_2004",
+  "title": "Hellboy",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q461540",
+    "imdb": "tt0167190",
+    "tmdb": 1487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-02",
+  "runtime_minutes": 132
+}

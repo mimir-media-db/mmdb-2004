@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uptown_girls_2004",
+  "title": "Uptown Girls",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1143310",
+    "imdb": "tt0263757",
+    "tmdb": 14926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-23",
+  "runtime_minutes": 92
+}

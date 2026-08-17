@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snowfever_2004",
+  "title": "Snowfever",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5006602",
+    "imdb": "tt0400835",
+    "tmdb": 73746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maize_the_movie_2004",
+  "title": "The Maize: The Movie",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19796097",
+    "imdb": "tt0451109",
+    "tmdb": 31255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}

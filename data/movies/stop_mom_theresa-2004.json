@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stop_mom_theresa_2004",
+  "title": "Stop Mom Theresa!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1469770",
+    "imdb": "tt0379071",
+    "tmdb": 143961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-16",
+  "runtime_minutes": 127
+}

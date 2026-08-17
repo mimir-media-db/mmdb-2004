@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baby_2004",
+  "title": "Baby",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q797814",
+    "imdb": "tt0280874",
+    "tmdb": 69991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-26",
+  "runtime_minutes": 105
+}

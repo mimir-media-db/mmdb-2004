@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horas_de_luz_2004",
+  "title": "Horas de luz",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9004754",
+    "imdb": "tt0375342",
+    "tmdb": 85761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-23",
+  "runtime_minutes": 98
+}

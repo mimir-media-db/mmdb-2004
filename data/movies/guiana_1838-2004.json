@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guiana_1838_2004",
+  "title": "Guiana 1838",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022622",
+    "imdb": "tt0428609",
+    "tmdb": 62402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 120
+}

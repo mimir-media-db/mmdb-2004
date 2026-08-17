@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chekhovs_motifs_2004",
+  "title": "Chekhov's Motifs",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4515241",
+    "imdb": "tt0321641",
+    "tmdb": 148409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-11",
+  "runtime_minutes": 120
+}

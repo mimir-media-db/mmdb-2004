@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seducing_doctor_lewis_2004",
+  "title": "Seducing Doctor Lewis",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1218528",
+    "imdb": "tt0366532",
+    "tmdb": 41277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-02",
+  "runtime_minutes": 104
+}

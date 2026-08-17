@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_netaji_subhas_chandra_bose_the_forgotten_hero_2004",
+  "title": "Netaji Subhas Chandra Bose: The Forgotten Hero",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6998619",
+    "imdb": "tt0349878",
+    "tmdb": 58725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-03",
+  "runtime_minutes": 208
+}

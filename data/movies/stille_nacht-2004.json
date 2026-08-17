@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stille_nacht_2004",
+  "title": "Stille nacht",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14404793",
+    "imdb": "tt0403539",
+    "tmdb": 81600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-16",
+  "runtime_minutes": 82
+}

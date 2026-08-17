@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_samurai_2004",
+  "title": "The Last Samurai",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q207130",
+    "imdb": "tt0325710",
+    "tmdb": 616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-08",
+  "runtime_minutes": 154
+}

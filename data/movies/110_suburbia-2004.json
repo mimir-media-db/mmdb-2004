@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_110_suburbia_2004",
+  "title": "110% Suburbia",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20727873",
+    "imdb": "tt0395913",
+    "tmdb": 148612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-18",
+  "runtime_minutes": 87
+}

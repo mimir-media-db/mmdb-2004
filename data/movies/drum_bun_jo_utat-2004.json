@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drum_bun_jo_utat_2004",
+  "title": "Drum bun - Jó utat!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718071",
+    "imdb": "tt0398030",
+    "tmdb": 432093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

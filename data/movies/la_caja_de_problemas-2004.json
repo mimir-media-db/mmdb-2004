@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_caja_de_problemas_2004",
+  "title": "La caja de problemas",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21028900",
+    "imdb": "tt0833944",
+    "tmdb": 403014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-27"
+}

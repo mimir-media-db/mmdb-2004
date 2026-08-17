@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_narradores_de_jave_2004",
+  "title": "Narradores de Javé",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10335546",
+    "imdb": "tt0355809",
+    "tmdb": 165545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-03",
+  "runtime_minutes": 142
+}

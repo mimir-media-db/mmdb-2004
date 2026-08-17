@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babuschka_2004",
+  "title": "Babuschka",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2877961",
+    "imdb": "tt0349116",
+    "tmdb": 199283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-04",
+  "runtime_minutes": 97
+}

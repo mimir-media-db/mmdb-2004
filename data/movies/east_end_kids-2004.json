@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_east_end_kids_2004",
+  "title": "East End Kids",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131462472",
+    "imdb": "tt8933380",
+    "tmdb": 1140974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

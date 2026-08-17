@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forgiveness_2004",
+  "title": "Forgiveness",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3077295",
+    "imdb": "tt0382037",
+    "tmdb": 263617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-07",
+  "runtime_minutes": 92
+}

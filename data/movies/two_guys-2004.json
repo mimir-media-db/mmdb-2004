@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_two_guys_2004",
+  "title": "Two Guys",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18355336",
+    "imdb": "tt0414624",
+    "tmdb": 49290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-09"
+}

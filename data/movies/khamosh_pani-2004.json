@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khamosh_pani_2004",
+  "title": "Khamosh Pani",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2574952",
+    "imdb": "tt0357283",
+    "tmdb": 100086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-02",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_s_diary_2004",
+  "title": "S Diary",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7395350",
+    "imdb": "tt0426196",
+    "tmdb": 71248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-22",
+  "runtime_minutes": 104
+}

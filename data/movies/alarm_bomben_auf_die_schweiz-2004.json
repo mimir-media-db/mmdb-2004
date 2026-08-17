@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_alarm_bomben_auf_die_schweiz_2004",
+  "title": "Alarm! Bomben auf die Schweiz",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88872067"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 15
+}

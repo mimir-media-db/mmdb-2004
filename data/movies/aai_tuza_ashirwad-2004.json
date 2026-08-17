@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_aai_tuza_ashirwad_2004",
+  "title": "Aai Tuza Ashirwad",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661269",
+    "imdb": "tt2633654"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-09"
+}

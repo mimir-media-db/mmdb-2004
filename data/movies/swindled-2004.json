@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swindled_2004",
+  "title": "Swindled",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5485474",
+    "imdb": "tt0382097",
+    "tmdb": 53750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-09",
+  "runtime_minutes": 110
+}

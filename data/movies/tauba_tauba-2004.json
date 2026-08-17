@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tauba_tauba_2004",
+  "title": "Tauba Tauba",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7688641",
+    "imdb": "tt0429289",
+    "tmdb": 276501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-01"
+}

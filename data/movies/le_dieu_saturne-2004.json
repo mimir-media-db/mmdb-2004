@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_dieu_saturne_2004",
+  "title": "Le Dieu Saturne",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597721",
+    "imdb": "tt0409895",
+    "tmdb": 258845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 40
+}

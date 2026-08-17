@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vinzent_2004",
+  "title": "Vinzent",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54892113",
+    "imdb": "tt0423485",
+    "tmdb": 213202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 93
+}

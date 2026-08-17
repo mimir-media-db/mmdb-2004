@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bodyguard_2004",
+  "title": "The Bodyguard",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q840871",
+    "imdb": "tt0450996",
+    "tmdb": 20256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-21",
+  "runtime_minutes": 95
+}

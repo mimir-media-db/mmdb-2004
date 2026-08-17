@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_macbeth_2004",
+  "title": "Macbeth",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955376",
+    "imdb": "tt0436547",
+    "tmdb": 453222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-10",
+  "runtime_minutes": 84
+}

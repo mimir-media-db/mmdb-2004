@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mars_2004",
+  "title": "Mars",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2646034",
+    "imdb": "tt0417949",
+    "tmdb": 100152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-11",
+  "runtime_minutes": 96
+}

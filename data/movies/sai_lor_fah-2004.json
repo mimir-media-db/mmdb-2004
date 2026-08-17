@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sai_lor_fah_2004",
+  "title": "Sai Lor Fah",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6639851",
+    "imdb": "tt0902324",
+    "tmdb": 80252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-07"
+}

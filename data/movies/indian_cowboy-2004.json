@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indian_cowboy_2004",
+  "title": "Indian Cowboy",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13522752",
+    "imdb": "tt0254784",
+    "tmdb": 251285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

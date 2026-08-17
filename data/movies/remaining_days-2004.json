@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remaining_days_2004",
+  "title": "The Remaining Days",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110912854",
+    "imdb": "tt0814675",
+    "tmdb": 810625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 8
+}

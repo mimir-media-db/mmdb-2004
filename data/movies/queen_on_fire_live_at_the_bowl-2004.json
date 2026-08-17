@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_on_fire_live_at_the_bowl_2004",
+  "title": "Queen on Fire – Live at the Bowl",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q745841",
+    "imdb": "tt0451175",
+    "tmdb": 26434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-25",
+  "runtime_minutes": 170
+}

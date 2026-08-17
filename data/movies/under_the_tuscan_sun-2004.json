@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_tuscan_sun_2004",
+  "title": "Under the Tuscan Sun",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41315",
+    "imdb": "tt0328589",
+    "tmdb": 10934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-15",
+  "runtime_minutes": 113
+}

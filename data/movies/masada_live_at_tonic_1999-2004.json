@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_masada_live_at_tonic_1999_2004",
+  "title": "Masada Live at Tonic 1999",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6782296",
+    "imdb": "tt0457408",
+    "tmdb": 318425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-09"
+}

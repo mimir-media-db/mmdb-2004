@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plauto_recuerdo_distorsionado_de_un_tonto_eventual_2004",
+  "title": "Plauto, recuerdo distorsionado de un tonto eventual",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109495661",
+    "imdb": "tt0410459",
+    "tmdb": 221099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

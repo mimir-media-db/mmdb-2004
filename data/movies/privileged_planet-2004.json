@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_privileged_planet_2004",
+  "title": "The Privileged Planet",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130302181",
+    "imdb": "tt0495399",
+    "tmdb": 13244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 60
+}

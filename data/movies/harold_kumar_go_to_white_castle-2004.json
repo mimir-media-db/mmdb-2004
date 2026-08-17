@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harold_kumar_go_to_white_castle_2004",
+  "title": "Harold & Kumar Go to White Castle",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q607643",
+    "imdb": "tt0366551",
+    "tmdb": 11282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-27",
+  "runtime_minutes": 87
+}

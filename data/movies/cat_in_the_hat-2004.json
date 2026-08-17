@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cat_in_the_hat_2004",
+  "title": "The Cat in the Hat",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1286387",
+    "imdb": "tt0312528",
+    "tmdb": 10588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-08",
+  "runtime_minutes": 82
+}

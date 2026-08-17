@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_besieged_2004",
+  "title": "Besieged",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2276844",
+    "imdb": "tt0149723",
+    "tmdb": 44297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-16",
+  "runtime_minutes": 93
+}

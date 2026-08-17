@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baa_baaro_rasika_2004",
+  "title": "Baa Baaro Rasika",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246870",
+    "imdb": "tt28783850",
+    "tmdb": 1499102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-18",
+  "runtime_minutes": 137
+}

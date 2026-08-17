@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_sign_2004",
+  "title": "The Hollywood Sign",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7740002",
+    "imdb": "tt0239467",
+    "tmdb": 120549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-29",
+  "runtime_minutes": 90
+}

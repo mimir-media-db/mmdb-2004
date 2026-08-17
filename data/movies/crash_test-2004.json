@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crash_test_2004",
+  "title": "Crash Test",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600708",
+    "imdb": "tt0407695",
+    "tmdb": 25761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 81
+}

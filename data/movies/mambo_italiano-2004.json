@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mambo_italiano_2004",
+  "title": "Mambo Italiano",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1231314",
+    "imdb": "tt0330602",
+    "tmdb": 321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-24",
+  "runtime_minutes": 89
+}

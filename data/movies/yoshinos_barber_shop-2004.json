@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yoshinos_barber_shop_2004",
+  "title": "Yoshino's Barber Shop",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48751940",
+    "imdb": "tt0402049",
+    "tmdb": 25658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

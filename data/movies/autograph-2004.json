@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_autograph_2004",
+  "title": "Autograph",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3424194",
+    "imdb": "tt0411131",
+    "tmdb": 140299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-14"
+}

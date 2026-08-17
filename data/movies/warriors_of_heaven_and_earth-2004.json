@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warriors_of_heaven_and_earth_2004",
+  "title": "Warriors of Heaven and Earth",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3174281",
+    "imdb": "tt0374330",
+    "tmdb": 14797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-30",
+  "runtime_minutes": 120
+}

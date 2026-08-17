@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fine_dead_girls_2004",
+  "title": "Fine Dead Girls",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1287353",
+    "imdb": "tt0329083",
+    "tmdb": 10125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-10",
+  "runtime_minutes": 77
+}

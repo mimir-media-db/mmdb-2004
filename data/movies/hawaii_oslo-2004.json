@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hawaii_oslo_2004",
+  "title": "Hawaii, Oslo",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1755197",
+    "imdb": "tt0427339",
+    "tmdb": 14812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-24",
+  "runtime_minutes": 120
+}

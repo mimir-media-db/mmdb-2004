@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_between_us_2004",
+  "title": "Between Us",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12102240",
+    "imdb": "tt0424842"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inteqam_the_perfect_game_2004",
+  "title": "Inteqam: The Perfect Game",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11713332",
+    "imdb": "tt0349620",
+    "tmdb": 404392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-01",
+  "runtime_minutes": 127
+}

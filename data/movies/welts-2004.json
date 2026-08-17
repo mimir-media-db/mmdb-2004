@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welts_2004",
+  "title": "The Welts",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4469332",
+    "imdb": "tt0426173",
+    "tmdb": 36402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-15",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tropic_of_cancer_2004",
+  "title": "Tropic of Cancer",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962298",
+    "imdb": "tt0427967",
+    "tmdb": 354426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 54
+}

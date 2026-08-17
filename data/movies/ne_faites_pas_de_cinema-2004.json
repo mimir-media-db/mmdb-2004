@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ne_faites_pas_de_cinema_2004",
+  "title": "Ne faites pas de cinéma",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86732218",
+    "imdb": "tt0445587",
+    "tmdb": 1417355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 74
+}

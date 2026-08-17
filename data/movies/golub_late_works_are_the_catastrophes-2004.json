@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golub_late_works_are_the_catastrophes_2004",
+  "title": "Golub: Late Works Are the Catastrophes",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130455778",
+    "imdb": "tt0457660",
+    "tmdb": 56536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-27",
+  "runtime_minutes": 80
+}

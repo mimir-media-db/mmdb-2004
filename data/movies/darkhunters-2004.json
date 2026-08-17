@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_darkhunters_2004",
+  "title": "Darkhunters",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511262",
+    "imdb": "tt0337598",
+    "tmdb": 28418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 83
+}

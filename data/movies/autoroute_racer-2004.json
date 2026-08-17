@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autoroute_racer_2004",
+  "title": "Autoroute Racer",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q322136",
+    "imdb": "tt0391774",
+    "tmdb": 11930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-19",
+  "runtime_minutes": 88
+}

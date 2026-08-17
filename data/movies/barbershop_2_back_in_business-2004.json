@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbershop_2_back_in_business_2004",
+  "title": "Barbershop 2: Back in Business",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q807816",
+    "imdb": "tt0337579",
+    "tmdb": 21301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-20",
+  "runtime_minutes": 104
+}

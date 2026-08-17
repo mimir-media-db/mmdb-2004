@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aris_min_geha_amneya_2004",
+  "title": "Aris min geha amneya",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12224778",
+    "imdb": "tt0418471",
+    "tmdb": 87059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-28",
+  "runtime_minutes": 90
+}

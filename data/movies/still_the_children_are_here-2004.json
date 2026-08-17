@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_still_the_children_are_here_2004",
+  "title": "Still, the Children Are Here",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123901234",
+    "imdb": "tt0432361"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 84
+}

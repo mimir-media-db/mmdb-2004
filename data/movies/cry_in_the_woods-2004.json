@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cry_in_the_woods_2004",
+  "title": "A Cry in the Woods",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1766342",
+    "imdb": "tt0408199",
+    "tmdb": 33280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-02",
+  "runtime_minutes": 97
+}

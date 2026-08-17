@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kalo_chita_2004",
+  "title": "Kalo Chita",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768601",
+    "imdb": "tt0491782"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

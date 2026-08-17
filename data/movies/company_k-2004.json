@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_company_k_2004",
+  "title": "Company K",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123528183",
+    "imdb": "tt0372828",
+    "tmdb": 55234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 102
+}

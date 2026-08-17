@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_viento_de_todas_partes_2004",
+  "title": "El viento de todas partes",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110971213",
+    "imdb": "tt0453296",
+    "tmdb": 518664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 99
+}

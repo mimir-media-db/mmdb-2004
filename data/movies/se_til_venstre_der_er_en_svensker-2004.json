@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_se_til_venstre_der_er_en_svensker_2004",
+  "title": "Se til venstre, der er en svensker",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12334799",
+    "imdb": "tt0338418",
+    "tmdb": 16012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-03",
+  "runtime_minutes": 95
+}

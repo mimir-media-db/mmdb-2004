@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_america_brown_2004",
+  "title": "America Brown",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9149909",
+    "imdb": "tt0374496",
+    "tmdb": 106399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-05-09",
+  "runtime_minutes": 88
+}

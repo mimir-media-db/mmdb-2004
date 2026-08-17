@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skilpoppe_2004",
+  "title": "Skilpoppe",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15921298",
+    "imdb": "tt0436775",
+    "tmdb": 182860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-27"
+}

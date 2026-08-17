@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_cur_des_hommes_2004",
+  "title": "Le Cœur des hommes",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1213415",
+    "imdb": "tt0349225",
+    "tmdb": 19099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-15",
+  "runtime_minutes": 105
+}

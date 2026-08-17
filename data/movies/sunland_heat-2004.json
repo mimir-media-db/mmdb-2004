@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunland_heat_2004",
+  "title": "Sunland Heat",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18386361",
+    "imdb": "tt0466999",
+    "tmdb": 295941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 81
+}

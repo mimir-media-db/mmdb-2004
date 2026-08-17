@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_me_chancellor_2004",
+  "title": "Kiss me, Chancellor!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17414843",
+    "imdb": "tt0396092",
+    "tmdb": 324772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

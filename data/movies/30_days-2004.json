@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_30_days_2004",
+  "title": "30 Days",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126685073",
+    "imdb": "tt0991267"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

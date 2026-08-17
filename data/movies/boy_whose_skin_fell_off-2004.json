@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_whose_skin_fell_off_2004",
+  "title": "The Boy Whose Skin Fell Off",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899914",
+    "imdb": "tt0466710",
+    "tmdb": 214455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 50
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jesse_et_tera_fievre_des_iles_2004",
+  "title": "Jesse et Tera: Fièvre des îles",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135106837",
+    "imdb": "tt0431154",
+    "tmdb": 46181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-22",
+  "runtime_minutes": 87
+}

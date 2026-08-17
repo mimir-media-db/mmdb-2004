@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bob_the_builder_when_bob_became_a_builder_2004",
+  "title": "Bob the Builder: When Bob Became a Builder",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128601190",
+    "imdb": "tt2233090",
+    "tmdb": 405168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 50
+}

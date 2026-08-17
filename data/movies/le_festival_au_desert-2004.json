@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_festival_au_desert_2004",
+  "title": "Le festival au désert",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123563794",
+    "imdb": "tt0457896",
+    "tmdb": 173646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

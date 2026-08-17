@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_horizon_2004",
+  "title": "Blue Horizon",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60677652",
+    "imdb": "tt0409763",
+    "tmdb": 44904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

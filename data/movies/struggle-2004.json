@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_struggle_2004",
+  "title": "Struggle",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6134591",
+    "imdb": "tt0337250",
+    "tmdb": 48861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-09"
+}

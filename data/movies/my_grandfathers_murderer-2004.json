@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_grandfathers_murderer_2004",
+  "title": "My Grandfather's Murderer",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12327272",
+    "imdb": "tt0439705",
+    "tmdb": 1362284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-19",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_iraq_the_untold_stories_2004",
+  "title": "Inside Iraq: The Untold Stories",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19874555",
+    "imdb": "tt0772121",
+    "tmdb": 275854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 84
+}

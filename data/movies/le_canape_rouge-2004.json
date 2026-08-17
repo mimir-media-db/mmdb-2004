@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_canape_rouge_2004",
+  "title": "Le canapé rouge",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15974157",
+    "imdb": "tt0477274",
+    "tmdb": 215587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_five_in_the_afternoon_2004",
+  "title": "At Five in the Afternoon",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q547387",
+    "imdb": "tt0363303",
+    "tmdb": 43969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-01",
+  "runtime_minutes": 83
+}

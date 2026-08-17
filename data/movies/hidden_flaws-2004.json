@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_flaws_2004",
+  "title": "Hidden Flaws",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3253299",
+    "imdb": "tt0395804",
+    "tmdb": 419599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-01",
+  "runtime_minutes": 92
+}

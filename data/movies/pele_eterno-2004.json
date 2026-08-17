@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pele_eterno_2004",
+  "title": "Pele Eterno",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3283514",
+    "imdb": "tt0420066",
+    "tmdb": 68169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-25",
+  "runtime_minutes": 120
+}

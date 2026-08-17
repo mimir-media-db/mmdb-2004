@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_redemption_2004",
+  "title": "Day of Redemption",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511261",
+    "imdb": "tt0363549",
+    "tmdb": 214984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 86
+}

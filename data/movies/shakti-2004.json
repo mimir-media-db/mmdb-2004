@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shakti_2004",
+  "title": "Shakti",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646985",
+    "imdb": "tt4773144",
+    "tmdb": 995176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

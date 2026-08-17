@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naglalayag_2004",
+  "title": "Naglalayag",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6958861",
+    "imdb": "tt0418924",
+    "tmdb": 275981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-23"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tsuki_no_waltz_2004",
+  "title": "Tsuki no Waltz",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4561614",
+    "tmdb": 522698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-01"
+}

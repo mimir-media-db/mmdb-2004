@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweetest_times_2004",
+  "title": "Sweetest Times",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12178449",
+    "imdb": "tt0419422",
+    "tmdb": 136870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-31",
+  "runtime_minutes": 113
+}

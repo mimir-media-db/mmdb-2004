@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hellbreeder_2004",
+  "title": "Hellbreeder",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14954307",
+    "imdb": "tt0359398",
+    "tmdb": 28419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

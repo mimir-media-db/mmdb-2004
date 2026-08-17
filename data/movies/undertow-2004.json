@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_undertow_2004",
+  "title": "Undertow",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q571309",
+    "imdb": "tt0360130",
+    "tmdb": 16131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-01",
+  "runtime_minutes": 108
+}

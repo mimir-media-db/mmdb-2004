@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vesham_2004",
+  "title": "Vesham",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1132661",
+    "imdb": "tt0430735",
+    "tmdb": 238401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-23"
+}

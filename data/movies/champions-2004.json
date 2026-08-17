@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_champions_2004",
+  "title": "Champions",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23656959",
+    "imdb": "tt0403310",
+    "tmdb": 45951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-29",
+  "runtime_minutes": 100
+}

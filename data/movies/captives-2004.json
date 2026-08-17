@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_captives_2004",
+  "title": "The Captives",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7721302",
+    "imdb": "tt1773720"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-31"
+}

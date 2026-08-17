@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_letters_to_ali_2004",
+  "title": "Letters to Ali",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16210602",
+    "imdb": "tt0424235",
+    "tmdb": 362641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

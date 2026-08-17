@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_allende_der_letzte_tag_des_salvador_allende_2004",
+  "title": "Allende – Der letzte Tag des Salvador Allende",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22063690",
+    "imdb": "tt0432703",
+    "tmdb": 1644176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-25",
+  "runtime_minutes": 80
+}

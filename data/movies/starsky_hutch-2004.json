@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_starsky_hutch_2004",
+  "title": "Starsky & Hutch",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q847646",
+    "imdb": "tt0335438",
+    "tmdb": 9384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-26",
+  "runtime_minutes": 101
+}

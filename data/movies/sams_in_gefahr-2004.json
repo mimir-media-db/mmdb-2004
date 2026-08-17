@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sams_in_gefahr_2004",
+  "title": "Sams in Gefahr",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2217661",
+    "imdb": "tt0372504",
+    "tmdb": 75897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-12",
+  "runtime_minutes": 101
+}

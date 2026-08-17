@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caligola_la_storia_mai_raccontata_2004",
+  "title": "Caligola - La storia mai raccontata",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3650754",
+    "imdb": "tt0082133",
+    "tmdb": 148850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-18",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bewitched_child_2004",
+  "title": "The Bewitched Child",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30763173",
+    "imdb": "tt0465978"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 47
+}

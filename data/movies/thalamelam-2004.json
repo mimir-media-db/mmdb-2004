@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thalamelam_2004",
+  "title": "Thalamelam",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19599872",
+    "imdb": "tt0481235",
+    "tmdb": 812487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-30"
+}

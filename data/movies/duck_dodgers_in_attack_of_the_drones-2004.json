@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duck_dodgers_in_attack_of_the_drones_2004",
+  "title": "Duck Dodgers in Attack of the Drones",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85861955",
+    "imdb": "tt0379267",
+    "tmdb": 197233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 7
+}

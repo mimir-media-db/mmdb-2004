@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_soul_2004",
+  "title": "Dirty Soul",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104893911",
+    "imdb": "tt0405893",
+    "tmdb": 252745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-14",
+  "runtime_minutes": 99
+}

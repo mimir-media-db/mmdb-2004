@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_action_man_robot_atak_2004",
+  "title": "Action Man: Robot Atak",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4677119",
+    "imdb": "tt3970146",
+    "tmdb": 53691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-24",
+  "runtime_minutes": 45
+}

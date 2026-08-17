@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babylon_disease_2004",
+  "title": "Babylon Disease",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10424040",
+    "imdb": "tt0400199",
+    "tmdb": 51827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-24",
+  "runtime_minutes": 90
+}

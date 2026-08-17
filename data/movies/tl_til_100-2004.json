@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tl_til_100_2004",
+  "title": "Tæl til 100",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12343471",
+    "imdb": "tt0386835",
+    "tmdb": 16038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-06",
+  "runtime_minutes": 78
+}

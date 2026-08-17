@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_star_appeal_2004",
+  "title": "Star Appeal",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16951192",
+    "imdb": "tt1831832",
+    "tmdb": 308713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-30"
+}

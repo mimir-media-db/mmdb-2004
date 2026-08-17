@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_running_on_karma_2004",
+  "title": "Running on Karma",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q832366",
+    "imdb": "tt0374184",
+    "tmdb": 32233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-02",
+  "runtime_minutes": 93
+}

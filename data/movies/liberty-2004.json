@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_liberty_2004",
+  "title": "Liberty!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6541507",
+    "imdb": "tt0129692"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-26",
+  "runtime_minutes": 360
+}

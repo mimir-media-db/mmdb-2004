@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cheaper_by_the_dozen_2004",
+  "title": "Cheaper by the Dozen",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q822930",
+    "imdb": "tt0349205",
+    "tmdb": 11007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-25",
+  "runtime_minutes": 95
+}

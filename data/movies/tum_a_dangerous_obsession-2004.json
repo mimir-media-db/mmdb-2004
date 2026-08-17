@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tum_a_dangerous_obsession_2004",
+  "title": "Tum – A Dangerous Obsession",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15632400",
+    "imdb": "tt0402607",
+    "tmdb": 105049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anchorman_the_legend_of_ron_burgundy_2004",
+  "title": "Anchorman: The Legend of Ron Burgundy",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q467076",
+    "imdb": "tt0357413",
+    "tmdb": 8699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-28",
+  "runtime_minutes": 95
+}

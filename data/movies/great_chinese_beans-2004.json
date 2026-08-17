@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_chinese_beans_2004",
+  "title": "The Great Chinese Beans",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5465614",
+    "imdb": "tt0422265",
+    "tmdb": 455657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-08"
+}

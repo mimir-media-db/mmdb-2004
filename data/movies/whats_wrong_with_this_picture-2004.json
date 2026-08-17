@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_wrong_with_this_picture_2004",
+  "title": "What's Wrong with This Picture",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12339350",
+    "imdb": "tt0386740",
+    "tmdb": 160805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-13",
+  "runtime_minutes": 94
+}

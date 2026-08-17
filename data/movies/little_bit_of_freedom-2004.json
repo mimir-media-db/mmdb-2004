@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_bit_of_freedom_2004",
+  "title": "A Little Bit of Freedom",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6420222",
+    "imdb": "tt0349688",
+    "tmdb": 214691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-15",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_locker_2004",
+  "title": "The Locker",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39086027",
+    "imdb": "tt0475147",
+    "tmdb": 167972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-12"
+}

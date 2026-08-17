@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nuit_noire_2004",
+  "title": "Nuit noire",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22077194",
+    "imdb": "tt0334025",
+    "tmdb": 578688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

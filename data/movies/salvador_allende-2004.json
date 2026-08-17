@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salvador_allende_2004",
+  "title": "Salvador Allende",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3470322",
+    "imdb": "tt0418129",
+    "tmdb": 72553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-05-13",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_scene_jammin_in_jamaica_2004",
+  "title": "My Scene: Jammin' in Jamaica",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16954603",
+    "imdb": "tt0855009",
+    "tmdb": 397855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

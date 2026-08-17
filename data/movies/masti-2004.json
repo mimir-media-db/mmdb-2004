@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masti_2004",
+  "title": "Masti",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1411281",
+    "imdb": "tt0406977",
+    "tmdb": 76684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-09",
+  "runtime_minutes": 166
+}

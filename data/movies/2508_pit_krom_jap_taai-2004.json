@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2508_pit_krom_jap_taai_2004",
+  "title": "2508 pit krom jap taai",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13012292",
+    "imdb": "tt0817879",
+    "tmdb": 140553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 80
+}

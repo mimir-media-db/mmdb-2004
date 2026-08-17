@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_through_my_thick_glasses_2004",
+  "title": "Through My Thick Glasses",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17776235",
+    "imdb": "tt0421260",
+    "tmdb": 247176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

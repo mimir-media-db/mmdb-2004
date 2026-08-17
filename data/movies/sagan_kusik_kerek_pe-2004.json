@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sagan_kusik_kerek_pe_2004",
+  "title": "Sağan küşik kerek pe?",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111457862",
+    "imdb": "tt0438387",
+    "tmdb": 1165824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 60
+}

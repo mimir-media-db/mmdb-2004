@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_today_2004",
+  "title": "Love Today",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65320284",
+    "imdb": "tt1285126",
+    "tmdb": 307962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-05"
+}

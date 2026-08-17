@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freediver_2004",
+  "title": "The Freediver",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16934881",
+    "imdb": "tt0379790",
+    "tmdb": 160451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

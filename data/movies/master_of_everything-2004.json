@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_master_of_everything_2004",
+  "title": "Master of Everything",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20379738",
+    "imdb": "tt0404808",
+    "tmdb": 311086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

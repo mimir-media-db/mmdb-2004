@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agnes_and_his_brothers_2004",
+  "title": "Agnes and His Brothers",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q394674",
+    "imdb": "tt0389738",
+    "tmdb": 1925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-05",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_envy_2004",
+  "title": "Envy",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1746750",
+    "imdb": "tt0326856",
+    "tmdb": 10710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-30",
+  "runtime_minutes": 99
+}

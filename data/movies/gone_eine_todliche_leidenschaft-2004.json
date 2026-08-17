@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gone_eine_todliche_leidenschaft_2004",
+  "title": "Gone – Eine tödliche Leidenschaft",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15857822",
+    "imdb": "tt0396038",
+    "tmdb": 370873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 84
+}

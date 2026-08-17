@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heat_team_2004",
+  "title": "Heat Team",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15930925",
+    "imdb": "tt0373906",
+    "tmdb": 45420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 99
+}

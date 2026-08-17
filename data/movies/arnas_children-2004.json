@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arnas_children_2004",
+  "title": "Arna's Children",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2920407",
+    "imdb": "tt0408504",
+    "tmdb": 137755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-20",
+  "runtime_minutes": 84
+}

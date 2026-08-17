@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_downtown_switzerland_2004",
+  "title": "Downtown Switzerland",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20012437",
+    "imdb": "tt0432399",
+    "tmdb": 748820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 94
+}

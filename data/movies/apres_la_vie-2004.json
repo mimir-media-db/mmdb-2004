@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apres_la_vie_2004",
+  "title": "Après la vie",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1587454",
+    "imdb": "tt0233230",
+    "tmdb": 44674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-29",
+  "runtime_minutes": 124
+}

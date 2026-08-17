@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caspion_2004",
+  "title": "Caspion",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124325634",
+    "imdb": "tt0961179",
+    "tmdb": 1106992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-09",
+  "runtime_minutes": 35
+}

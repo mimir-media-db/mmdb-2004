@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cabin_movie_2004",
+  "title": "The Cabin Movie",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96408514",
+    "imdb": "tt0477419",
+    "tmdb": 63843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

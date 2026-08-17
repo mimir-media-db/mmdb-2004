@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paul_mccartney_music_animation_2004",
+  "title": "Paul McCartney: Music & Animation",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7152308",
+    "imdb": "tt1258166",
+    "tmdb": 537228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-13"
+}

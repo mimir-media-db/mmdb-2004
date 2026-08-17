@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swept_away_2004",
+  "title": "Swept Away",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1365",
+    "imdb": "tt0073817",
+    "tmdb": 37916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-06",
+  "runtime_minutes": 114
+}

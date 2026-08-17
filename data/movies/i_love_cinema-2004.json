@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_cinema_2004",
+  "title": "I Love Cinema",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5010208",
+    "imdb": "tt0419473",
+    "tmdb": 193422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-09"
+}

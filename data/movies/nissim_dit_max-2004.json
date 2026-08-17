@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nissim_dit_max_2004",
+  "title": "Nissim dit Max",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494139",
+    "imdb": "tt0425300",
+    "tmdb": 845109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

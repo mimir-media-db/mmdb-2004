@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_camera_the_unauthorized_story_of_charlies_angels_2004",
+  "title": "Behind the Camera: The Unauthorized Story of Charlie's Angels",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52151198",
+    "imdb": "tt0383915",
+    "tmdb": 45388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

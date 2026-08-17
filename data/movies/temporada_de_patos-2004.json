@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_temporada_de_patos_2004",
+  "title": "Temporada de patos",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1551169",
+    "imdb": "tt0407246",
+    "tmdb": 34207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-22",
+  "runtime_minutes": 84
+}

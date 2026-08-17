@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nuhr_vom_feinsten_2004",
+  "title": "Nuhr vom Feinsten",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51089117",
+    "tmdb": 164273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

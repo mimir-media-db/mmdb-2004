@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confessions_of_a_teenage_drama_queen_2004",
+  "title": "Confessions of a Teenage Drama Queen",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q246228",
+    "imdb": "tt0361467",
+    "tmdb": 11132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-20",
+  "runtime_minutes": 90
+}

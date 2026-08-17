@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_eternal_while_it_lasts_2004",
+  "title": "Love Is Eternal While It Lasts",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3818521",
+    "imdb": "tt0402764",
+    "tmdb": 22728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-20",
+  "runtime_minutes": 110
+}

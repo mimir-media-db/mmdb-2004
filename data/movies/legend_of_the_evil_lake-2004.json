@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_evil_lake_2004",
+  "title": "The Legend of the Evil Lake",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q491863",
+    "imdb": "tt0377633",
+    "tmdb": 41853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-30",
+  "runtime_minutes": 92
+}

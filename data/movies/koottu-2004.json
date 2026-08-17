@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koottu_2004",
+  "title": "Koottu",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18126925",
+    "imdb": "tt0466304",
+    "tmdb": 534674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

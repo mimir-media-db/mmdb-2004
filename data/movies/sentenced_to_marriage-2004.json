@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sentenced_to_marriage_2004",
+  "title": "Sentenced to Marriage",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837100",
+    "imdb": "tt0428816",
+    "tmdb": 888463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 60
+}

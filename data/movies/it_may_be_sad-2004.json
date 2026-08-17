@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_may_be_sad_2004",
+  "title": "It May Be Sad",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17223483",
+    "imdb": "tt0882803",
+    "tmdb": 605233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sacred_planet_2004",
+  "title": "Sacred Planet",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7397307",
+    "imdb": "tt0353965",
+    "tmdb": 66860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-22"
+}

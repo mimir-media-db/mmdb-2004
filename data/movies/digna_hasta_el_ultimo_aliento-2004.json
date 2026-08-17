@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_digna_hasta_el_ultimo_aliento_2004",
+  "title": "Digna... hasta el último aliento",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5276312",
+    "imdb": "tt0419690",
+    "tmdb": 276637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-17",
+  "runtime_minutes": 117
+}
