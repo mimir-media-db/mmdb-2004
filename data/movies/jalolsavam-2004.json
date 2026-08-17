@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jalolsavam_2004",
+  "title": "Jalolsavam",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18385231",
+    "imdb": "tt0396664",
+    "tmdb": 351640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

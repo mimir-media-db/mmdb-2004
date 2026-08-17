@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_for_today_2004",
+  "title": "Just for Today",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47530501",
+    "imdb": "tt0243569",
+    "tmdb": 287049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-26",
+  "runtime_minutes": 100
+}

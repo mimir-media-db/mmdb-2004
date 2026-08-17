@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jiminy_glick_in_lalawood_2004",
+  "title": "Jiminy Glick in Lalawood",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3178984",
+    "imdb": "tt0347369",
+    "tmdb": 67445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-18",
+  "runtime_minutes": 90
+}
