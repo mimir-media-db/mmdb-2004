@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_remains_of_us_2004",
+  "title": "What Remains of Us",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1002495",
+    "imdb": "tt0420541",
+    "tmdb": 148318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woh_tera_naam_tha_2004",
+  "title": "Woh Tera Naam Tha",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8029079",
+    "imdb": "tt0386121",
+    "tmdb": 301087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

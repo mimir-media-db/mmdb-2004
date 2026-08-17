@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_working_slowly_radio_alice_2004",
+  "title": "Working Slowly (Radio Alice)",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3828079",
+    "imdb": "tt0422621",
+    "tmdb": 57626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 111
+}

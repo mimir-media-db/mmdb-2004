@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wake_up_ron_burgundy_the_lost_movie_2004",
+  "title": "Wake Up, Ron Burgundy: The Lost Movie",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3018278",
+    "imdb": "tt0423505",
+    "tmdb": 9965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 93
+}

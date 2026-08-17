@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wait_til_this_year_2004",
+  "title": "Wait 'til This Year",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7960371",
+    "imdb": "tt0486512"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

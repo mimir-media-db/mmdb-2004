@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_word_wars_2004",
+  "title": "Word Wars",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8034312",
+    "imdb": "tt0390632",
+    "tmdb": 28105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wicker_park_2004",
+  "title": "Wicker Park",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q603494",
+    "imdb": "tt0324554",
+    "tmdb": 11208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 114
+}

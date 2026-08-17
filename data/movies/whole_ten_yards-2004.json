@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whole_ten_yards_2004",
+  "title": "The Whole Ten Yards",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q584690",
+    "imdb": "tt0327247",
+    "tmdb": 2122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 98
+}

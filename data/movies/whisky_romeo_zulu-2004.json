@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whisky_romeo_zulu_2004",
+  "title": "Whisky Romeo Zulu",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7993913",
+    "imdb": "tt0356487",
+    "tmdb": 23434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 105
+}
