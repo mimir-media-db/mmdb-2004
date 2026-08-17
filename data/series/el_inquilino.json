@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_inquilino",
+  "title": "El inquilino",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q2888895",
+    "imdb": "tt0424658",
+    "tmdb": 63321
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

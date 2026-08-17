@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_vuelo_de_la_cometa",
+  "title": "El vuelo de la cometa",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q121734243",
+    "imdb": "tt0816410"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 120
+}

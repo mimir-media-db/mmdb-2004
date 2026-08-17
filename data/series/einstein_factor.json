@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_einstein_factor",
+  "title": "The Einstein Factor",
+  "start_year": 2004,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7731673",
+    "imdb": "tt0398455",
+    "tmdb": 2503
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 244
+}

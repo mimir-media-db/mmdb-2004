@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_eva_del_eden",
+  "title": "Eva del Edén",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5415213",
+    "imdb": "tt0401929"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_einmal_bulle_immer_bulle",
+  "title": "Einmal Bulle, immer Bulle",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19971625",
+    "imdb": "tt0362340",
+    "tmdb": 64027
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}
