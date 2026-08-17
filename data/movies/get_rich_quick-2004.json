@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_rich_quick_2004",
+  "title": "Get Rich Quick",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600741",
+    "imdb": "tt0419774",
+    "tmdb": 253094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 86
+}

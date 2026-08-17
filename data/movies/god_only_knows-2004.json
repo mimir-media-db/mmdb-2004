@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_only_knows_2004",
+  "title": "God Only Knows!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124527517",
+    "imdb": "tt0398404",
+    "tmdb": 918915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-23",
+  "runtime_minutes": 113
+}
