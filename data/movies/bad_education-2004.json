@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_education_2004",
+  "title": "Bad Education",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q844819",
+    "imdb": "tt0275491",
+    "tmdb": 140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-19",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barsa_my_darling_2004",
+  "title": "Barsa My Darling",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15724747",
+    "imdb": "tt1459836",
+    "tmdb": 1096933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

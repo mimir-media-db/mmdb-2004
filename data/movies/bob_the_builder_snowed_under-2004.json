@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bob_the_builder_snowed_under_2004",
+  "title": "Bob the Builder: Snowed Under",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128601183",
+    "imdb": "tt0863059",
+    "tmdb": 62530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 52
+}

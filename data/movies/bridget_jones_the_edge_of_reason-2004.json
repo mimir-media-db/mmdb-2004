@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bridget_jones_the_edge_of_reason_2004",
+  "title": "Bridget Jones: The Edge of Reason",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q843612",
+    "imdb": "tt0317198",
+    "tmdb": 9801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-08",
+  "runtime_minutes": 104
+}

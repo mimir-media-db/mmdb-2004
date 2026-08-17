@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_sunset_2004",
+  "title": "Before Sunset",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q652186",
+    "imdb": "tt0381681",
+    "tmdb": 80
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-10",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_basse_normandie_2004",
+  "title": "Basse Normandie",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28496882",
+    "imdb": "tt0415593",
+    "tmdb": 476939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

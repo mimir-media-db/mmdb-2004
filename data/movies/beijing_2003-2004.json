@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beijing_2003_2004",
+  "title": "Beijing 2003",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61055735",
+    "imdb": "tt2355497",
+    "tmdb": 197299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

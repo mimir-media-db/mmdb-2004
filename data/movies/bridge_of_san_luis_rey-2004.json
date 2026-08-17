@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bridge_of_san_luis_rey_2004",
+  "title": "The Bridge of San Luis Rey",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1211798",
+    "imdb": "tt0356443",
+    "tmdb": 45881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-22",
+  "runtime_minutes": 120
+}
