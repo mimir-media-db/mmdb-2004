@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_araguaya_a_conspiracao_do_silencio_2004",
+  "title": "Araguaya - A Conspiração do Silêncio",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16493259",
+    "imdb": "tt0421631",
+    "tmdb": 249576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 105
+}

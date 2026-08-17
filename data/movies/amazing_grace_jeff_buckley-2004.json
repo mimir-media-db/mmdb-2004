@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amazing_grace_jeff_buckley_2004",
+  "title": "Amazing Grace: Jeff Buckley",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4740801",
+    "imdb": "tt0429570",
+    "tmdb": 97213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-16",
+  "runtime_minutes": 60
+}

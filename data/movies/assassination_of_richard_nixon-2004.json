@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assassination_of_richard_nixon_2004",
+  "title": "The Assassination of Richard Nixon",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q757976",
+    "imdb": "tt0364961",
+    "tmdb": 842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-05-17",
+  "runtime_minutes": 91
+}

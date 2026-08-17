@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aquarium_2004",
+  "title": "Aquarium",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23309085",
+    "imdb": "tt0482159",
+    "tmdb": 275614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

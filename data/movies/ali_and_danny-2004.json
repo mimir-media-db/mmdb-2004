@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_and_danny_2004",
+  "title": "Ali and Danny",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755935",
+    "imdb": "tt0385501",
+    "tmdb": 1235126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-20",
+  "runtime_minutes": 98
+}

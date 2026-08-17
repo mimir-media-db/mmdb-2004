@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alibaba_aur_40_chor_2004",
+  "title": "Alibaba Aur 40 Chor",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120669256",
+    "imdb": "tt1238718",
+    "tmdb": 196837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-10",
+  "runtime_minutes": 121
+}

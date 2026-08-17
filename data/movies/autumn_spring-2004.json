@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autumn_spring_2004",
+  "title": "Autumn Spring",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q976119",
+    "imdb": "tt0286476",
+    "tmdb": 15920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-29",
+  "runtime_minutes": 95
+}

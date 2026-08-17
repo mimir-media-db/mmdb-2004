@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asshak_tales_from_the_sahara_2004",
+  "title": "Asshak - Tales from the Sahara",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2254612",
+    "imdb": "tt0412099",
+    "tmdb": 180518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-24",
+  "runtime_minutes": 109
+}
