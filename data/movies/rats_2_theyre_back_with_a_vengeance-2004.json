@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rats_2_theyre_back_with_a_vengeance_2004",
+  "title": "Rats 2: They're Back With a Vengeance",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24730183",
+    "imdb": "tt0388362",
+    "tmdb": 10980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

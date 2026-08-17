@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_route_66_ein_amerikanischer_albtraum_2004",
+  "title": "Route 66 - ein amerikanischer albTraum",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124429674",
+    "imdb": "tt0419100",
+    "tmdb": 4936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 105
+}

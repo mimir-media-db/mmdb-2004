@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roads_to_koktebel_2004",
+  "title": "Roads to Koktebel",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q453838",
+    "imdb": "tt0372366",
+    "tmdb": 49653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-03",
+  "runtime_minutes": 102
+}

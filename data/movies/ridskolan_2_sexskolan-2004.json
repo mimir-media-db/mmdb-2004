@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ridskolan_2_sexskolan_2004",
+  "title": "Ridskolan 2: Sexskolan",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132192836",
+    "imdb": "tt0355956",
+    "tmdb": 920369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 2
+}
