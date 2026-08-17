@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_date_my_mom",
+  "title": "Date My Mom",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q439575",
+    "imdb": "tt0435565",
+    "tmdb": 10507
+  },
+  "last_updated": "2026-08-17"
+}

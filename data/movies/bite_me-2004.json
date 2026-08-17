@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bite_me_2004",
+  "title": "Bite Me!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4918810",
+    "imdb": "tt0414869",
+    "tmdb": 27846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

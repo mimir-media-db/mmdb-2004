@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_story_in_harvard",
+  "title": "Love Story in Harvard",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q486285",
+    "imdb": "tt0439392",
+    "tmdb": 4744
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

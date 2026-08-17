@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sarah_the_teen_princess",
+  "title": "Sarah The Teen Princess",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q12970711",
+    "imdb": "tt0466620",
+    "tmdb": 226576
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 168
+}

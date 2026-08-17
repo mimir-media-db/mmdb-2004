@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aitraaz_2004",
+  "title": "Aitraaz",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3413700",
+    "imdb": "tt0418460",
+    "tmdb": 22315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 159
+}

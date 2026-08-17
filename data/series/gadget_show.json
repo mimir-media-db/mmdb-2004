@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gadget_show",
+  "title": "The Gadget Show",
+  "start_year": 2004,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q2344874",
+    "imdb": "tt0830851",
+    "tmdb": 4225
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 28,
+  "total_episodes": 468
+}

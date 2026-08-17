@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_good_sunday",
+  "title": "Good Sunday",
+  "start_year": 2004,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q484345"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 664
+}

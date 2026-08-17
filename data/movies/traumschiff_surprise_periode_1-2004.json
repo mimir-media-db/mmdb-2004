@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_traumschiff_surprise_periode_1_2004",
+  "title": "(T)Raumschiff Surprise – Periode 1",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q158571",
+    "imdb": "tt0349047",
+    "tmdb": 9805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 83
+}

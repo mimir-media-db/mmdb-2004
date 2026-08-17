@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twelve_chairs_2004",
+  "title": "The Twelve Chairs",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4155677",
+    "imdb": "tt0420344",
+    "tmdb": 273890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 200
+}

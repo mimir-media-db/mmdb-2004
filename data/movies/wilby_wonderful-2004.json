@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wilby_wonderful_2004",
+  "title": "Wilby Wonderful",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3050405",
+    "imdb": "tt0383717",
+    "tmdb": 38349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 99
+}

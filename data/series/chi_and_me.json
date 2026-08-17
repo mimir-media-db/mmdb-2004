@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chi_and_me",
+  "title": "Chi and Me",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5095115",
+    "imdb": "tt12435026"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 95
+}

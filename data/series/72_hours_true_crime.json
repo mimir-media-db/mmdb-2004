@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_72_hours_true_crime",
+  "title": "72 Hours: True Crime",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4643189",
+    "imdb": "tt0370099",
+    "tmdb": 14874
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 46
+}

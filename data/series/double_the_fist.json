@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_double_the_fist",
+  "title": "Double the Fist",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5300102",
+    "imdb": "tt0480779",
+    "tmdb": 2069
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

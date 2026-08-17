@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plagues_pleasures_on_the_salton_sea_2004",
+  "title": "Plagues & Pleasures on the Salton Sea",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7200574",
+    "imdb": "tt0438327",
+    "tmdb": 26120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_memory_bank",
+  "title": "Memory Bank",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6815655"
+  },
+  "last_updated": "2026-08-17"
+}

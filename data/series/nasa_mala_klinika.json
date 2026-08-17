@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nasa_mala_klinika",
+  "title": "Naša mala klinika",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1249383",
+    "imdb": "tt0439385",
+    "tmdb": 287126
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 112
+}

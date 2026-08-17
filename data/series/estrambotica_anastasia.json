@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_estrambotica_anastasia",
+  "title": "Estrambotica Anastasia",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1248724",
+    "imdb": "tt0401928",
+    "tmdb": 135500
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 146
+}

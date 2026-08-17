@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kleinruppin_forever_2004",
+  "title": "Kleinruppin Forever",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q324144",
+    "imdb": "tt0362804",
+    "tmdb": 11346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 103
+}

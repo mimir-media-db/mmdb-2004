@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nitaboh_2004",
+  "title": "Nitaboh",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2679986",
+    "imdb": "tt1863338",
+    "tmdb": 20062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}

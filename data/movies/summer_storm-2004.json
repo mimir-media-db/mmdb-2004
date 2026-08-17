@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_storm_2004",
+  "title": "Summer Storm",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q702374",
+    "imdb": "tt0420206",
+    "tmdb": 342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 98
+}

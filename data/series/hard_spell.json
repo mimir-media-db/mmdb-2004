@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hard_spell",
+  "title": "Hard Spell",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5655394",
+    "imdb": "tt0498619",
+    "tmdb": 6295
+  },
+  "last_updated": "2026-08-17"
+}

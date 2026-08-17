@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_up_to_our_necks_2004",
+  "title": "Up to our Necks",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7898138",
+    "imdb": "tt6512190",
+    "tmdb": 1537601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

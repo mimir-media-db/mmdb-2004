@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kikansha_sensei_2004",
+  "title": "Kikansha Sensei",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6406211",
+    "imdb": "tt0492662",
+    "tmdb": 301506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

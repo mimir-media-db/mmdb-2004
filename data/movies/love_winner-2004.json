@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_winner_2004",
+  "title": "The Love Winner",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7748990",
+    "imdb": "tt1258181",
+    "tmdb": 240089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

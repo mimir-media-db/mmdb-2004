@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_comecar_de_novo",
+  "title": "Começar de Novo",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5151658",
+    "imdb": "tt0420382",
+    "tmdb": 58598
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 196
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_and_me_2004",
+  "title": "The Prince and Me",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1196277",
+    "imdb": "tt0337697",
+    "tmdb": 11137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 105
+}

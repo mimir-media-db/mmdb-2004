@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_space_odyssey_the_robot_pioneers_2004",
+  "title": "Space Odyssey: The Robot Pioneers",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4234988",
+    "imdb": "tt0434352"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 50
+}

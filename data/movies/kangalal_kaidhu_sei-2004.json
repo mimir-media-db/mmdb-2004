@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kangalal_kaidhu_sei_2004",
+  "title": "Kangalal Kaidhu Sei",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6362416",
+    "imdb": "tt0375889",
+    "tmdb": 333774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

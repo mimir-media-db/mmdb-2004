@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_british_isles_a_natural_history",
+  "title": "British Isles – A Natural History",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4970173",
+    "imdb": "tt0426655",
+    "tmdb": 16594
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

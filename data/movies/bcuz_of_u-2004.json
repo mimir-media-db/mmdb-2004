@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bcuz_of_u_2004",
+  "title": "Bcuz of U",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4875412",
+    "imdb": "tt0439458",
+    "tmdb": 111408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

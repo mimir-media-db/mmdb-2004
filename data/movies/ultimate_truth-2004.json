@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ultimate_truth_2004",
+  "title": "The Ultimate Truth",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7771226",
+    "imdb": "tt0418267"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

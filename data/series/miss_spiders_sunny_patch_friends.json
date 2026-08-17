@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_spiders_sunny_patch_friends",
+  "title": "Miss Spider's Sunny Patch Friends",
+  "start_year": 2004,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2077667",
+    "imdb": "tt0428138",
+    "tmdb": 13287
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 65
+}

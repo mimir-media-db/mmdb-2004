@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_spirits",
+  "title": "Spirits",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7578074",
+    "imdb": "tt0435992",
+    "tmdb": 1186
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 107
+}

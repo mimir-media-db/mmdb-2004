@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mila_from_mars_2004",
+  "title": "Mila from Mars",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6850362",
+    "imdb": "tt0416032",
+    "tmdb": 113054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

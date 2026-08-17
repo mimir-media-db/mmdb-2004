@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fraulein_phyllis_2004",
+  "title": "Fräulein Phyllis",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1471330",
+    "imdb": "tt0439579",
+    "tmdb": 375153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 82
+}

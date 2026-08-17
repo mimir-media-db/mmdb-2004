@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kryminalni",
+  "title": "Kryminalni",
+  "start_year": 2004,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3503020",
+    "imdb": "tt0466515",
+    "tmdb": 15296
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zeeoui_2004",
+  "title": "Zee-Oui",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q184363",
+    "imdb": "tt0471977",
+    "tmdb": 143377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 86
+}

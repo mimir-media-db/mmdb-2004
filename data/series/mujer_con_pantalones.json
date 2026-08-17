@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mujer_con_pantalones",
+  "title": "Mujer con pantalones",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6025966",
+    "imdb": "tt0426755",
+    "tmdb": 59867
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 130
+}

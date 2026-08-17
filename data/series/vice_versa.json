@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vice_versa",
+  "title": "Vice versa",
+  "start_year": 2004,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3556904",
+    "imdb": "tt0423764",
+    "tmdb": 100362
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

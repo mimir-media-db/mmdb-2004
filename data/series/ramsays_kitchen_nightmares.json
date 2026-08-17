@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ramsays_kitchen_nightmares",
+  "title": "Ramsay's Kitchen Nightmares",
+  "start_year": 2004,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1538095",
+    "imdb": "tt0409608",
+    "tmdb": 2178
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 35
+}

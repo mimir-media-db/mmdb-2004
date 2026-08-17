@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_days",
+  "title": "The Days",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3520530",
+    "imdb": "tt0413559",
+    "tmdb": 10164
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_battlefields_2004",
+  "title": "In the Battlefields",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q429780",
+    "imdb": "tt0415955",
+    "tmdb": 125741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

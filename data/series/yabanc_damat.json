@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_yabanc_damat",
+  "title": "Yabancı Damat",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3394733",
+    "imdb": "tt0434735",
+    "tmdb": 15576
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 106
+}

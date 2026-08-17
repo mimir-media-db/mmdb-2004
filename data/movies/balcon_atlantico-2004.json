@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balcon_atlantico_2004",
+  "title": "Balcon atlantico",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5717158",
+    "imdb": "tt0396479",
+    "tmdb": 1497974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 20
+}

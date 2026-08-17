@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_vie_revee_de_mario_jean",
+  "title": "La Vie rêvée de Mario Jean",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3213708",
+    "imdb": "tt0401076",
+    "tmdb": 121211
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_90210",
+  "title": "Dr. 90210",
+  "start_year": 2004,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2559315",
+    "imdb": "tt0418383",
+    "tmdb": 3360
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_complete_savages",
+  "title": "Complete Savages",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2604598",
+    "imdb": "tt0411024",
+    "tmdb": 1736
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 19
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zwei_manner_und_ein_baby_2004",
+  "title": "Zwei Männer und ein Baby",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q232088",
+    "imdb": "tt0419287",
+    "tmdb": 226765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

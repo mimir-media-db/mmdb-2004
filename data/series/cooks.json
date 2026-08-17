@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cooks",
+  "title": "The Cooks",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7727548",
+    "imdb": "tt0397772",
+    "tmdb": 4144
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

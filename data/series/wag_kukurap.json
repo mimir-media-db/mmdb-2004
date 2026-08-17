@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wag_kukurap",
+  "title": "Wag Kukurap",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7959453",
+    "imdb": "tt0484020",
+    "tmdb": 15233
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 132
+}

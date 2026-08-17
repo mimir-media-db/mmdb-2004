@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bone_sickness_2004",
+  "title": "Bone Sickness",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q892296",
+    "imdb": "tt0433346",
+    "tmdb": 39909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 98
+}

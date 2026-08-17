@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_curiosity_quest",
+  "title": "Curiosity Quest",
+  "start_year": 2004,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16834297",
+    "imdb": "tt2194853",
+    "tmdb": 201775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 137
+}

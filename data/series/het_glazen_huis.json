@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_het_glazen_huis",
+  "title": "Het Glazen Huis",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3313264",
+    "imdb": "tt0429364"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

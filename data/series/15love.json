@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_15love",
+  "title": "15/Love",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q777734",
+    "imdb": "tt0377134",
+    "tmdb": 2200
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 54
+}

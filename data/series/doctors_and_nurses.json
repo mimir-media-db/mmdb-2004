@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doctors_and_nurses",
+  "title": "Doctors and Nurses",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5287567",
+    "imdb": "tt0395387",
+    "tmdb": 16800
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

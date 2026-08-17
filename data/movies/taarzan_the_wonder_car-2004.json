@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taarzan_the_wonder_car_2004",
+  "title": "Taarzan: The Wonder Car",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3427443",
+    "imdb": "tt0435437",
+    "tmdb": 277229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 163
+}

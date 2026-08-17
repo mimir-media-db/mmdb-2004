@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gagamboy_2004",
+  "title": "Gagamboy",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5516792",
+    "imdb": "tt0392023",
+    "tmdb": 106926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}

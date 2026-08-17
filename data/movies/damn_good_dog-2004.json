@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_damn_good_dog_2004",
+  "title": "Damn Good Dog",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5212705",
+    "imdb": "tt0426435",
+    "tmdb": 566699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

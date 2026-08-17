@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_het_geslacht_de_pauw",
+  "title": "Het Geslacht De Pauw",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2001630",
+    "imdb": "tt0466415",
+    "tmdb": 38506
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}

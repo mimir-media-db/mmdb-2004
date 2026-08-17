@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_aspe",
+  "title": "Aspe",
+  "start_year": 2004,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2302505",
+    "imdb": "tt0379609",
+    "tmdb": 30639
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 127
+}

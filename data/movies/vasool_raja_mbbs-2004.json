@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vasool_raja_mbbs_2004",
+  "title": "Vasool Raja MBBS",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7916881",
+    "imdb": "tt0423470",
+    "tmdb": 48760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

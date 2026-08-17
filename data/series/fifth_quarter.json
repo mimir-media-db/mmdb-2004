@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fifth_quarter",
+  "title": "The Fifth Quarter",
+  "start_year": 2004,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7733770",
+    "imdb": "tt2146842"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 208
+}

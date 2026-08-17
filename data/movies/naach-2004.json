@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naach_2004",
+  "title": "Naach",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q446129",
+    "imdb": "tt0433605",
+    "tmdb": 117357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 150
+}

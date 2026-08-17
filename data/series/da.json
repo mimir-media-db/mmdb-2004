@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_da",
+  "title": "The D.A.",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7728566",
+    "imdb": "tt0397139",
+    "tmdb": 25795
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

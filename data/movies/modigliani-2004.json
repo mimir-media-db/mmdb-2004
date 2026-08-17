@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_modigliani_2004",
+  "title": "Modigliani",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2337365",
+    "imdb": "tt0367188",
+    "tmdb": 34308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 120
+}

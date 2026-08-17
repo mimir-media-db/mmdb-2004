@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_coolest_years",
+  "title": "My Coolest Years",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q16163063",
+    "imdb": "tt0437735",
+    "tmdb": 6173
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

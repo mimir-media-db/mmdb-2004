@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shadow_of_the_elves",
+  "title": "Shadow of the Elves",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1940202",
+    "imdb": "tt1108602",
+    "tmdb": 92880
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

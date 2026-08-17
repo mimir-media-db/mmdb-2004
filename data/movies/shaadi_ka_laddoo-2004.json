@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shaadi_ka_laddoo_2004",
+  "title": "Shaadi Ka Laddoo",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7459908",
+    "imdb": "tt0414503",
+    "tmdb": 331695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

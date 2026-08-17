@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_this_world",
+  "title": "This World",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7786400",
+    "imdb": "tt1597701",
+    "tmdb": 47432
+  },
+  "last_updated": "2026-08-17"
+}

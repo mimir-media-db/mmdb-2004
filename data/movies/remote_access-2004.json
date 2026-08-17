@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remote_access_2004",
+  "title": "Remote access",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3932523",
+    "imdb": "tt0423433",
+    "tmdb": 48590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_on_the_side_2004",
+  "title": "Love on the Side",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1872432",
+    "imdb": "tt0384037",
+    "tmdb": 46869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 102
+}

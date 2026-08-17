@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_creationnisme_2004",
+  "title": "Créationnisme",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1684525",
+    "imdb": "tt0388458",
+    "tmdb": 11394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 80
+}

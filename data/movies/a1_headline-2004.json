@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_a1_headline_2004",
+  "title": "A-1 Headline",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4646856",
+    "imdb": "tt0440003",
+    "tmdb": 79434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

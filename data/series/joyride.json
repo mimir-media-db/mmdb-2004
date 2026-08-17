@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_joyride",
+  "title": "Joyride",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6297816",
+    "imdb": "tt0827597",
+    "tmdb": 4129
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 150
+}

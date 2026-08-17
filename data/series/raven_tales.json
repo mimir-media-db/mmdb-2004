@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_raven_tales",
+  "title": "Raven Tales",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130342790",
+    "imdb": "tt1229461"
+  },
+  "last_updated": "2026-08-17"
+}

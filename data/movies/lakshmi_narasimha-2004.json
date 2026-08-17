@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lakshmi_narasimha_2004",
+  "title": "Lakshmi Narasimha",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6479888",
+    "imdb": "tt0929613",
+    "tmdb": 81078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

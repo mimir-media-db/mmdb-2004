@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_phoenix",
+  "title": "The Phoenix",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q485794",
+    "imdb": "tt0462645",
+    "tmdb": 4694
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

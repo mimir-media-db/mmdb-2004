@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_dear_moon_2004",
+  "title": "Goodbye Dear Moon",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5583262",
+    "imdb": "tt0307922",
+    "tmdb": 127237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 98
+}

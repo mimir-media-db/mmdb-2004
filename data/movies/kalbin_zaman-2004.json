@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalbin_zaman_2004",
+  "title": "Kalbin Zamanı",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6084872",
+    "imdb": "tt0423584",
+    "tmdb": 512592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

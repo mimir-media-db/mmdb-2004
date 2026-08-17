@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_salems_lot",
+  "title": "Salem's Lot",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q727223",
+    "imdb": "tt0355987",
+    "tmdb": 19531
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

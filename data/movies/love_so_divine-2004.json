@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_so_divine_2004",
+  "title": "Love, So Divine",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6690132",
+    "imdb": "tt0419135",
+    "tmdb": 49201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 105
+}

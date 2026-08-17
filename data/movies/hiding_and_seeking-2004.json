@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hiding_and_seeking_2004",
+  "title": "Hiding and Seeking",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5752862",
+    "imdb": "tt0398103",
+    "tmdb": 61484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

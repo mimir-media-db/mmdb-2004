@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_natturajavu_2004",
+  "title": "Natturajavu",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6980380",
+    "imdb": "tt0400679",
+    "tmdb": 280192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

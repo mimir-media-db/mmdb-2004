@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oil_on_ice_2004",
+  "title": "Oil on Ice",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7081434",
+    "imdb": "tt0420036",
+    "tmdb": 188358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

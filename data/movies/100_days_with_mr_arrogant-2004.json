@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_days_with_mr_arrogant_2004",
+  "title": "100 Days with Mr. Arrogant",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q165156",
+    "imdb": "tt0395677",
+    "tmdb": 16632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 96
+}

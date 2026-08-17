@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remains_of_nothing_2004",
+  "title": "The Remains Of Nothing",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795523",
+    "imdb": "tt0170508",
+    "tmdb": 56943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 103
+}

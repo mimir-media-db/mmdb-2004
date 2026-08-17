@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_eletkepek",
+  "title": "Életképek",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20439079",
+    "imdb": "tt0404687",
+    "tmdb": 251716
+  },
+  "last_updated": "2026-08-17"
+}

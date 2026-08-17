@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_illumination_2004",
+  "title": "Illumination",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3148740",
+    "imdb": "tt0348875",
+    "tmdb": 328029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

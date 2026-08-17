@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ouagasaga_2004",
+  "title": "Ouaga-Saga",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7110156",
+    "imdb": "tt0439746",
+    "tmdb": 327951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

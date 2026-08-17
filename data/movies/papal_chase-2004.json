@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_papal_chase_2004",
+  "title": "The Papal Chase",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7756011",
+    "imdb": "tt0443765",
+    "tmdb": 125202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

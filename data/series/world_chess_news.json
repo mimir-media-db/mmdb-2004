@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_world_chess_news",
+  "title": "World Chess News",
+  "start_year": 2004,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8035504"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 391
+}

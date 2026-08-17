@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_von_null_auf_42",
+  "title": "Von Null auf 42",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2533188",
+    "imdb": "tt1333056"
+  },
+  "last_updated": "2026-08-17"
+}

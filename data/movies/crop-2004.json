@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crop_2004",
+  "title": "The Crop",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7728163",
+    "imdb": "tt0416666",
+    "tmdb": 76622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

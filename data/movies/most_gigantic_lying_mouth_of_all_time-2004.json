@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_most_gigantic_lying_mouth_of_all_time_2004",
+  "title": "The Most Gigantic Lying Mouth of All Time",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2526663",
+    "imdb": "tt3794342",
+    "tmdb": 63203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 110
+}

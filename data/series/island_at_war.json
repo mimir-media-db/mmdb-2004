@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_island_at_war",
+  "title": "Island at War",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16848797",
+    "imdb": "tt0401019",
+    "tmdb": 450
+  },
+  "last_updated": "2026-08-17"
+}

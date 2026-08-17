@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mesa_para_tres",
+  "title": "Mesa para tres",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q926166",
+    "imdb": "tt0407415",
+    "tmdb": 18152
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 118
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_vegas",
+  "title": "Dr. Vegas",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3038461",
+    "imdb": "tt0410978",
+    "tmdb": 10461
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

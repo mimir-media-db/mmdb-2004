@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_51_2004",
+  "title": "Alien 51",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4726400",
+    "imdb": "tt0384803",
+    "tmdb": 181425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_take_this_house_and_sell_it",
+  "title": "Take This House and Sell It",
+  "start_year": 2004,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7677802",
+    "imdb": "tt1410220"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 151
+}

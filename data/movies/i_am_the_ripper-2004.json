@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_the_ripper_2004",
+  "title": "I Am the Ripper",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5976216",
+    "imdb": "tt0783736",
+    "tmdb": 69607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

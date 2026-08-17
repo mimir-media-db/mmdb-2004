@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_battlefield_2004",
+  "title": "Love Battlefield",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3264138",
+    "imdb": "tt0431892",
+    "tmdb": 45305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 96
+}

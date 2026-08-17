@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_daylight_2004",
+  "title": "American Daylight",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4743585",
+    "imdb": "tt0382534",
+    "tmdb": 535176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_sos_vos_soy_yo_2004",
+  "title": "No sos vos, soy yo",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2711786",
+    "imdb": "tt0378453",
+    "tmdb": 83266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_casino_cinema",
+  "title": "Casino Cinema",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5048846",
+    "imdb": "tt0453329"
+  },
+  "last_updated": "2026-08-17"
+}

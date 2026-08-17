@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_twin_of_brothers",
+  "title": "Twin of Brothers",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7858344",
+    "imdb": "tt10686792",
+    "tmdb": 6685
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hos_martin",
+  "title": "Hos Martin",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5907141",
+    "imdb": "tt0398487",
+    "tmdb": 7738
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

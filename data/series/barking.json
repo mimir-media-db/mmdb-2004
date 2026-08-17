@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_barking",
+  "title": "Barking!",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4861024",
+    "imdb": "tt0420369",
+    "tmdb": 21278
+  },
+  "last_updated": "2026-08-17"
+}

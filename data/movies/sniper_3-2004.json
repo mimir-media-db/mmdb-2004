@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sniper_3_2004",
+  "title": "Sniper 3",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4425370",
+    "imdb": "tt0408196",
+    "tmdb": 14247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

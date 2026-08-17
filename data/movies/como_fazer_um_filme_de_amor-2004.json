@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_como_fazer_um_filme_de_amor_2004",
+  "title": "Como Fazer Um Filme de Amor",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9828634",
+    "imdb": "tt0427086",
+    "tmdb": 47672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 84
+}

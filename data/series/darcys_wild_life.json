@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_darcys_wild_life",
+  "title": "Darcy's Wild Life",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q730924",
+    "imdb": "tt0423635",
+    "tmdb": 2043
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 33
+}

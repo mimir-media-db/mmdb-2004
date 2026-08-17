@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madhoshi_2004",
+  "title": "Madhoshi",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6727378",
+    "imdb": "tt0430328",
+    "tmdb": 117341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

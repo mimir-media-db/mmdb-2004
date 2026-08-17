@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bow_barracks_forever_2004",
+  "title": "Bow Barracks Forever",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4950611",
+    "imdb": "tt0456320",
+    "tmdb": 275702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blues_room",
+  "title": "Blue's Room",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4928697",
+    "imdb": "tt4650130",
+    "tmdb": 6763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

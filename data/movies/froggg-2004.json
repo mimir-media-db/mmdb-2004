@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_froggg_2004",
+  "title": "Frog-g-g!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5505165",
+    "imdb": "tt0308281",
+    "tmdb": 28738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

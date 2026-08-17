@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_changing_times_2004",
+  "title": "Changing Times",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1062044",
+    "imdb": "tt0399738",
+    "tmdb": 38021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

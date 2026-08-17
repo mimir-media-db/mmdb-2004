@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yasuo_otsukas_joy_in_motion_2004",
+  "title": "Yasuo Ōtsuka’s Joy in Motion",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4025668",
+    "tmdb": 87091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 107
+}

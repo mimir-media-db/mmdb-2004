@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_locas_de_amor",
+  "title": "Locas de amor",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6664741",
+    "imdb": "tt0415435",
+    "tmdb": 4164
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}

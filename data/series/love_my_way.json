@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_my_way",
+  "title": "Love My Way",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q731205",
+    "imdb": "tt0426741",
+    "tmdb": 2324
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

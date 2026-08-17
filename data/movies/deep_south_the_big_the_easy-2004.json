@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_south_the_big_the_easy_2004",
+  "title": "Deep South: the Big, the Easy",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10264707",
+    "imdb": "tt0368674",
+    "tmdb": 54066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

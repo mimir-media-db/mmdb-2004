@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_todos_quieren_con_marilyn",
+  "title": "Todos quieren con Marilyn",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5639160",
+    "imdb": "tt0411033",
+    "tmdb": 136231
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 126
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lakeside_murder_case_2004",
+  "title": "Lakeside Murder Case",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6479126",
+    "imdb": "tt0451790",
+    "tmdb": 62979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 118
+}

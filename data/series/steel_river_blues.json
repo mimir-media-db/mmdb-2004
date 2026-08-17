@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_steel_river_blues",
+  "title": "Steel River Blues",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7605706",
+    "imdb": "tt0423743",
+    "tmdb": 11265
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

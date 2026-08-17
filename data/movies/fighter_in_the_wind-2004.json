@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fighter_in_the_wind_2004",
+  "title": "Fighter in the Wind",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q483017",
+    "imdb": "tt0416499",
+    "tmdb": 21115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 120
+}

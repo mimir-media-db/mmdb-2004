@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pinoy_pop_superstar",
+  "title": "Pinoy Pop Superstar",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7196450",
+    "imdb": "tt0484530",
+    "tmdb": 736
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schlaflosigkeit_insomnia_2004",
+  "title": "Schlaflosigkeit - Insomnia",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4085834",
+    "imdb": "tt0835746",
+    "tmdb": 503195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 7
+}

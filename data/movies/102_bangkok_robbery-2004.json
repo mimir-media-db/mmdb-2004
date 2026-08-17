@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_102_bangkok_robbery_2004",
+  "title": "102 Bangkok Robbery",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q806489",
+    "imdb": "tt0495570",
+    "tmdb": 89489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 89
+}

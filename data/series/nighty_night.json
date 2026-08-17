@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nighty_night",
+  "title": "Nighty Night",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3876813",
+    "imdb": "tt0395404",
+    "tmdb": 202
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

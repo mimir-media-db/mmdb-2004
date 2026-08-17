@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_oracle",
+  "title": "Dark Oracle",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2776921",
+    "imdb": "tt0437711",
+    "tmdb": 599
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

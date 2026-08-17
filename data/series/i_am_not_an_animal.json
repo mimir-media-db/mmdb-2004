@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_not_an_animal",
+  "title": "I Am Not an Animal",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5976033",
+    "imdb": "tt0348943",
+    "tmdb": 100
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

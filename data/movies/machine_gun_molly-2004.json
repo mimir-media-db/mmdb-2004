@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_machine_gun_molly_2004",
+  "title": "Machine Gun Molly",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q972191",
+    "imdb": "tt0385878",
+    "tmdb": 71044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

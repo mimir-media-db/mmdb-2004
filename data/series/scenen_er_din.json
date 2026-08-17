@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scenen_er_din",
+  "title": "Scenen er din",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7430768",
+    "imdb": "tt0425714",
+    "tmdb": 5075
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mensonges_et_trahisons_et_plus_si_affinites_2004",
+  "title": "Mensonges et trahisons et plus si affinités...",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2363499",
+    "imdb": "tt0383025",
+    "tmdb": 10271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

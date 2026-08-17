@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adi_thadi_2004",
+  "title": "Adi Thadi",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4682623",
+    "imdb": "tt2325509",
+    "tmdb": 856110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

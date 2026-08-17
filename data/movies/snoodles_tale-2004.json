@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snoodles_tale_2004",
+  "title": "A Snoodle's Tale",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4659629",
+    "imdb": "tt0415280",
+    "tmdb": 273119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 53
+}

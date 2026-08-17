@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_im_not_a_poor_student",
+  "title": "I'm Not A Poor Student",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135417955"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

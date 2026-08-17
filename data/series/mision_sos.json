@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mision_sos",
+  "title": "Misión S.O.S",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6875721",
+    "imdb": "tt0421401",
+    "tmdb": 12984
+  },
+  "last_updated": "2026-08-17"
+}

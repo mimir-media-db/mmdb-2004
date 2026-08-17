@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_johnny_and_johanna",
+  "title": "Johnny and Johanna",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1619373",
+    "imdb": "tt1055674",
+    "tmdb": 24103
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 35
+}

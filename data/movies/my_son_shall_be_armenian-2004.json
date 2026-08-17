@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_son_shall_be_armenian_2004",
+  "title": "My Son Shall Be Armenian",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6946418",
+    "imdb": "tt4242926",
+    "tmdb": 603589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

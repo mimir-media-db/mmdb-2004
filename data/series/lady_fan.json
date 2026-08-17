@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lady_fan",
+  "title": "Lady Fan",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6470150",
+    "tmdb": 88140
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

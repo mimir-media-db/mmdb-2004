@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_naked_josh",
+  "title": "Naked Josh",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3233526",
+    "imdb": "tt0387777",
+    "tmdb": 2770
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

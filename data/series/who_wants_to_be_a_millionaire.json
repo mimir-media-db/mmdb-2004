@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_who_wants_to_be_a_millionaire",
+  "title": "Who Wants to Be a Millionaire?",
+  "start_year": 2004,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q954463"
+  },
+  "last_updated": "2026-08-17"
+}

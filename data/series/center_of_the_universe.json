@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_center_of_the_universe",
+  "title": "Center of the Universe",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5060006",
+    "imdb": "tt0410967",
+    "tmdb": 9898
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

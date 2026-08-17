@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_germanikus_2004",
+  "title": "Germanikus",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1514163",
+    "imdb": "tt0291943",
+    "tmdb": 7296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

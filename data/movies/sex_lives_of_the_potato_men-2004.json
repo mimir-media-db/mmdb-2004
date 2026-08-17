@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_lives_of_the_potato_men_2004",
+  "title": "Sex Lives of the Potato Men",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7458401",
+    "imdb": "tt0368259",
+    "tmdb": 13371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

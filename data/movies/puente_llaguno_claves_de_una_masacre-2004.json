@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puente_llaguno_claves_de_una_masacre_2004",
+  "title": "Puente Llaguno: Claves de una Masacre",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7258506",
+    "imdb": "tt0463676",
+    "tmdb": 1330307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

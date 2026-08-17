@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_colonial_house",
+  "title": "Colonial House",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5148334",
+    "imdb": "tt0403745",
+    "tmdb": 15088
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

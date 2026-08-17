@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_national_bomb_2004",
+  "title": "National Bomb",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4314825",
+    "imdb": "tt0418001",
+    "tmdb": 275048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

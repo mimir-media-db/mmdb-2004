@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_anke_late_night",
+  "title": "Anke Late Night",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q556801",
+    "imdb": "tt0410958",
+    "tmdb": 9286
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 68
+}

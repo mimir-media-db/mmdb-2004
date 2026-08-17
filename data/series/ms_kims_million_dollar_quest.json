@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ms_kims_million_dollar_quest",
+  "title": "Ms. Kim's Million Dollar Quest",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7217741",
+    "tmdb": 37422
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

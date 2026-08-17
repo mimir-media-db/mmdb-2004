@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_uncle_mortys_dub_shack",
+  "title": "Uncle Morty's Dub Shack",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7882769",
+    "imdb": "tt0790582",
+    "tmdb": 20139
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

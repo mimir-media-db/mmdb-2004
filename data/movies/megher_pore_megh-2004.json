@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_megher_pore_megh_2004",
+  "title": "Megher Pore Megh",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6809063",
+    "imdb": "tt1000129",
+    "tmdb": 853426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_orka_orka",
+  "title": "Orka! Orka!",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q10611556",
+    "imdb": "tt0481258",
+    "tmdb": 50904
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_step_brother_frankenstein_2004",
+  "title": "My Step Brother Frankenstein",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2907991",
+    "imdb": "tt0416040",
+    "tmdb": 3102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 111
+}

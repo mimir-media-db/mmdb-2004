@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cerita_si_angel",
+  "title": "Cerita si Angel",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106826753"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

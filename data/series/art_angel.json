@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_art_angel",
+  "title": "Art Angel",
+  "start_year": 2004,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4796679",
+    "imdb": "tt0467720",
+    "tmdb": 3156
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 370
+}

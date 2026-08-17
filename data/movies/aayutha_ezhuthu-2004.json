@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aayutha_ezhuthu_2004",
+  "title": "Aayutha Ezhuthu",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2820123",
+    "imdb": "tt0375571",
+    "tmdb": 63825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

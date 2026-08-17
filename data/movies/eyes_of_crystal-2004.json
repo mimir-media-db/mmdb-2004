@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eyes_of_crystal_2004",
+  "title": "Eyes of Crystal",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3429930",
+    "imdb": "tt0382205",
+    "tmdb": 89587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 106
+}

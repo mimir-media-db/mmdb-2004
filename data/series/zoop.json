@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zoop",
+  "title": "Zoop",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2143749",
+    "imdb": "tt0419385",
+    "tmdb": 16665
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 325
+}

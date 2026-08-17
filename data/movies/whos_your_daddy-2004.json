@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whos_your_daddy_2004",
+  "title": "Who's Your Daddy?",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1749383",
+    "imdb": "tt0287138",
+    "tmdb": 13618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

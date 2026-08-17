@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_champion",
+  "title": "The Champion",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7722044",
+    "imdb": "tt2241038",
+    "tmdb": 9604
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

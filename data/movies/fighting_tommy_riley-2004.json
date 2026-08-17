@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fighting_tommy_riley_2004",
+  "title": "Fighting Tommy Riley",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q582503",
+    "imdb": "tt0366444",
+    "tmdb": 47534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vida_por_peron_2004",
+  "title": "La vida por Perón",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6466486",
+    "imdb": "tt0410851",
+    "tmdb": 174866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

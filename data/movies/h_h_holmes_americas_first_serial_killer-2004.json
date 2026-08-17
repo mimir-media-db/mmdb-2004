@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_h_h_holmes_americas_first_serial_killer_2004",
+  "title": "H. H. Holmes: America's First Serial Killer",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5628284",
+    "imdb": "tt0358500",
+    "tmdb": 13558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 64
+}

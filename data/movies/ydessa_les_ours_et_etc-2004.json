@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ydessa_les_ours_et_etc_2004",
+  "title": "Ydessa, les ours et etc...",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3572051",
+    "imdb": "tt0423559",
+    "tmdb": 283514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 44
+}

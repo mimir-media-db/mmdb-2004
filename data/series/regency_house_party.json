@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_regency_house_party",
+  "title": "Regency House Party",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7308006",
+    "imdb": "tt0435985",
+    "tmdb": 30000
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

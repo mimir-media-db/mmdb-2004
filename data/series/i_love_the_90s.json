@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_the_90s",
+  "title": "I Love the '90s",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5978316",
+    "imdb": "tt0415430",
+    "tmdb": 924
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

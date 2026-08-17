@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dragons_alive",
+  "title": "Dragons Alive",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5305411",
+    "imdb": "tt0954398",
+    "tmdb": 9461
+  },
+  "last_updated": "2026-08-17"
+}

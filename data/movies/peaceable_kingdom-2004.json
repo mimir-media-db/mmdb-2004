@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peaceable_kingdom_2004",
+  "title": "Peaceable Kingdom",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7157567",
+    "imdb": "tt0435715",
+    "tmdb": 340714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_men_2004",
+  "title": "Ice Men",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5985321",
+    "imdb": "tt0233911",
+    "tmdb": 44489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 108
+}

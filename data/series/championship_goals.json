@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_championship_goals",
+  "title": "Championship Goals",
+  "start_year": 2004,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5070115"
+  },
+  "last_updated": "2026-08-17"
+}

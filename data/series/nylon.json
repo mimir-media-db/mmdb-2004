@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nylon",
+  "title": "NY-LON",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6956020",
+    "imdb": "tt0421417",
+    "tmdb": 15681
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

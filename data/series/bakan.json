@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bakan",
+  "title": "Bakán",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2880364",
+    "imdb": "tt0446816",
+    "tmdb": 106200
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 295
+}

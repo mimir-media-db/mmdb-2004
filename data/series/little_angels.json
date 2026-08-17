@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_little_angels",
+  "title": "Little Angels",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6648897",
+    "imdb": "tt0472963",
+    "tmdb": 14483
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 2
+}

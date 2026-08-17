@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sunlight_pours_down",
+  "title": "Sunlight Pours Down",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q11285783",
+    "imdb": "tt0843196",
+    "tmdb": 35972
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

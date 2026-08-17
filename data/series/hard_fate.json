@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hard_fate",
+  "title": "Hard Fate",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q13635646",
+    "imdb": "tt0843190",
+    "tmdb": 109266
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

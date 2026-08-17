@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moving_2004",
+  "title": "Moving",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3401717",
+    "imdb": "tt0418075",
+    "tmdb": 256286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

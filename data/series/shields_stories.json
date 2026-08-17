@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_shields_stories",
+  "title": "The Shields Stories",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7763814",
+    "imdb": "tt0397825",
+    "tmdb": 17596
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

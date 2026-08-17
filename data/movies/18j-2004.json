@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_18j_2004",
+  "title": "18-J",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4553713",
+    "imdb": "tt0411057",
+    "tmdb": 818432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

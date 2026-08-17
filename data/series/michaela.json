@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_michaela",
+  "title": "Michaela",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16131800",
+    "imdb": "tt0379151",
+    "tmdb": 51099
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 121
+}

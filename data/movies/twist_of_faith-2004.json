@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twist_of_faith_2004",
+  "title": "Twist of Faith",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3542566",
+    "imdb": "tt0436857",
+    "tmdb": 34581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_museum_of_the_dead_2004",
+  "title": "Museum of the Dead",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q219176",
+    "imdb": "tt0325857",
+    "tmdb": 135414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

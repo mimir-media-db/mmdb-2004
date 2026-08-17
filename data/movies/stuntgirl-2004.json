@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stuntgirl_2004",
+  "title": "Stuntgirl",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1748152",
+    "imdb": "tt0432108",
+    "tmdb": 1019641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 68
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ariane_ferry",
+  "title": "Ariane Ferry",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2861193",
+    "imdb": "tt0419308",
+    "tmdb": 297149
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_padre_coraje",
+  "title": "Padre Coraje",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q484594",
+    "imdb": "tt0396356",
+    "tmdb": 20941
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 189
+}

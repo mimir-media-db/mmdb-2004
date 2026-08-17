@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wonderfalls",
+  "title": "Wonderfalls",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q593857",
+    "imdb": "tt0361256",
+    "tmdb": 1982
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

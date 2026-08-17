@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_show_do_tom",
+  "title": "Show do Tom",
+  "start_year": 2004,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7503082",
+    "imdb": "tt0488863"
+  },
+  "last_updated": "2026-08-17"
+}

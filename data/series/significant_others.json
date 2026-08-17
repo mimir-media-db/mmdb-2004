@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_significant_others",
+  "title": "Significant Others",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7512959",
+    "imdb": "tt0395410",
+    "tmdb": 3812
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

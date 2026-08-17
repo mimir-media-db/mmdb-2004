@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pornucopia",
+  "title": "Pornucopia",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7230246",
+    "imdb": "tt0437743",
+    "tmdb": 18741
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

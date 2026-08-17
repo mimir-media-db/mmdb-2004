@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rated_k",
+  "title": "Rated K",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7295553",
+    "imdb": "tt0414433",
+    "tmdb": 2630
+  },
+  "last_updated": "2026-08-17"
+}

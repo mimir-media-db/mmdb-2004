@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evolution_of_a_filipino_family_2004",
+  "title": "Evolution of a Filipino Family",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5418636",
+    "imdb": "tt0424062",
+    "tmdb": 163957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 625
+}

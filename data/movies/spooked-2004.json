@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spooked_2004",
+  "title": "Spooked",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7579097",
+    "imdb": "tt0381617",
+    "tmdb": 290226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 94
+}

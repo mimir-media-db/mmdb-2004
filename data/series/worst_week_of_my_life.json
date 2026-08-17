@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_worst_week_of_my_life",
+  "title": "The Worst Week of My Life",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2372072",
+    "imdb": "tt0401995",
+    "tmdb": 4637
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

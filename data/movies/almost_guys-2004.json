@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_guys_2004",
+  "title": "The Almost Guys",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7713208",
+    "imdb": "tt0397303",
+    "tmdb": 154147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

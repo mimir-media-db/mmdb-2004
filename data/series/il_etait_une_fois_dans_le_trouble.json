@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_il_etait_une_fois_dans_le_trouble",
+  "title": "Il était une fois dans le trouble",
+  "start_year": 2004,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3148588",
+    "imdb": "tt0984540",
+    "tmdb": 38526
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 255
+}

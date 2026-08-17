@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_morning_raga_2004",
+  "title": "Morning Raga",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6912857",
+    "imdb": "tt0419974",
+    "tmdb": 230188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_about_dog_2004",
+  "title": "Man About Dog",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125991",
+    "imdb": "tt0374018",
+    "tmdb": 25372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revolution_of_pigs_2004",
+  "title": "Revolution of Pigs",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q794034",
+    "imdb": "tt0410606",
+    "tmdb": 341521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 96
+}

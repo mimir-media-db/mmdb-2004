@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_wohnen_nach_wunsch",
+  "title": "Wohnen nach Wunsch",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2587963",
+    "imdb": "tt0465880"
+  },
+  "last_updated": "2026-08-17"
+}

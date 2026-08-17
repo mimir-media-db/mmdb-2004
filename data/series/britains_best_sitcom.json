@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_britains_best_sitcom",
+  "title": "Britain's Best Sitcom",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q769567",
+    "imdb": "tt0395381",
+    "tmdb": 13342
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

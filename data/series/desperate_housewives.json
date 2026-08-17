@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_desperate_housewives",
+  "title": "Desperate Housewives",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q131758",
+    "imdb": "tt0410975",
+    "tmdb": 693
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 180
+}

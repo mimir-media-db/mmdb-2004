@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bangkok_loco_2004",
+  "title": "Bangkok Loco",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4855216",
+    "imdb": "tt0467525",
+    "tmdb": 96054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

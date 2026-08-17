@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_m_countdown",
+  "title": "M Countdown",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q485232",
+    "imdb": "tt3207438",
+    "tmdb": 35026
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_einsatz_fur_ellrich",
+  "title": "Einsatz für Ellrich",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21878625",
+    "imdb": "tt0819707",
+    "tmdb": 136482
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

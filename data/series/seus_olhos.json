@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_seus_olhos",
+  "title": "Seus Olhos",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3280723",
+    "imdb": "tt0421453",
+    "tmdb": 203494
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 173
+}

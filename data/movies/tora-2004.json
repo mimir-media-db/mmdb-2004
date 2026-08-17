@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tora_2004",
+  "title": "Tora",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7825336",
+    "imdb": "tt0490013",
+    "tmdb": 517617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

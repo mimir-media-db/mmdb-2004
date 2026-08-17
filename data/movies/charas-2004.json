@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charas_2004",
+  "title": "Charas",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5073946",
+    "imdb": "tt0410952",
+    "tmdb": 714931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

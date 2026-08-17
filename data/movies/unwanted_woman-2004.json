@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unwanted_woman_2004",
+  "title": "The Unwanted Woman",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5943903",
+    "imdb": "tt0484904",
+    "tmdb": 389275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

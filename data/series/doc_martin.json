@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doc_martin",
+  "title": "Doc Martin",
+  "start_year": 2004,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q1072839",
+    "imdb": "tt0408381",
+    "tmdb": 2430
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 79
+}

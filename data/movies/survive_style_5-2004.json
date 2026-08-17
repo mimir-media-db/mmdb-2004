@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_survive_style_5_2004",
+  "title": "Survive Style 5+",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2665450",
+    "imdb": "tt0430651",
+    "tmdb": 16133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 120
+}

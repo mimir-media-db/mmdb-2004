@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_safi_la_petite_mere_2004",
+  "title": "Safi, la petite mère",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6116790",
+    "imdb": "tt0499559",
+    "tmdb": 502384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 29
+}

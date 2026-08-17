@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_snakes_and_ladders",
+  "title": "Snakes and Ladders",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16950248",
+    "imdb": "tt0377243",
+    "tmdb": 33930
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

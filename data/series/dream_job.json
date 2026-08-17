@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dream_job",
+  "title": "Dream Job",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5306386",
+    "imdb": "tt0401926",
+    "tmdb": 327
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

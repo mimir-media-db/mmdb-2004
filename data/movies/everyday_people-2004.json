@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everyday_people_2004",
+  "title": "Everyday People",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5417820",
+    "imdb": "tt0365020",
+    "tmdb": 41851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 91
+}

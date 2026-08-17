@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cape_of_good_hope_2004",
+  "title": "Cape of Good Hope",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5035192",
+    "imdb": "tt0398830",
+    "tmdb": 170113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 107
+}

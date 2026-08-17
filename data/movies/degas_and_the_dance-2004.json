@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_degas_and_the_dance_2004",
+  "title": "Degas and the Dance",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3704759",
+    "imdb": "tt1004432"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

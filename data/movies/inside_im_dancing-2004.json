@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_im_dancing_2004",
+  "title": "Inside I'm Dancing",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1664541",
+    "imdb": "tt0417791",
+    "tmdb": 31165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}

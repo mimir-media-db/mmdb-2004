@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sullan_2004",
+  "title": "Sullan",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3429441",
+    "imdb": "tt0423286",
+    "tmdb": 69525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

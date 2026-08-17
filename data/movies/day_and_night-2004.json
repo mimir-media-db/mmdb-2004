@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_and_night_2004",
+  "title": "Day and Night",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3186778",
+    "imdb": "tt0436721",
+    "tmdb": 198620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

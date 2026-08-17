@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_diller_2004",
+  "title": "Killer Diller",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407470",
+    "imdb": "tt0369294",
+    "tmdb": 26007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

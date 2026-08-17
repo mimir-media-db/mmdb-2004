@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pursued_2004",
+  "title": "Pursued",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2118991",
+    "imdb": "tt0385969",
+    "tmdb": 39403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

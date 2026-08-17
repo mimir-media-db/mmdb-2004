@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kung_fu_soccer_tv_series",
+  "title": "Kung Fu Soccer (TV series)",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6444485",
+    "imdb": "tt0439940",
+    "tmdb": 15464
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 33
+}

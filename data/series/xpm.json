@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_xpm",
+  "title": "XPM",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8042408",
+    "imdb": "tt0385483",
+    "tmdb": 5508
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

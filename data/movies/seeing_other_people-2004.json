@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seeing_other_people_2004",
+  "title": "Seeing Other People",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3477673",
+    "imdb": "tt0362129",
+    "tmdb": 32298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

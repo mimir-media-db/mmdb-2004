@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_venus_et_fleur_2004",
+  "title": "Vénus et Fleur",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3564177",
+    "imdb": "tt0364109",
+    "tmdb": 78258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_company_of_heroes_2004",
+  "title": "The Company of Heroes",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4178755",
+    "imdb": "tt2796680",
+    "tmdb": 204014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 97
+}

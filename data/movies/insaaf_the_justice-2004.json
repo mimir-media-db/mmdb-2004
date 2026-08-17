@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_insaaf_the_justice_2004",
+  "title": "Insaaf: The Justice",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6036975",
+    "imdb": "tt0405046",
+    "tmdb": 917533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

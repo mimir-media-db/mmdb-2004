@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_show_me_yours",
+  "title": "Show Me Yours",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3959756",
+    "imdb": "tt0413606",
+    "tmdb": 15519
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

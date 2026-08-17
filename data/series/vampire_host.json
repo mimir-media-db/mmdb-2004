@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_vampire_host",
+  "title": "Vampire Host",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q56322127"
+  },
+  "last_updated": "2026-08-17"
+}

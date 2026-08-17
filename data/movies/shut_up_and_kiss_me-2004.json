@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shut_up_and_kiss_me_2004",
+  "title": "Shut Up and Kiss Me",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7505582",
+    "imdb": "tt0358148",
+    "tmdb": 55738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

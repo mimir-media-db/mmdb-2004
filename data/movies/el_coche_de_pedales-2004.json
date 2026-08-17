@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_coche_de_pedales_2004",
+  "title": "El coche de pedales",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11681362",
+    "imdb": "tt0395121",
+    "tmdb": 105431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 92
+}

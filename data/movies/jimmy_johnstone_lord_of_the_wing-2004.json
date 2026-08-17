@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jimmy_johnstone_lord_of_the_wing_2004",
+  "title": "Jimmy Johnstone: Lord of the Wing",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6200486",
+    "imdb": "tt0439648"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

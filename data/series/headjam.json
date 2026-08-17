@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_headjam",
+  "title": "HeadJam",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5689083",
+    "imdb": "tt0418398",
+    "tmdb": 2811
+  },
+  "last_updated": "2026-08-17"
+}

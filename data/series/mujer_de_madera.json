@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mujer_de_madera",
+  "title": "Mujer de Madera",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q748510",
+    "imdb": "tt0389662",
+    "tmdb": 15149
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 205
+}

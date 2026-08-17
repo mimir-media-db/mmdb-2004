@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_open_house_2004",
+  "title": "Open House",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7096090",
+    "imdb": "tt0340883",
+    "tmdb": 159695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

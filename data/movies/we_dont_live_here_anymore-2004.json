@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_dont_live_here_anymore_2004",
+  "title": "We Don't Live Here Anymore",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1604555",
+    "imdb": "tt0361309",
+    "tmdb": 23601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 101
+}

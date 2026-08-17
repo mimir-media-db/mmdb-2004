@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_precious_family",
+  "title": "Precious Family",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6726638",
+    "imdb": "tt6096994",
+    "tmdb": 18504
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 68
+}

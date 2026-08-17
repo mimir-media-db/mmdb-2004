@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_rooms_of_melancholia_2004",
+  "title": "The 3 Rooms of Melancholia",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6377759",
+    "imdb": "tt0424272",
+    "tmdb": 178469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 106
+}

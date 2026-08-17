@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_traffic",
+  "title": "Traffic",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3536425",
+    "imdb": "tt0344487",
+    "tmdb": 13261
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

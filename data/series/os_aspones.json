@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_os_aspones",
+  "title": "Os Aspones",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7105458",
+    "imdb": "tt0447580",
+    "tmdb": 5068
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

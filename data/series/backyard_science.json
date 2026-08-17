@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_backyard_science",
+  "title": "Backyard Science",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q879619",
+    "imdb": "tt0953917",
+    "tmdb": 21264
+  },
+  "last_updated": "2026-08-17"
+}

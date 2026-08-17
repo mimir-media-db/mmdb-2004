@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kis_kis_ki_kismat_2004",
+  "title": "Kis Kis Ki Kismat",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6416359",
+    "imdb": "tt0442799",
+    "tmdb": 434034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 142
+}

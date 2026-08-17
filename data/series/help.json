@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_help",
+  "title": "The Help",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7739355",
+    "imdb": "tt0364816",
+    "tmdb": 9964
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

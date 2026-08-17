@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cop_the_criminal_and_the_clown_2004",
+  "title": "The Cop, the Criminal and the Clown",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1151211",
+    "imdb": "tt0428287",
+    "tmdb": 95607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

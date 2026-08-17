@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mighty_boosh",
+  "title": "The Mighty Boosh",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1478925",
+    "imdb": "tt0416394",
+    "tmdb": 7166
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

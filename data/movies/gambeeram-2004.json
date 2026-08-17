@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gambeeram_2004",
+  "title": "Gambeeram",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5519604",
+    "imdb": "tt1401121",
+    "tmdb": 78627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_days_of_our_lives",
+  "title": "Days of Our Lives",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q185059",
+    "imdb": "tt0058796",
+    "tmdb": 881
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15564
+}

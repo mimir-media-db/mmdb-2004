@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edgar_g_ulmer_the_man_offscreen_2004",
+  "title": "Edgar G. Ulmer - The Man Off-screen",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1283887",
+    "imdb": "tt0435638",
+    "tmdb": 287717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 77
+}

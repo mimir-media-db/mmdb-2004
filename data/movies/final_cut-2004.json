@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_cut_2004",
+  "title": "The Final Cut",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q705343",
+    "imdb": "tt0364343",
+    "tmdb": 11099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

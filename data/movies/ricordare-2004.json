@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ricordare_2004",
+  "title": "Ricordare",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3935114",
+    "imdb": "tt0413202",
+    "tmdb": 1546710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 42
+}

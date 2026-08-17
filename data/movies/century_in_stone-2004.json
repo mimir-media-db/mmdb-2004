@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_century_in_stone_2004",
+  "title": "A Century in Stone",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4655783",
+    "imdb": "tt0414890",
+    "tmdb": 1079704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 120
+}

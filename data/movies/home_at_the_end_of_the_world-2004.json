@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_at_the_end_of_the_world_2004",
+  "title": "A Home at the End of the World",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q954703",
+    "imdb": "tt0359423",
+    "tmdb": 18923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 96
+}

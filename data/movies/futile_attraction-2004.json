@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_futile_attraction_2004",
+  "title": "Futile Attraction",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5510516",
+    "imdb": "tt0414998",
+    "tmdb": 265006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 80
+}

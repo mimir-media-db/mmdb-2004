@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phantom_of_the_opera_2004",
+  "title": "The Phantom of the Opera",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q276407",
+    "imdb": "tt0293508",
+    "tmdb": 9833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 143
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paco_y_veva",
+  "title": "Paco y Veva",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6056975",
+    "imdb": "tt0395890",
+    "tmdb": 71223
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

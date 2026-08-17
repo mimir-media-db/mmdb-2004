@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_asombroso_mundo_de_borjamari_y_pocholo_2004",
+  "title": "El asombroso mundo de Borjamari y Pocholo",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3310984",
+    "imdb": "tt0425758",
+    "tmdb": 135696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

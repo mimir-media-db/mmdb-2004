@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_mooseport_2004",
+  "title": "Welcome to Mooseport",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1387340",
+    "imdb": "tt0361925",
+    "tmdb": 16784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 110
+}

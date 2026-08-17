@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_get_gorgeous",
+  "title": "Get Gorgeous",
+  "start_year": 2004,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5553890"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 78
+}

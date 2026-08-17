@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_instant_star",
+  "title": "Instant Star",
+  "start_year": 2004,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1664677",
+    "imdb": "tt0420416",
+    "tmdb": 3582
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_floricienta",
+  "title": "Floricienta",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q769731",
+    "imdb": "tt0401933",
+    "tmdb": 1446
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 361
+}

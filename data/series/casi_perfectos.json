@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_casi_perfectos",
+  "title": "Casi perfectos",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5756125",
+    "imdb": "tt0401918",
+    "tmdb": 87411
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

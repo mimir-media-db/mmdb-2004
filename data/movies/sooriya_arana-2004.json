@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sooriya_arana_2004",
+  "title": "Sooriya Arana",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7562742",
+    "imdb": "tt0499255",
+    "tmdb": 540229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_el_perro_y_el_gato",
+  "title": "El Perro y el Gato",
+  "start_year": 2003,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5351829",
+    "imdb": "tt1686989",
+    "tmdb": 41373
+  },
+  "last_updated": "2026-08-17"
+}

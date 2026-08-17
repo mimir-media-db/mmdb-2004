@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adumot",
+  "title": "Adumot",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q12403444",
+    "imdb": "tt0476511",
+    "tmdb": 255883
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

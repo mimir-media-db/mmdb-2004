@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notre_musique_2004",
+  "title": "Notre musique",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3141131",
+    "imdb": "tt0360845",
+    "tmdb": 26347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 80
+}

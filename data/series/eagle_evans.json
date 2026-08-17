@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_eagle_evans",
+  "title": "Eagle & Evans",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5324994",
+    "imdb": "tt0386182",
+    "tmdb": 35231
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_police_thief",
+  "title": "Police & Thief",
+  "start_year": 2004,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7209394",
+    "imdb": "tt0813852",
+    "tmdb": 4997
+  },
+  "last_updated": "2026-08-17"
+}

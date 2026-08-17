@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crust",
+  "title": "The Crust",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7728292",
+    "imdb": "tt0469699",
+    "tmdb": 6141
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

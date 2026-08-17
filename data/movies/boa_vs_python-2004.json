@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boa_vs_python_2004",
+  "title": "Boa vs. Python",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q638014",
+    "imdb": "tt0412523",
+    "tmdb": 36086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 92
+}

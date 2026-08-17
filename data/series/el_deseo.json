@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_deseo",
+  "title": "El deseo",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3721053",
+    "imdb": "tt0401923",
+    "tmdb": 107147
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 70
+}

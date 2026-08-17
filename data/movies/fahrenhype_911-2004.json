@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fahrenhype_911_2004",
+  "title": "Fahrenhype 9/11",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1532255",
+    "imdb": "tt0427228",
+    "tmdb": 21754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_purgatory_house_2004",
+  "title": "Purgatory House",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126968",
+    "imdb": "tt0298120",
+    "tmdb": 65507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

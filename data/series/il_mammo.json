@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_il_mammo",
+  "title": "Il mammo",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3794545",
+    "imdb": "tt1114494",
+    "tmdb": 41488
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 60
+}

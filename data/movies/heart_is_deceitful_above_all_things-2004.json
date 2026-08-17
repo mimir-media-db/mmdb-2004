@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_is_deceitful_above_all_things_2004",
+  "title": "The Heart Is Deceitful Above All Things",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1319963",
+    "imdb": "tt0368774",
+    "tmdb": 26579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 97
+}

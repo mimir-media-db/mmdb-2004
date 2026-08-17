@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_starstruck_kids",
+  "title": "StarStruck Kids",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7600566",
+    "imdb": "tt0400030",
+    "tmdb": 4062
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 72
+}

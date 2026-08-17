@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_drew_careys_green_screen_show",
+  "title": "Drew Carey's Green Screen Show",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5307144",
+    "imdb": "tt0410985",
+    "tmdb": 10467
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

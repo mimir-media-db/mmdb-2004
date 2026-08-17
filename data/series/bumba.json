@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bumba",
+  "title": "Bumba",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q586281",
+    "imdb": "tt0782088",
+    "tmdb": 50021
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 300
+}

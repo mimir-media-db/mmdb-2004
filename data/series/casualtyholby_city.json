@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_casualtyholby_city",
+  "title": "Casualty@Holby City",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5050880",
+    "imdb": "tt0485556",
+    "tmdb": 6815
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

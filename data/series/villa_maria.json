@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_villa_maria",
+  "title": "Villa María",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1249254",
+    "imdb": "tt0425723",
+    "tmdb": 111923
+  },
+  "last_updated": "2026-08-17"
+}

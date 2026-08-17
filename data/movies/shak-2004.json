@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shak_2004",
+  "title": "Shak",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7462519",
+    "imdb": "tt0476373",
+    "tmdb": 685641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 130
+}

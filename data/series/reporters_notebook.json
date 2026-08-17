@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_reporters_notebook",
+  "title": "Reporter's Notebook",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7314151",
+    "imdb": "tt0484533",
+    "tmdb": 1552
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 656
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_second_time_around",
+  "title": "Second Time Around",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7443601",
+    "imdb": "tt0412229",
+    "tmdb": 10012
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

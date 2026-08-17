@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jane_show",
+  "title": "The Jane Show",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7742956",
+    "imdb": "tt0439932",
+    "tmdb": 11752
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}

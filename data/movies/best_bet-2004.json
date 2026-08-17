@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_best_bet_2004",
+  "title": "The Best Bet",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7716683",
+    "imdb": "tt0414619",
+    "tmdb": 264762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

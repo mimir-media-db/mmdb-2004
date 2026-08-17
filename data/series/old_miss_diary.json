@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_old_miss_diary",
+  "title": "Old Miss Diary",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q12608277",
+    "imdb": "tt27785918",
+    "tmdb": 138086
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johnson_family_vacation_2004",
+  "title": "Johnson Family Vacation",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q742307",
+    "imdb": "tt0359517",
+    "tmdb": 19084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lahaut_un_roi_audessus_des_nuages_2004",
+  "title": "Là-haut, un roi au-dessus des nuages",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3269857",
+    "imdb": "tt0296734",
+    "tmdb": 72325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}

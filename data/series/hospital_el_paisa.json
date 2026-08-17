@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hospital_el_paisa",
+  "title": "Hospital El Paisa",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16576033",
+    "imdb": "tt0418399",
+    "tmdb": 101058
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hairy_bikers_cookbook",
+  "title": "The Hairy Bikers' Cookbook",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7738635",
+    "imdb": "tt0497293",
+    "tmdb": 3198
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 20
+}

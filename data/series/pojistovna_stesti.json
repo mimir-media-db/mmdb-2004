@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pojistovna_stesti",
+  "title": "Pojistovna stestí",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12046129",
+    "imdb": "tt0450938",
+    "tmdb": 77614
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

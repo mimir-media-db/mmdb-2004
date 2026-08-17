@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lazytown",
+  "title": "LazyTown",
+  "start_year": 2004,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q640403",
+    "imdb": "tt0396991",
+    "tmdb": 1894
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 79
+}

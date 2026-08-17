@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_25_million_dollar_hoax",
+  "title": "$25 Million Dollar Hoax",
+  "start_year": 2004,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4540352",
+    "imdb": "tt0432638",
+    "tmdb": 293
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

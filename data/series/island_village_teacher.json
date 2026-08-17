@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_island_village_teacher",
+  "title": "Island Village Teacher",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6817074",
+    "tmdb": 206946
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

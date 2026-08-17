@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_purifiers_2004",
+  "title": "The Purifiers",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7758790",
+    "imdb": "tt0371902",
+    "tmdb": 66104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

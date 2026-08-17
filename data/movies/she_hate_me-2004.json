@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_hate_me_2004",
+  "title": "She Hate Me",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q519592",
+    "imdb": "tt0384533",
+    "tmdb": 20912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 138
+}

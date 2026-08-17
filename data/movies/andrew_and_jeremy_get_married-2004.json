@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andrew_and_jeremy_get_married_2004",
+  "title": "Andrew and Jeremy Get Married",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4759022",
+    "imdb": "tt0420498",
+    "tmdb": 182518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 75
+}

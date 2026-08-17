@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_min_fd_familj",
+  "title": "Min f.d. familj",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q10585601",
+    "imdb": "tt0364839",
+    "tmdb": 308911
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

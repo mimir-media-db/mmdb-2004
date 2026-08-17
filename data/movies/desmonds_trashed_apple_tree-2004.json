@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_desmonds_trashed_apple_tree_2004",
+  "title": "Desmond's Trashed Apple Tree",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5264658",
+    "imdb": "tt1363095"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

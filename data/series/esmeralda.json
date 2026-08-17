@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_esmeralda",
+  "title": "Esmeralda",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3058077",
+    "imdb": "tt0439917",
+    "tmdb": 132648
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 183
+}

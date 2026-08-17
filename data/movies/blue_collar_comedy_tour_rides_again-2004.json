@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_collar_comedy_tour_rides_again_2004",
+  "title": "Blue Collar Comedy Tour Rides Again",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4928989",
+    "imdb": "tt0423871",
+    "tmdb": 22427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

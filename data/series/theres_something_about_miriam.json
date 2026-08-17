@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_theres_something_about_miriam",
+  "title": "There's Something About Miriam",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7782618",
+    "imdb": "tt0402707",
+    "tmdb": 11972
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

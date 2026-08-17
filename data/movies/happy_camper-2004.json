@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_camper_2004",
+  "title": "Happy Camper",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2935520",
+    "imdb": "tt0389831",
+    "tmdb": 40330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

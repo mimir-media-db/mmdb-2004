@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7g_rainbow_colony_2004",
+  "title": "7G Rainbow Colony",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3524842",
+    "imdb": "tt0439418",
+    "tmdb": 24448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

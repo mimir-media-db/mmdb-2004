@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dans_une_galaxie_pres_de_chez_vous_le_film_2004",
+  "title": "Dans une galaxie près de chez vous - Le film",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2404801",
+    "imdb": "tt0385635",
+    "tmdb": 60222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 109
+}

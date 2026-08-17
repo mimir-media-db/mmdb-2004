@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_romance_2004",
+  "title": "Perfect Romance",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225232",
+    "imdb": "tt0373968",
+    "tmdb": 168525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

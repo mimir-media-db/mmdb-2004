@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hole_in_one_2004",
+  "title": "A Hole in One",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657359",
+    "imdb": "tt0337639",
+    "tmdb": 277299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 97
+}

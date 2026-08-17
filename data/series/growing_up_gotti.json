@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_growing_up_gotti",
+  "title": "Growing Up Gotti",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5611662",
+    "imdb": "tt0405545",
+    "tmdb": 3223
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 41
+}

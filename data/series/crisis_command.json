@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crisis_command",
+  "title": "Crisis Command",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5185950",
+    "imdb": "tt0426344",
+    "tmdb": 9417
+  },
+  "last_updated": "2026-08-17"
+}

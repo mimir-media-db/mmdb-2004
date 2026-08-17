@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_redeemer_2004",
+  "title": "Redeemer",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3226730",
+    "imdb": "tt0328316",
+    "tmdb": 70812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

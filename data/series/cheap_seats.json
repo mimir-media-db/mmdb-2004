@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cheap_seats",
+  "title": "Cheap Seats",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5088856",
+    "imdb": "tt0397769",
+    "tmdb": 3161
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 77
+}

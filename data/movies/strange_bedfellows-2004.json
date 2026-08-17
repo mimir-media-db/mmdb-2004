@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_bedfellows_2004",
+  "title": "Strange Bedfellows",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q601100",
+    "imdb": "tt0360032",
+    "tmdb": 32141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 97
+}

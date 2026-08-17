@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_porta_delle_sette_stelle_2004",
+  "title": "La porta delle sette stelle",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3823627",
+    "imdb": "tt0435289",
+    "tmdb": 423233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 101
+}

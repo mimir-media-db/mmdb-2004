@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bibi_and_tina",
+  "title": "Bibi and Tina",
+  "start_year": 2003,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q26218301",
+    "imdb": "tt0497289",
+    "tmdb": 61205
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

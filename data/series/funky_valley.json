@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_funky_valley",
+  "title": "Funky Valley",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5509316",
+    "imdb": "tt0498737"
+  },
+  "last_updated": "2026-08-17"
+}

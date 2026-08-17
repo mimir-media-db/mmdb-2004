@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brief",
+  "title": "The Brief",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7720104",
+    "imdb": "tt0407368",
+    "tmdb": 29188
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_nacht_der_lebenden_loser_2004",
+  "title": "Die Nacht der lebenden Loser",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q460610",
+    "imdb": "tt0378417",
+    "tmdb": 12128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

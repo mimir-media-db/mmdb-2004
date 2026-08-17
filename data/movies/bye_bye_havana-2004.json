@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bye_bye_havana_2004",
+  "title": "Bye Bye Havana",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5864845",
+    "imdb": "tt2596902"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

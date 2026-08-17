@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_bizness_2004",
+  "title": "Bad Bizness",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3632675",
+    "imdb": "tt0373163",
+    "tmdb": 149549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 91
+}

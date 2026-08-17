@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cq2_seek_you_too_2004",
+  "title": "CQ2 (Seek You Too)",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2931926",
+    "imdb": "tt0412554",
+    "tmdb": 158234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}

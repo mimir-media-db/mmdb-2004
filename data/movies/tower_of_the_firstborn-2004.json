@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tower_of_the_firstborn_2004",
+  "title": "Tower of the Firstborn",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3790916",
+    "imdb": "tt0211396",
+    "tmdb": 74033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

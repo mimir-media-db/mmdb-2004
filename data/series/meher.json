@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_meher",
+  "title": "Meher",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6809457",
+    "imdb": "tt0398515",
+    "tmdb": 14478
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 300
+}

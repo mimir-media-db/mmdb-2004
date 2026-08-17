@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_status_yo_2004",
+  "title": "Status Yo!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2334200",
+    "imdb": "tt0432360",
+    "tmdb": 61379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_18",
+  "title": "Sweet 18",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q488012",
+    "imdb": "tt0499174",
+    "tmdb": 14023
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

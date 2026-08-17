@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_loseno_2004",
+  "title": "Prince Loseno",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3403334",
+    "imdb": "tt0463167",
+    "tmdb": 469041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 29
+}

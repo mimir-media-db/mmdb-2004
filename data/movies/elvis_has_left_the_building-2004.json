@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elvis_has_left_the_building_2004",
+  "title": "Elvis Has Left the Building",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1334320",
+    "imdb": "tt0377057",
+    "tmdb": 37641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

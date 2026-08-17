@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hideshi_hinos_theater_of_horror_2004",
+  "title": "Hideshi Hino's Theater of Horror",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5752687",
+    "imdb": "tt0780049",
+    "tmdb": 105855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 50
+}

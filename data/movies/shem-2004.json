@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shem_2004",
+  "title": "Shem",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4376621",
+    "imdb": "tt0406214",
+    "tmdb": 3510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 93
+}

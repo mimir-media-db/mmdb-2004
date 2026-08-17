@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_all_gone_pete_tong_2004",
+  "title": "It's All Gone Pete Tong",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128503",
+    "imdb": "tt0388139",
+    "tmdb": 12109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

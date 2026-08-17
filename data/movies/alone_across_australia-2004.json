@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_across_australia_2004",
+  "title": "Alone Across Australia",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4734386",
+    "imdb": "tt0428215",
+    "tmdb": 331698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rebelde",
+  "title": "Rebelde",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q11702343",
+    "imdb": "tt0414766",
+    "tmdb": 12637
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 440
+}

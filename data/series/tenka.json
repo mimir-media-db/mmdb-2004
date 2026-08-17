@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tenka",
+  "title": "Tenka",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11443435",
+    "tmdb": 120855
+  },
+  "last_updated": "2026-08-17"
+}

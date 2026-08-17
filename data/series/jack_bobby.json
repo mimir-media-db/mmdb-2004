@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jack_bobby",
+  "title": "Jack & Bobby",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1676963",
+    "imdb": "tt0410997",
+    "tmdb": 1859
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

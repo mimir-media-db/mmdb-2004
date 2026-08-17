@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mind_and_body_2004",
+  "title": "Mind And Body",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11301980",
+    "imdb": "tt0499341",
+    "tmdb": 467407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

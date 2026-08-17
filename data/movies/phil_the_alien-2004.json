@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phil_the_alien_2004",
+  "title": "Phil the Alien",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126903",
+    "imdb": "tt0404325",
+    "tmdb": 100983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

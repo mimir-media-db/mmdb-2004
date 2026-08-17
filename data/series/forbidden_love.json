@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_forbidden_love",
+  "title": "Forbidden Love",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q493595",
+    "imdb": "tt0487239",
+    "tmdb": 5057
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

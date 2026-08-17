@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_shout_2004",
+  "title": "Ghost Shout",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11303822",
+    "imdb": "tt0498297",
+    "tmdb": 158940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

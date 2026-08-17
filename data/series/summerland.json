@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_summerland",
+  "title": "Summerland",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q210517",
+    "imdb": "tt0400037",
+    "tmdb": 4106
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

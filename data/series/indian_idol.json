@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_indian_idol",
+  "title": "Indian Idol",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4115199",
+    "imdb": "tt0486068",
+    "tmdb": 13700
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

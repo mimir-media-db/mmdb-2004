@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_district_13_2004",
+  "title": "District 13",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70069",
+    "imdb": "tt0414852",
+    "tmdb": 10045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bitoys_funniest_videos",
+  "title": "Bitoy's Funniest Videos",
+  "start_year": 2004,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4918925",
+    "imdb": "tt0486683",
+    "tmdb": 2128
+  },
+  "last_updated": "2026-08-17"
+}

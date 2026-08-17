@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_folle_embellie_2004",
+  "title": "Folle embellie",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1196024",
+    "imdb": "tt0329088",
+    "tmdb": 78806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 110
+}

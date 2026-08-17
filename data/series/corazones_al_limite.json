@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_corazones_al_limite",
+  "title": "Corazones al límite",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3281378",
+    "imdb": "tt0401921",
+    "tmdb": 9620
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 145
+}

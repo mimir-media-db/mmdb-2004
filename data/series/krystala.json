@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_krystala",
+  "title": "Krystala",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6439766",
+    "imdb": "tt0428753",
+    "tmdb": 4578
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 138
+}

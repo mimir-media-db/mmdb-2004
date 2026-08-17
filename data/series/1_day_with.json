@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_1_day_with",
+  "title": "1 Day With",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4595938",
+    "imdb": "tt0426635",
+    "tmdb": 1125
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 19
+}

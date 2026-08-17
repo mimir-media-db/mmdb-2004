@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_souvenirs_dun_president_de_festival_de_cannes_2004",
+  "title": "Souvenirs d'un président de festival de Cannes",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3492405",
+    "imdb": "tt0417158"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

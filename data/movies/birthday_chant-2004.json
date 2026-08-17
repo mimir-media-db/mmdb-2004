@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birthday_chant_2004",
+  "title": "The Birthday Chant",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5843792",
+    "imdb": "tt1933649",
+    "tmdb": 423693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

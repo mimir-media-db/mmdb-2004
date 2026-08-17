@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_yearbook_2004",
+  "title": "American Yearbook",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4745408",
+    "imdb": "tt0386284",
+    "tmdb": 416262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
