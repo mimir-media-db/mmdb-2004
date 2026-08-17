@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ushpizin_2004",
+  "title": "Ushpizin",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2920720",
+    "imdb": "tt0426155",
+    "tmdb": 15083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-11",
+  "runtime_minutes": 90
+}

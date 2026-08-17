@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_una_buena_chica_de_la_mala_vida_2004",
+  "title": "Una buena chica de la mala vida",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278440",
+    "imdb": "tt4367172",
+    "tmdb": 941960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

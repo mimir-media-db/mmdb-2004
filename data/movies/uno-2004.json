@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uno_2004",
+  "title": "Uno",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1757814",
+    "imdb": "tt0384639",
+    "tmdb": 18508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-10",
+  "runtime_minutes": 103
+}
