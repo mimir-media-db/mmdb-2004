@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kal_ho_naa_ho_2004",
+  "title": "Kal Ho Naa Ho",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q507490",
+    "imdb": "tt0347304",
+    "tmdb": 4254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-08",
+  "runtime_minutes": 187
+}

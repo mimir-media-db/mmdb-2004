@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kate_la_bisbetica_domata_2004",
+  "title": "Kate - la bisbetica domata",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590359",
+    "imdb": "tt0442289",
+    "tmdb": 1266819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khuni_shikder_2004",
+  "title": "Khuni Shikder",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106425370",
+    "imdb": "tt30631004"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-15",
+  "runtime_minutes": 127
+}

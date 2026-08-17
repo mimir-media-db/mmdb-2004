@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_katsumi_la_vicieuse_2004",
+  "title": "Katsumi la vicieuse",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140365780",
+    "imdb": "tt3913984",
+    "tmdb": 1668216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-23",
+  "runtime_minutes": 130
+}

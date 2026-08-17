@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ketchup_effect_2004",
+  "title": "The Ketchup Effect",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q897357",
+    "imdb": "tt0385751",
+    "tmdb": 17010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-26",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_weekend_2004",
+  "title": "Killer Weekend",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511185",
+    "imdb": "tt0287795",
+    "tmdb": 134383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
