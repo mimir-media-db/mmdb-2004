@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_zvezde_granda",
+  "title": "Zvezde Granda",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q231339",
+    "imdb": "tt9728792"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 26
+}
