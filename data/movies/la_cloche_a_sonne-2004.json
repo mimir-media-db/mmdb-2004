@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_cloche_a_sonne_2004",
+  "title": "La cloche a sonné",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494409",
+    "imdb": "tt0426266",
+    "tmdb": 77731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

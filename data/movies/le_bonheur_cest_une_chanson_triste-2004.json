@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_bonheur_cest_une_chanson_triste_2004",
+  "title": "Le bonheur c'est une chanson triste",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48751760",
+    "imdb": "tt0417499",
+    "tmdb": 209572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 83
+}

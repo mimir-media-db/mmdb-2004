@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lizard_2004",
+  "title": "The Lizard",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1477243",
+    "imdb": "tt0416960",
+    "tmdb": 75404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-04",
+  "runtime_minutes": 115
+}

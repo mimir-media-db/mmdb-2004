@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lhomme_qui_dormait_le_jour_2004",
+  "title": "L'Homme qui dormait le jour",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114767839",
+    "imdb": "tt0382664",
+    "tmdb": 784108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-15"
+}

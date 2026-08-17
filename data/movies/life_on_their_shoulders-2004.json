@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_on_their_shoulders_2004",
+  "title": "Life on Their Shoulders",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24529675",
+    "imdb": "tt1227180",
+    "tmdb": 693873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 38
+}

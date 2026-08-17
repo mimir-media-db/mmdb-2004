@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_in_the_air_2004",
+  "title": "Love Is In The Air",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16420974",
+    "imdb": "tt0784828",
+    "tmdb": 1093672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-01"
+}

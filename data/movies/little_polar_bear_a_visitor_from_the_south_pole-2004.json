@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_polar_bear_a_visitor_from_the_south_pole_2004",
+  "title": "The Little Polar Bear: A Visitor from the South Pole",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127871415",
+    "imdb": "tt0435683",
+    "tmdb": 76797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 71
+}

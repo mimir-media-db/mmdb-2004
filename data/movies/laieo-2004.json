@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laieo_2004",
+  "title": "La-i-eo",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11346278",
+    "imdb": "tt0405101",
+    "tmdb": 28872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-23"
+}

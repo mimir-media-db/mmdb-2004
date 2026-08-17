@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loved_gun_2004",
+  "title": "Loved Gun",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11347307",
+    "imdb": "tt0435153",
+    "tmdb": 52727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-19",
+  "runtime_minutes": 111
+}

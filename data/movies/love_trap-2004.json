@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_trap_2004",
+  "title": "Love Trap",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2203083",
+    "imdb": "tt0327717",
+    "tmdb": 57758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-12",
+  "runtime_minutes": 95
+}

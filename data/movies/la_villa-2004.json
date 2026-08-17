@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_villa_2004",
+  "title": "La Villa",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16121368",
+    "imdb": "tt11193062",
+    "tmdb": 969087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

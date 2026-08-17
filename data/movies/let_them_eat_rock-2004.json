@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_them_eat_rock_2004",
+  "title": "Let Them Eat Rock",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23680643",
+    "imdb": "tt0425192",
+    "tmdb": 323778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovely_rivals_2004",
+  "title": "Lovely Rivals",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6692288",
+    "imdb": "tt0430780",
+    "tmdb": 131924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-17",
+  "runtime_minutes": 119
+}

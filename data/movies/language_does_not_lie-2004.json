@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_language_does_not_lie_2004",
+  "title": "Language Does Not Lie",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967107",
+    "imdb": "tt0897265",
+    "tmdb": 833492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-15",
+  "runtime_minutes": 72
+}

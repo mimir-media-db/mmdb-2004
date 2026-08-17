@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_at_16_2004",
+  "title": "Love at 16",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303341",
+    "imdb": "tt1034006",
+    "tmdb": 47683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 102
+}

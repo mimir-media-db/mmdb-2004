@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mina_2004",
+  "title": "La mina",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110163541",
+    "imdb": "tt0362865"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

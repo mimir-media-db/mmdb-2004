@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_low_life_2004",
+  "title": "Low Life",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q626236",
+    "imdb": "tt0403100",
+    "tmdb": 177152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-05-21",
+  "runtime_minutes": 99
+}

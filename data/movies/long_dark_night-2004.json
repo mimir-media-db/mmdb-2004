@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_dark_night_2004",
+  "title": "Long Dark Night",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1156694",
+    "imdb": "tt0305499",
+    "tmdb": 259728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-07",
+  "runtime_minutes": 194
+}
