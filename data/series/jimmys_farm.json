@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_jimmys_farm",
+  "title": "Jimmy's Farm",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6199432",
+    "imdb": "tt0412156",
+    "tmdb": 6535
+  },
+  "last_updated": "2026-08-17"
+}
