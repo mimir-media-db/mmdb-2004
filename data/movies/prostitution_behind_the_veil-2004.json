@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prostitution_behind_the_veil_2004",
+  "title": "Prostitution: Behind the Veil",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18454981",
+    "imdb": "tt0457441",
+    "tmdb": 100553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-18",
+  "runtime_minutes": 58
+}

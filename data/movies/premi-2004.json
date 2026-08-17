@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_premi_2004",
+  "title": "Premi",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7240257",
+    "imdb": "tt4772906",
+    "tmdb": 557987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-30"
+}

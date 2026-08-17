@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pelicanman_2004",
+  "title": "Pelicanman",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2691714",
+    "imdb": "tt0372461",
+    "tmdb": 55502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-17",
+  "runtime_minutes": 90
+}

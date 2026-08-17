@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_diaries_2_royal_engagement_2004",
+  "title": "The Princess Diaries 2: Royal Engagement",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q696096",
+    "imdb": "tt0368933",
+    "tmdb": 11130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-11",
+  "runtime_minutes": 113
+}

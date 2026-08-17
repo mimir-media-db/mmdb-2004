@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pornographer_a_love_story_2004",
+  "title": "The Pornographer: A Love Story",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118315245",
+    "imdb": "tt0246157",
+    "tmdb": 507926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 81
+}
