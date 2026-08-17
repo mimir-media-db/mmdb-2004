@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ripper_2_letter_from_within_2004",
+  "title": "Ripper 2: Letter from Within",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2030964",
+    "imdb": "tt0350061",
+    "tmdb": 189353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 89
+}

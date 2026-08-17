@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ring_of_darkness_2004",
+  "title": "Ring of Darkness",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7334783",
+    "imdb": "tt0372803",
+    "tmdb": 28684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 89
+}

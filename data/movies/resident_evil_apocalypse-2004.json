@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resident_evil_apocalypse_2004",
+  "title": "Resident Evil: Apocalypse",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q161400",
+    "imdb": "tt0318627",
+    "tmdb": 1577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 94
+}
