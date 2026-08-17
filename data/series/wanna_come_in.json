@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wanna_come_in",
+  "title": "Wanna Come In?",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7968003",
+    "imdb": "tt0398374",
+    "tmdb": 16983
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

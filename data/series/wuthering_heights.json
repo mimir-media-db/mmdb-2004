@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wuthering_heights",
+  "title": "Wuthering Heights",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3676851",
+    "imdb": "tt0387936",
+    "tmdb": 74198
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

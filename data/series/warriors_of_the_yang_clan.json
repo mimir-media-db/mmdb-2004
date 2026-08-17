@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_warriors_of_the_yang_clan",
+  "title": "Warriors of the Yang Clan",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4921182",
+    "imdb": "tt1310500",
+    "tmdb": 57424
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 33
+}

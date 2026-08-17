@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wicked_science",
+  "title": "Wicked Science",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q706778",
+    "imdb": "tt0401079",
+    "tmdb": 15851
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}
