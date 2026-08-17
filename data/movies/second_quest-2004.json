@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_quest_2004",
+  "title": "The Second Quest",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124499335",
+    "imdb": "tt0374983",
+    "tmdb": 410395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 72
+}

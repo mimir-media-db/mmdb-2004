@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_kids_3d_game_over_2004",
+  "title": "Spy Kids 3-D: Game Over",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q550196",
+    "imdb": "tt0338459",
+    "tmdb": 12279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-05",
+  "runtime_minutes": 90
+}

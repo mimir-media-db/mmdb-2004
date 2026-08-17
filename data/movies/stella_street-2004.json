@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stella_street_2004",
+  "title": "Stella Street",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7607138",
+    "imdb": "tt0360025",
+    "tmdb": 202587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-22",
+  "runtime_minutes": 80
+}

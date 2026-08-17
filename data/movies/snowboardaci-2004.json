@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snowboardaci_2004",
+  "title": "Snowboarďáci",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7548533",
+    "imdb": "tt0406227",
+    "tmdb": 65897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-04",
+  "runtime_minutes": 99
+}

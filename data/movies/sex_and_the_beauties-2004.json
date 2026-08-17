@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_and_the_beauties_2004",
+  "title": "Sex and the Beauties",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16078798",
+    "imdb": "tt0406221",
+    "tmdb": 45497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 101
+}

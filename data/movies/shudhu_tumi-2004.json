@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shudhu_tumi_2004",
+  "title": "Shudhu Tumi",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254223",
+    "imdb": "tt1427699",
+    "tmdb": 1100215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

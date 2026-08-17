@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scratched_2004",
+  "title": "Scratched",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543443",
+    "imdb": "tt0480576",
+    "tmdb": 1107660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

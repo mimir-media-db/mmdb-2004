@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_lovers_2004",
+  "title": "The Shadow Lovers",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13013730",
+    "imdb": "tt0780058",
+    "tmdb": 251734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seduction_of_mimi_2004",
+  "title": "The Seduction of Mimi",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3019552",
+    "imdb": "tt0068950",
+    "tmdb": 56153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-07",
+  "runtime_minutes": 115
+}

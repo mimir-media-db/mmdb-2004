@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sergeant_pepper_2004",
+  "title": "Sergeant Pepper",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47525314",
+    "imdb": "tt0375053",
+    "tmdb": 264809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-06",
+  "runtime_minutes": 98
+}
