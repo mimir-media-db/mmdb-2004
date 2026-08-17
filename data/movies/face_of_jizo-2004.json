@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_face_of_jizo_2004",
+  "title": "The Face of Jizo",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17512692",
+    "imdb": "tt0419634",
+    "tmdb": 108078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-31",
+  "runtime_minutes": 99
+}

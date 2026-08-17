@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_obstructions_2004",
+  "title": "The Five Obstructions",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2632905",
+    "imdb": "tt0354575",
+    "tmdb": 12456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-08",
+  "runtime_minutes": 90
+}

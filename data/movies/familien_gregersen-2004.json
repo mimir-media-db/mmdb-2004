@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_familien_gregersen_2004",
+  "title": "Familien Gregersen",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12311031",
+    "imdb": "tt0391143",
+    "tmdb": 15929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-17",
+  "runtime_minutes": 210
+}

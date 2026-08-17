@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_future_of_food_2004",
+  "title": "The Future of Food",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3777220",
+    "imdb": "tt0427276",
+    "tmdb": 25465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-05-30"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feel_like_going_home_2004",
+  "title": "Feel Like Going Home",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3040309",
+    "imdb": "tt1065622",
+    "tmdb": 1153796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-01",
+  "runtime_minutes": 80
+}

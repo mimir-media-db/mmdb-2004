@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freres_2004",
+  "title": "Frères",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22000303",
+    "imdb": "tt0400447",
+    "tmdb": 574003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fangoria_blood_drive_2004",
+  "title": "Fangoria Blood Drive",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5433845",
+    "imdb": "tt0438021",
+    "tmdb": 346633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-08"
+}

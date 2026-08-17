@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_the_beginning_to_the_end_2004",
+  "title": "From the Beginning to the End",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955217",
+    "imdb": "tt8002254",
+    "tmdb": 1257949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
