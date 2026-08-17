@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_shades_of_truth",
+  "title": "Shades of Truth",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7460339",
+    "tmdb": 100391
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

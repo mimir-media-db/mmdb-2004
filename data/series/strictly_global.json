@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_strictly_global",
+  "title": "Strictly Global",
+  "start_year": 2004,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7623669",
+    "imdb": "tt0479845"
+  },
+  "last_updated": "2026-08-17"
+}

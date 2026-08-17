@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_suur_digiohtu",
+  "title": "Suur digiõhtu",
+  "start_year": 2003,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q31275182"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_something_happened_in_bali",
+  "title": "Something Happened in Bali",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q491393",
+    "imdb": "tt0482854",
+    "tmdb": 13733
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

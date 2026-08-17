@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_smoking_room",
+  "title": "The Smoking Room",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7764940",
+    "imdb": "tt0414773",
+    "tmdb": 3766
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

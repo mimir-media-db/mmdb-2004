@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sabor_a_ti",
+  "title": "Sabor a ti",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q597500",
+    "imdb": "tt0414767",
+    "tmdb": 248568
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 153
+}

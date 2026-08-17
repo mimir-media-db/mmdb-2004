@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sunshine_heartbeat",
+  "title": "Sunshine Heartbeat",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7641497",
+    "tmdb": 6556
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

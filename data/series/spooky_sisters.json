@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_spooky_sisters",
+  "title": "The Spooky Sisters",
+  "start_year": 2003,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5391823",
+    "imdb": "tt0463837"
+  },
+  "last_updated": "2026-08-17"
+}

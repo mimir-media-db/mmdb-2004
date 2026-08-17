@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stump_the_schwab",
+  "title": "Stump the Schwab",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q16951555",
+    "imdb": "tt0424726",
+    "tmdb": 3481
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 80
+}

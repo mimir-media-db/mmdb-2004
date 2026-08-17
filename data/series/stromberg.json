@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stromberg",
+  "title": "Stromberg",
+  "start_year": 2004,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1545694",
+    "imdb": "tt0428167",
+    "tmdb": 6202
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 46
+}

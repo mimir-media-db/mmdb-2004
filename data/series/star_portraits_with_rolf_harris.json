@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_star_portraits_with_rolf_harris",
+  "title": "Star Portraits with Rolf Harris",
+  "start_year": 2003,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q16951210",
+    "imdb": "tt0463838",
+    "tmdb": 3446
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

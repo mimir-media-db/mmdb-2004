@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_singapore_idol",
+  "title": "Singapore Idol",
+  "start_year": 2004,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7523004",
+    "imdb": "tt0815077",
+    "tmdb": 13245
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 54
+}

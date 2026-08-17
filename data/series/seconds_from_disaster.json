@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_seconds_from_disaster",
+  "title": "Seconds From Disaster",
+  "start_year": 2004,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q1140582",
+    "imdb": "tt0462133",
+    "tmdb": 9311
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 67
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_say_you_love_me",
+  "title": "Say You Love Me",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q493367",
+    "imdb": "tt0819863",
+    "tmdb": 36526
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

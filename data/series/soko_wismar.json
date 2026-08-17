@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_soko_wismar",
+  "title": "SOKO Wismar",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q878122",
+    "imdb": "tt0423730",
+    "tmdb": 41018
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 22,
+  "total_episodes": 518
+}

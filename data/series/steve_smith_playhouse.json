@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_steve_smith_playhouse",
+  "title": "Steve Smith Playhouse",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7613984",
+    "imdb": "tt0439400"
+  },
+  "last_updated": "2026-08-17"
+}
