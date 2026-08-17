@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passages_2004",
+  "title": "Passages",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7142489",
+    "imdb": "tt0415948",
+    "tmdb": 299285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 112
+}

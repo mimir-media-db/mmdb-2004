@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peligrosa_obsesion_2004",
+  "title": "Peligrosa obsesión",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10348013",
+    "imdb": "tt0414356",
+    "tmdb": 124364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 126
+}

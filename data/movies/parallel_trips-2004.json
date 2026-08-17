@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parallel_trips_2004",
+  "title": "Parallel Trips",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7134975",
+    "imdb": "tt3627490",
+    "tmdb": 1284900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peau_de_cochon_2004",
+  "title": "Peau de cochon",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3373879",
+    "imdb": "tt0425342",
+    "tmdb": 207751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 84
+}

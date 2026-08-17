@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panorama_ephemera_2004",
+  "title": "Panorama Ephemera",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2617607",
+    "imdb": "tt0469153",
+    "tmdb": 373518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

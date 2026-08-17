@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_ivan_2004",
+  "title": "Papá Iván",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5413479",
+    "imdb": "tt0276389",
+    "tmdb": 409948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 55
+}

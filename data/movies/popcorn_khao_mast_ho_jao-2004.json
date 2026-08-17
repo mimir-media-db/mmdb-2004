@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_popcorn_khao_mast_ho_jao_2004",
+  "title": "Popcorn Khao! Mast Ho Jao",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7229126",
+    "imdb": "tt0430480",
+    "tmdb": 1023617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
