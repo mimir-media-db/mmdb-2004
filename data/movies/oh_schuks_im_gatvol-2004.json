@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_schuks_im_gatvol_2004",
+  "title": "Oh Schuks... I'm Gatvol",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7080534",
+    "imdb": "tt0803049",
+    "tmdb": 62890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

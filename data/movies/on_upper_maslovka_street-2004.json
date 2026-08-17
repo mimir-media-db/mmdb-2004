@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_upper_maslovka_street_2004",
+  "title": "On Upper Maslovka Street",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4310885",
+    "imdb": "tt0462702",
+    "tmdb": 470692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 115
+}

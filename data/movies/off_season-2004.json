@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_off_season_2004",
+  "title": "The Off Season",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7754715",
+    "imdb": "tt0387460",
+    "tmdb": 28743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
