@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silver_hawk_2004",
+  "title": "Silver Hawk",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q837340",
+    "imdb": "tt0357894",
+    "tmdb": 41392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 99
+}

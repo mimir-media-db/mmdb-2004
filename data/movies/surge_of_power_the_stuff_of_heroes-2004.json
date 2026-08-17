@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surge_of_power_the_stuff_of_heroes_2004",
+  "title": "Surge of Power: The Stuff of Heroes",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7646170",
+    "imdb": "tt0424472",
+    "tmdb": 59497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

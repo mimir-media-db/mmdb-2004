@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stepford_wives_2004",
+  "title": "The Stepford Wives",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1212768",
+    "imdb": "tt0327162",
+    "tmdb": 9890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 93
+}

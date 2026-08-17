@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shake_hands_with_the_devil_the_journey_of_romeo_dallaire_2004",
+  "title": "Shake Hands with the Devil: The Journey of Roméo Dallaire",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2276508",
+    "imdb": "tt0424435",
+    "tmdb": 43627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strahl_2004",
+  "title": "Strähl",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q688058",
+    "imdb": "tt0396882",
+    "tmdb": 136281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 83
+}

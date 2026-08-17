@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sethurama_iyer_cbi_2004",
+  "title": "Sethurama Iyer CBI",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7456672",
+    "imdb": "tt0393724",
+    "tmdb": 267686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

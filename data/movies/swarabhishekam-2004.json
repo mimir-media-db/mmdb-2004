@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swarabhishekam_2004",
+  "title": "Swarabhishekam",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7653838",
+    "imdb": "tt0420230",
+    "tmdb": 307964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_an_african_farm_2004",
+  "title": "The Story of an African Farm",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7766828",
+    "imdb": "tt0388441",
+    "tmdb": 2316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

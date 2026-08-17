@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_size_me_2004",
+  "title": "Super Size Me",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q738662",
+    "imdb": "tt0390521",
+    "tmdb": 9372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}

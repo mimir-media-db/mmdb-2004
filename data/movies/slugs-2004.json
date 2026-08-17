@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slugs_2004",
+  "title": "Slugs",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1651605",
+    "imdb": "tt0395216",
+    "tmdb": 20193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_child_2004",
+  "title": "The Sleeping Child",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q953189",
+    "imdb": "tt0424997",
+    "tmdb": 331629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

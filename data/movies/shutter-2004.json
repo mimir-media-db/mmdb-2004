@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shutter_2004",
+  "title": "Shutter",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1519981",
+    "imdb": "tt0440803",
+    "tmdb": 17111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 92
+}

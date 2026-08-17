@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spravka_2004",
+  "title": "Spravka",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4438200",
+    "imdb": "tt0453912",
+    "tmdb": 337945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 10
+}

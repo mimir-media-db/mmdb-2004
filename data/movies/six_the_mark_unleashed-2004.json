@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_six_the_mark_unleashed_2004",
+  "title": "Six: The Mark Unleashed",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3962407",
+    "imdb": "tt0344777",
+    "tmdb": 43210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_salakhain_2004",
+  "title": "Salakhain",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7403496",
+    "imdb": "tt0801010",
+    "tmdb": 940219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

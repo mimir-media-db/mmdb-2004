@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_superbabies_baby_geniuses_2_2004",
+  "title": "Superbabies: Baby Geniuses 2",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3359347",
+    "imdb": "tt0270846",
+    "tmdb": 31117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 89
+}

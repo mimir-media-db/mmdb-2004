@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stryker_2004",
+  "title": "Stryker",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7625565",
+    "imdb": "tt0397657",
+    "tmdb": 213489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

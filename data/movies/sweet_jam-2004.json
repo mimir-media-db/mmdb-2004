@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_jam_2004",
+  "title": "Sweet Jam",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2230290",
+    "imdb": "tt0393174",
+    "tmdb": 130513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

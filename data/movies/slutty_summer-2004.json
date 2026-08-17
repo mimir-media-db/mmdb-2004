@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slutty_summer_2004",
+  "title": "Slutty Summer",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4390289",
+    "imdb": "tt0411883",
+    "tmdb": 17024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}
