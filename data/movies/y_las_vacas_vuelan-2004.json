@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_y_las_vacas_vuelan_2004",
+  "title": "Y las vacas vuelan",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6169455",
+    "imdb": "tt0441562",
+    "tmdb": 201792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-03",
+  "runtime_minutes": 60
+}
