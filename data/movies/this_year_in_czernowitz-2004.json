@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_year_in_czernowitz_2004",
+  "title": "This Year in Czernowitz",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50228141",
+    "imdb": "tt0409894",
+    "tmdb": 366176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-07",
+  "runtime_minutes": 134
+}

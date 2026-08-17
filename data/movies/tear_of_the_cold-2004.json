@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tear_of_the_cold_2004",
+  "title": "The Tear of the Cold",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5944105",
+    "imdb": "tt0773747",
+    "tmdb": 614980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-13",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_touching_the_void_2004",
+  "title": "Touching the Void",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2299632",
+    "imdb": "tt0379557",
+    "tmdb": 11194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-29",
+  "runtime_minutes": 106
+}

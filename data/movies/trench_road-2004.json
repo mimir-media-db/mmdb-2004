@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trench_road_2004",
+  "title": "Trench Road",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7838225",
+    "imdb": "tt0372359",
+    "tmdb": 145902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-27",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_musketeers_2004_musical_2004",
+  "title": "Three Musketeers (2004 musical)",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61114902",
+    "imdb": "tt8207174",
+    "tmdb": 913676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}
