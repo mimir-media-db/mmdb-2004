@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_neds_declassified_school_survival_guide",
+  "title": "Ned's Declassified School Survival Guide",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1535338",
+    "imdb": "tt0405576",
+    "tmdb": 1600
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 55
+}

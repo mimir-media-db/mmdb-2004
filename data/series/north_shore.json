@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_north_shore",
+  "title": "North Shore",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q674233",
+    "imdb": "tt0409594",
+    "tmdb": 1650
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 21
+}

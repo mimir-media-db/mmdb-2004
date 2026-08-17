@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_new_inventors",
+  "title": "The New Inventors",
+  "start_year": 2004,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7753636",
+    "imdb": "tt0926373",
+    "tmdb": 209
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 314
+}

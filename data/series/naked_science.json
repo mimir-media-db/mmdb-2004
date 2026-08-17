@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_naked_science",
+  "title": "Naked Science",
+  "start_year": 2003,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q915564",
+    "imdb": "tt0462125",
+    "tmdb": 5333
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 151
+}

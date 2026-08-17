@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nascar_outdoors",
+  "title": "NASCAR Outdoors",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6952484",
+    "imdb": "tt1214511"
+  },
+  "last_updated": "2026-08-17"
+}
