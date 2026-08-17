@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_renegadepresscom",
+  "title": "Renegadepress.com",
+  "start_year": 2004,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3402571",
+    "imdb": "tt0400018",
+    "tmdb": 24403
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 52
+}

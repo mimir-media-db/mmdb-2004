@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rendezvous_en_terre_inconnue",
+  "title": "Rendez-vous en terre inconnue",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3425270",
+    "imdb": "tt0950762",
+    "tmdb": 60591
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

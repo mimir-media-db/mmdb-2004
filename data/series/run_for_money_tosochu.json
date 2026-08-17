@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_run_for_money_tosochu",
+  "title": "Run for money: Tosochu",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q838136",
+    "imdb": "tt4073178",
+    "tmdb": 111386
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 57
+}

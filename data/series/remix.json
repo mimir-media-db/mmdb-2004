@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_remix",
+  "title": "Remix",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1971699",
+    "imdb": "tt2263510",
+    "tmdb": 1284
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 348
+}
