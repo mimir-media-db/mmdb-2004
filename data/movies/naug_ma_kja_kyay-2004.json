@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_naug_ma_kja_kyay_2004",
+  "title": "Naug Ma Kja Kyay",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16961841",
+    "imdb": "tt1204318"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

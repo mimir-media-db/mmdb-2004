@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naa_autograph_2004",
+  "title": "Naa Autograph",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251990",
+    "imdb": "tt0959328",
+    "tmdb": 307907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
