@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nema_problema_2004",
+  "title": "Nema problema",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q522498",
+    "imdb": "tt0420009",
+    "tmdb": 502370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

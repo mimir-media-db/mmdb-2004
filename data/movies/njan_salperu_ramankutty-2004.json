@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_njan_salperu_ramankutty_2004",
+  "title": "Njan Salperu Ramankutty",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7042392",
+    "imdb": "tt0378451",
+    "tmdb": 351639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

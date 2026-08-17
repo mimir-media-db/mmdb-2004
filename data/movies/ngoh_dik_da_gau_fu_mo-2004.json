@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ngoh_dik_da_gau_fu_mo_2004",
+  "title": "Ngoh dik da gau fu mo",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11074914",
+    "imdb": "tt0415177",
+    "tmdb": 143984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}

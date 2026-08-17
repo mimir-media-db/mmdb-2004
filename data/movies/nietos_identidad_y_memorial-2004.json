@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nietos_identidad_y_memorial_2004",
+  "title": "Nietos (Identidad y memorial)",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6042780",
+    "imdb": "tt0417012",
+    "tmdb": 209168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 75
+}
