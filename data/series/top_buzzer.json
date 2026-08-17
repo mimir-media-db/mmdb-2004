@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_buzzer",
+  "title": "Top Buzzer",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7824433",
+    "imdb": "tt0437757",
+    "tmdb": 20387
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

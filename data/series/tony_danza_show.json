@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tony_danza_show",
+  "title": "The Tony Danza Show",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7769570",
+    "imdb": "tt0421470",
+    "tmdb": 319
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 330
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tna_impact",
+  "title": "TNA iMPACT!",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64160",
+    "imdb": "tt0421463",
+    "tmdb": 4638
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 795
+}

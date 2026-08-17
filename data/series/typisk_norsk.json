@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_typisk_norsk",
+  "title": "Typisk norsk",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6514009",
+    "imdb": "tt0459163",
+    "tmdb": 4103
+  },
+  "last_updated": "2026-08-17"
+}

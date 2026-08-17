@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_is_daniel_cook",
+  "title": "This is Daniel Cook",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7786426",
+    "imdb": "tt0449766",
+    "tmdb": 11068
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 130
+}
