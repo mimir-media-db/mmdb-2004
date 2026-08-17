@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bell_witch_haunting_2004",
+  "title": "Bell Witch Haunting",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4883298",
+    "imdb": "tt0433341",
+    "tmdb": 163589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

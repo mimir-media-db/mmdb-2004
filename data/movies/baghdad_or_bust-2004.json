@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baghdad_or_bust_2004",
+  "title": "Baghdad or Bust",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4841829",
+    "imdb": "tt0880603",
+    "tmdb": 1459633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

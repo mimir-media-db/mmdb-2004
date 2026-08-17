@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bienvenue_en_suisse_2004",
+  "title": "Bienvenue en Suisse",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2901995",
+    "imdb": "tt0386858",
+    "tmdb": 56785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

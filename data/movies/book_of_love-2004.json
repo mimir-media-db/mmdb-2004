@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_love_2004",
+  "title": "Book of Love",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2910453",
+    "imdb": "tt0376006",
+    "tmdb": 120515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 83
+}

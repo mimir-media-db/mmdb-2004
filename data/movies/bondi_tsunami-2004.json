@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bondi_tsunami_2004",
+  "title": "Bondi Tsunami",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4941409",
+    "imdb": "tt0439476",
+    "tmdb": 199103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 88
+}

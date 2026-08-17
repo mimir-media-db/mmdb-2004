@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bear_hug_2004",
+  "title": "Bear Hug",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11078622",
+    "imdb": "tt0446927",
+    "tmdb": 234860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

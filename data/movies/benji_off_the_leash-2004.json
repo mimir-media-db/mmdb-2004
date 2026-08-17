@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_benji_off_the_leash_2004",
+  "title": "Benji: Off the Leash!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4889508",
+    "imdb": "tt0315273",
+    "tmdb": 44415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 97
+}

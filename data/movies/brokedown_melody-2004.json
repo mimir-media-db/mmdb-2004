@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brokedown_melody_2004",
+  "title": "A Brokedown Melody",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4655654",
+    "imdb": "tt0479584",
+    "tmdb": 34091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

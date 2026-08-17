@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_body_image_2004",
+  "title": "Body Image",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3694104",
+    "imdb": "tt0439515",
+    "tmdb": 580590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 30
+}

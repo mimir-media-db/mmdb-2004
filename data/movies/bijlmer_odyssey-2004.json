@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bijlmer_odyssey_2004",
+  "title": "Bijlmer Odyssey",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5728522",
+    "imdb": "tt0433863",
+    "tmdb": 245347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 39
+}
