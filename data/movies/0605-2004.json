@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_0605_2004",
+  "title": "06/05",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q475944",
+    "imdb": "tt0419952",
+    "tmdb": 30860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 117
+}
