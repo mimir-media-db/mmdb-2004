@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_virumaandi_2004",
+  "title": "Virumaandi",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3424339",
+    "imdb": "tt0364647",
+    "tmdb": 66340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 175
+}

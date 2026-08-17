@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampires_vs_zombies_2004",
+  "title": "Vampires vs. Zombies",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1034224",
+    "imdb": "tt0408309",
+    "tmdb": 27471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}
