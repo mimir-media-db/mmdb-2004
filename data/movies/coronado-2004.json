@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coronado_2004",
+  "title": "Coronado",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71785",
+    "imdb": "tt0337945",
+    "tmdb": 25426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-22",
+  "runtime_minutes": 88
+}

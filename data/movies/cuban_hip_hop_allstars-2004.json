@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cuban_hip_hop_allstars_2004",
+  "title": "The Cuban Hip Hop All-Stars",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123528295",
+    "imdb": "tt0481085"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

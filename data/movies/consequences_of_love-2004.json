@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_consequences_of_love_2004",
+  "title": "The Consequences of Love",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1058226",
+    "imdb": "tt0398883",
+    "tmdb": 24653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-05-13",
+  "runtime_minutes": 100
+}

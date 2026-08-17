@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_comes_the_black_dog_2004",
+  "title": "Comes The Black Dog",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65047533",
+    "imdb": "tt0490428",
+    "tmdb": 276221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-27"
+}

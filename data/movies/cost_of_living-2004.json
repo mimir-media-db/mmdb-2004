@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cost_of_living_2004",
+  "title": "The Cost of Living",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16833886",
+    "imdb": "tt0463949",
+    "tmdb": 116599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 35
+}

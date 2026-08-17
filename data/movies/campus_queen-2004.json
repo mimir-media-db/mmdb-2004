@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_campus_queen_2004",
+  "title": "The Campus Queen",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20978147",
+    "imdb": "tt0489455",
+    "tmdb": 359430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

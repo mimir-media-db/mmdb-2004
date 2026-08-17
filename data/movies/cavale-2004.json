@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cavale_2004",
+  "title": "Cavale",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2943208",
+    "imdb": "tt0233418",
+    "tmdb": 24259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-22",
+  "runtime_minutes": 117
+}
