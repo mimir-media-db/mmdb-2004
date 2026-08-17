@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_petites_filles_2004",
+  "title": "3 petites filles",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3540021",
+    "imdb": "tt0388487",
+    "tmdb": 79047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 102
+}
