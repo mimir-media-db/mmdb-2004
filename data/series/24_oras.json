@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_24_oras",
+  "title": "24 Oras",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3585951",
+    "imdb": "tt0764672",
+    "tmdb": 102363
+  },
+  "last_updated": "2026-08-17"
+}
