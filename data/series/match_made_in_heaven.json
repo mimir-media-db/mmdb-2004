@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_match_made_in_heaven",
+  "title": "Match Made in Heaven",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6828616",
+    "imdb": "tt32902869",
+    "tmdb": 259073
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

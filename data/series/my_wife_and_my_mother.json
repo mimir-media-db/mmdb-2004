@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_wife_and_my_mother",
+  "title": "My Wife and My Mother",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125274592",
+    "imdb": "tt0426734",
+    "tmdb": 48847
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

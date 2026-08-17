@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_restaurant_rules",
+  "title": "My Restaurant Rules",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q829066",
+    "imdb": "tt0449548",
+    "tmdb": 11137
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 63
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_moscow_saga",
+  "title": "Moscow Saga",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4303948",
+    "imdb": "tt0476102",
+    "tmdb": 249312
+  },
+  "last_updated": "2026-08-17"
+}

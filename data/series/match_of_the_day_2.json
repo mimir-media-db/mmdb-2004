@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_match_of_the_day_2",
+  "title": "Match of the Day 2",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6786229",
+    "imdb": "tt0421396",
+    "tmdb": 3231
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_misto_nahore",
+  "title": "Místo nahore",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102382639",
+    "imdb": "tt0328778",
+    "tmdb": 77586
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_my_lovely_family",
+  "title": "My Lovely Family",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7233771"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 179
+}

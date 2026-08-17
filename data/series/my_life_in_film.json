@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_life_in_film",
+  "title": "My Life in Film",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3868859",
+    "imdb": "tt0426757",
+    "tmdb": 6271
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ma_terminale",
+  "title": "Ma terminale",
+  "start_year": 2004,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3273594",
+    "imdb": "tt0434701",
+    "tmdb": 69251
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 25
+}

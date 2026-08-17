@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_fair_nanny",
+  "title": "My Fair Nanny",
+  "start_year": 2004,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q600931",
+    "imdb": "tt0442726",
+    "tmdb": 33123
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 173
+}

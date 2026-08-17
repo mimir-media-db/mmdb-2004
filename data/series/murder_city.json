@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_city",
+  "title": "Murder City",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1854033",
+    "imdb": "tt0364844",
+    "tmdb": 2387
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

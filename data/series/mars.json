@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mars",
+  "title": "Mars",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3849859",
+    "imdb": "tt2881292",
+    "tmdb": 34949
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

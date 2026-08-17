@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_life_as_a_popat",
+  "title": "My Life as a Popat",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6945868",
+    "imdb": "tt0420429",
+    "tmdb": 3990
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

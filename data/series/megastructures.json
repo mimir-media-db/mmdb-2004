@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_megastructures",
+  "title": "MegaStructures",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q658496",
+    "imdb": "tt0446850",
+    "tmdb": 4199
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 100
+}

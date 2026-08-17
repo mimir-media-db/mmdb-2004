@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_metropia",
+  "title": "Metropia",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q6824885",
+    "imdb": "tt0434704",
+    "tmdb": 11154
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 90
+}

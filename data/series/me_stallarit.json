@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_me_stallarit",
+  "title": "Me stallarit",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6803001",
+    "imdb": "tt0424681",
+    "tmdb": 43391
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

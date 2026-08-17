@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_magic_tree",
+  "title": "The Magic Tree",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1027506",
+    "imdb": "tt4145722",
+    "tmdb": 69072
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

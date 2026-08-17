@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mel_and_joey",
+  "title": "Mel and Joey",
+  "start_year": 2004,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3585907",
+    "imdb": "tt0441934",
+    "tmdb": 298
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 360
+}

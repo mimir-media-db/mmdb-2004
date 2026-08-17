@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_mysti_show",
+  "title": "The Mysti Show",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7752935",
+    "imdb": "tt4072422"
+  },
+  "last_updated": "2026-08-17"
+}
