@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zinloos_2004",
+  "title": "Zinloos",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2759069",
+    "imdb": "tt0406376",
+    "tmdb": 305849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-24",
+  "runtime_minutes": 88
+}
