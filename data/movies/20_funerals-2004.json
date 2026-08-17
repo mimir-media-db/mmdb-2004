@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_20_funerals_2004",
+  "title": "20 Funerals",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q212839",
+    "imdb": "tt0411058",
+    "tmdb": 73395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 77
+}
