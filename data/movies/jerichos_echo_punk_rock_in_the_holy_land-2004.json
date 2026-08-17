@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jerichos_echo_punk_rock_in_the_holy_land_2004",
+  "title": "Jericho's Echo: Punk Rock in the Holy Land",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6592072",
+    "imdb": "tt0454852",
+    "tmdb": 305584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 72
+}

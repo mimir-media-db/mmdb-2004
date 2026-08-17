@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_maria_e_da_vinci_2004",
+  "title": "Jesus, Maria e Da Vinci",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10306838",
+    "imdb": "tt0896823"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jingzhe_2004",
+  "title": "Jingzhe",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6202471",
+    "imdb": "tt0406002",
+    "tmdb": 258494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

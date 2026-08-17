@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_justice_2004",
+  "title": "Justice",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10313186",
+    "imdb": "tt0397491",
+    "tmdb": 228398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 107
+}
