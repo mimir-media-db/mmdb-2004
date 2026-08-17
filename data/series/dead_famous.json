@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dead_famous",
+  "title": "Dead Famous",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5245183",
+    "imdb": "tt0407379",
+    "tmdb": 15711
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}

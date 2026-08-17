@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_drake_josh",
+  "title": "Drake & Josh",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q753647",
+    "imdb": "tt0363328",
+    "tmdb": 2038
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 57
+}

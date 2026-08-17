@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_bachelorette",
+  "title": "Die Bachelorette",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q68098169",
+    "imdb": "tt1037281",
+    "tmdb": 81338
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 30
+}

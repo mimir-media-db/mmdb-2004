@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dog_the_bounty_hunter",
+  "title": "Dog the Bounty Hunter",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q794191",
+    "imdb": "tt0424627",
+    "tmdb": 1883
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 246
+}

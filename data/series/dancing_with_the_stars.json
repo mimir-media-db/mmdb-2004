@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dancing_with_the_stars",
+  "title": "Dancing with the Stars",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3281705",
+    "imdb": "tt0434676",
+    "tmdb": 3740
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 164
+}

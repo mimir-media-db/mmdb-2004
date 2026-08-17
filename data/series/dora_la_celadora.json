@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dora_la_celadora",
+  "title": "Dora, la celadora",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5813476",
+    "imdb": "tt0439912",
+    "tmdb": 100393
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 122
+}

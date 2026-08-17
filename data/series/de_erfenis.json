@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_erfenis",
+  "title": "De erfenis",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3022224",
+    "imdb": "tt0407386",
+    "tmdb": 24559
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

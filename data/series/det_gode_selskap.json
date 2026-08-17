@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_det_gode_selskap",
+  "title": "Det gode selskap",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11965454",
+    "imdb": "tt0441056"
+  },
+  "last_updated": "2026-08-17"
+}

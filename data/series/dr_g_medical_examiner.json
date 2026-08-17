@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_g_medical_examiner",
+  "title": "Dr. G: Medical Examiner",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2881880",
+    "imdb": "tt0364314",
+    "tmdb": 6166
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 101
+}
