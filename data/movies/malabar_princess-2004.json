@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malabar_princess_2004",
+  "title": "Malabar Princess",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q367959",
+    "imdb": "tt0362048",
+    "tmdb": 60030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 94
+}

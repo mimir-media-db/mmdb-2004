@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_millionaire_2004",
+  "title": "Millionaire",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1935542",
+    "imdb": "tt0437440",
+    "tmdb": 39643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 140
+}

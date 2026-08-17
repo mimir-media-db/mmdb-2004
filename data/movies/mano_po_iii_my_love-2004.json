@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mano_po_iii_my_love_2004",
+  "title": "Mano Po III: My Love",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6751079",
+    "imdb": "tt0422716",
+    "tmdb": 287641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 112
+}

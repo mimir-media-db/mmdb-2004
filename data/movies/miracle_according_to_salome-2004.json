@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_according_to_salome_2004",
+  "title": "The Miracle According to Salomé",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7751619",
+    "imdb": "tt0411665",
+    "tmdb": 177387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 97
+}

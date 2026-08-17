@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_and_mona_2004",
+  "title": "Max and Mona",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3302380",
+    "imdb": "tt0382839",
+    "tmdb": 158273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 98
+}

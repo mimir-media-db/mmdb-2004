@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mindbenders_2004",
+  "title": "Mindbenders",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6863746",
+    "imdb": "tt0428825",
+    "tmdb": 943632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manners_of_dying_2004",
+  "title": "Manners of Dying",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q457925",
+    "imdb": "tt0435181",
+    "tmdb": 241388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 104
+}

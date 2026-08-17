@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friend_henry_2004",
+  "title": "My Friend Henry",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11903081",
+    "imdb": "tt0387701",
+    "tmdb": 55748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

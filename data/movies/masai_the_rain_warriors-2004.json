@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masai_the_rain_warriors_2004",
+  "title": "Masai: The Rain Warriors",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3297539",
+    "imdb": "tt0348847",
+    "tmdb": 74684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 94
+}

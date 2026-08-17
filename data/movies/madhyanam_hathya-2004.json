@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madhyanam_hathya_2004",
+  "title": "Madhyanam Hathya",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6727648",
+    "imdb": "tt3433748",
+    "tmdb": 528445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

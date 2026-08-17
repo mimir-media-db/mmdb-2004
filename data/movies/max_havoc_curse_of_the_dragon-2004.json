@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_max_havoc_curse_of_the_dragon_2004",
+  "title": "Max Havoc: Curse of the Dragon",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6794840",
+    "imdb": "tt0404225",
+    "tmdb": 41628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
