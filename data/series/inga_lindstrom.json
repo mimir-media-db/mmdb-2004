@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_inga_lindstrom",
+  "title": "Inga Lindström",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28062681",
+    "imdb": "tt0920505",
+    "tmdb": 61385
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 95
+}

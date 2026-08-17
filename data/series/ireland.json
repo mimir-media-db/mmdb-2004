@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ireland",
+  "title": "Ireland",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q11256866",
+    "imdb": "tt0477490",
+    "tmdb": 36293
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

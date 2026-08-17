@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_icac_investigators_2004",
+  "title": "ICAC Investigators 2004",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16922746"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

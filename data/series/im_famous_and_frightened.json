@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_im_famous_and_frightened",
+  "title": "I'm Famous and Frightened!",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5966235",
+    "imdb": "tt0402660"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 12
+}
