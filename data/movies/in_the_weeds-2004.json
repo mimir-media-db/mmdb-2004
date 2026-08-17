@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_weeds_2004",
+  "title": "In the Weeds",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1930284",
+    "imdb": "tt0210756",
+    "tmdb": 115646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-15",
+  "runtime_minutes": 91
+}

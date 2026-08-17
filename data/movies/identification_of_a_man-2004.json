@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_identification_of_a_man_2004",
+  "title": "Identification of a Man",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85975708",
+    "imdb": "tt3963488",
+    "tmdb": 981811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_casablanca_angels_dont_fly_2004",
+  "title": "In Casablanca, Angels Don't Fly",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12231386",
+    "imdb": "tt0424261",
+    "tmdb": 273442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-05-16",
+  "runtime_minutes": 97
+}

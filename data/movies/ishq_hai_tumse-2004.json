@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ishq_hai_tumse_2004",
+  "title": "Ishq Hai Tumse",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16850074",
+    "imdb": "tt0392950",
+    "tmdb": 356416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

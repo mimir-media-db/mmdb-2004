@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_2004",
+  "title": "It",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6091497",
+    "imdb": "tt0436669",
+    "tmdb": 64600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-12"
+}
