@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vessel_of_sand",
+  "title": "Vessel of Sand",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16951734",
+    "imdb": "tt0453337",
+    "tmdb": 35376
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}
