@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grande_ourse",
+  "title": "Grande ourse",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3114997",
+    "imdb": "tt0383782",
+    "tmdb": 38583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}
