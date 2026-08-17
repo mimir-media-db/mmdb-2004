@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_sacco_and_vanzetti_2004",
+  "title": "The Diary of Sacco and Vanzetti",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7730109",
+    "imdb": "tt0779263"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

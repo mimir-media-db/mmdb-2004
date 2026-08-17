@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_with_the_wind_2004",
+  "title": "Dance with the Wind",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4451148",
+    "imdb": "tt0400209",
+    "tmdb": 353552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 132
+}

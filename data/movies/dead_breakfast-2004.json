@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_breakfast_2004",
+  "title": "Dead & Breakfast",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3020515",
+    "imdb": "tt0350774",
+    "tmdb": 21838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dealer_2004",
+  "title": "Dealer",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q902949",
+    "imdb": "tt0398013",
+    "tmdb": 58529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 136
+}

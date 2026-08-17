@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_without_a_mexican_2004",
+  "title": "A Day Without a Mexican",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2880136",
+    "imdb": "tt0377744",
+    "tmdb": 16427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}

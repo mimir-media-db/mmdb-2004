@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_still_ghost_of_the_needle_2004",
+  "title": "Dead Still – Ghost of the Needle",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1180864",
+    "imdb": "tt0367798",
+    "tmdb": 164423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 81
+}

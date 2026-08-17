@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_donnies_story_the_life_of_donald_goines_2004",
+  "title": "Donnie's Story: The Life of Donald Goines",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3714008"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 64
+}

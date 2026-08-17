@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_valley_the_revenge_of_bloody_bill_2004",
+  "title": "Death Valley: The Revenge of Bloody Bill",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1825884",
+    "imdb": "tt0403885",
+    "tmdb": 20669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 88
+}
