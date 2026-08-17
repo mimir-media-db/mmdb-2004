@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aparichithan_2004",
+  "title": "Aparichithan",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4779137",
+    "imdb": "tt0396456",
+    "tmdb": 269844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

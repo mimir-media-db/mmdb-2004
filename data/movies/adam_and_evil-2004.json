@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adam_and_evil_2004",
+  "title": "Adam and Evil",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3604967",
+    "imdb": "tt0357414",
+    "tmdb": 61165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

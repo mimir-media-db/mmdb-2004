@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ahi_tienes_a_tu_madre_2004",
+  "title": "Ahí tienes a tu Madre",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3607031",
+    "imdb": "tt0407508"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 63
+}

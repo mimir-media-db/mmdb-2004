@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_addiction_when_nothing_is_enough_2004",
+  "title": "Addiction – When Nothing Is Enough",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72172",
+    "imdb": "tt0342689",
+    "tmdb": 20162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 98
+}

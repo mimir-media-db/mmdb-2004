@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adam_paul_2004",
+  "title": "Adam & Paul",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4680027",
+    "imdb": "tt0419420",
+    "tmdb": 21810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_affair_2004",
+  "title": "The Affair",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7712750",
+    "imdb": "tt0339804",
+    "tmdb": 447843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

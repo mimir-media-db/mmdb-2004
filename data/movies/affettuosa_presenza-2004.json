@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_affettuosa_presenza_2004",
+  "title": "Affettuosa presenza",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3606158",
+    "imdb": "tt1985006",
+    "tmdb": 505730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 63
+}

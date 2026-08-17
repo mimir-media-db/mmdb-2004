@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arsene_lupin_2004",
+  "title": "Arsène Lupin",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q705232",
+    "imdb": "tt0373690",
+    "tmdb": 11540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 131
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_across_the_niger_2004",
+  "title": "Across the Niger",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4676490",
+    "imdb": "tt0834043",
+    "tmdb": 412645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

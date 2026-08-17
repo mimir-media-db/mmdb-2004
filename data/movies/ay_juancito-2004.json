@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ay_juancito_2004",
+  "title": "Ay Juancito",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q251574",
+    "imdb": "tt0362789",
+    "tmdb": 600046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 115
+}

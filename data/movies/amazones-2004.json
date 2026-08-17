@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amazones_2004",
+  "title": "Amazones",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2605505",
+    "imdb": "tt0390833",
+    "tmdb": 24143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 100
+}
