@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_friss_oder_stirb",
+  "title": "Friss oder stirb",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1465113",
+    "imdb": "tt0838242"
+  },
+  "last_updated": "2026-08-17"
+}

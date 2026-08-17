@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_farm",
+  "title": "The Farm",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7733443",
+    "imdb": "tt0426685",
+    "tmdb": 13615
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

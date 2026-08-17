@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_full_house",
+  "title": "Full House",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q386680",
+    "imdb": "tt0464625",
+    "tmdb": 3504
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

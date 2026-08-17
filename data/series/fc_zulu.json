@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fc_zulu",
+  "title": "FC Zulu",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5425260",
+    "imdb": "tt0424637",
+    "tmdb": 1735
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}
