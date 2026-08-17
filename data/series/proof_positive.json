@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_proof_positive",
+  "title": "Proof Positive",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7249991",
+    "imdb": "tt0423716",
+    "tmdb": 581
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

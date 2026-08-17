@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_plus_belle_la_vie",
+  "title": "Plus belle la vie",
+  "start_year": 2004,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q1381883",
+    "imdb": "tt0423713",
+    "tmdb": 8590
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 18,
+  "total_episodes": 4667
+}

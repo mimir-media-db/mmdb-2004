@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_power_rangers_dino_thunder",
+  "title": "Power Rangers Dino Thunder",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q2034861",
+    "imdb": "tt0373587"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 38
+}

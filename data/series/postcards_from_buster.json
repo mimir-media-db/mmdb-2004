@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_postcards_from_buster",
+  "title": "Postcards from Buster",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5654782",
+    "imdb": "tt0426774",
+    "tmdb": 85
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 55
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paul_ogrady_show",
+  "title": "The Paul O'Grady Show",
+  "start_year": 2004,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7756382",
+    "imdb": "tt0431559",
+    "tmdb": 3430
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 769
+}

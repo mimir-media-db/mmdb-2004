@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_phil_of_the_future",
+  "title": "Phil of the Future",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q862066",
+    "imdb": "tt0340281",
+    "tmdb": 1528
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 43
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prisionera",
+  "title": "Prisionera",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q947760",
+    "imdb": "tt0405589",
+    "tmdb": 108535
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 180
+}
