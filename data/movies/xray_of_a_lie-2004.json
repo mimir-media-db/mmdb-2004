@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_xray_of_a_lie_2004",
+  "title": "X-Ray of a Lie",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2597361",
+    "imdb": "tt0479810"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 81
+}
