@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kaat_co",
+  "title": "Kaat & Co",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q13740535",
+    "imdb": "tt0411001",
+    "tmdb": 238057
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

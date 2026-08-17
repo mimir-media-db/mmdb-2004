@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_krniken",
+  "title": "Krøniken",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1782870",
+    "imdb": "tt0327321",
+    "tmdb": 4484
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

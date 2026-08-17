@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_koffee_with_karan",
+  "title": "Koffee with Karan",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1778338",
+    "imdb": "tt0445883",
+    "tmdb": 14544
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 93
+}
