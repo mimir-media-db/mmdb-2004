@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casablanca_driver_2004",
+  "title": "Casablanca Driver",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2940783",
+    "imdb": "tt0381077",
+    "tmdb": 48394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 82
+}

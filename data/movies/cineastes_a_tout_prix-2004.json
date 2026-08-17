@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cineastes_a_tout_prix_2004",
+  "title": "Cinéastes à tout prix",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2973090",
+    "imdb": "tt0436177",
+    "tmdb": 393040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

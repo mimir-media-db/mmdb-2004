@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comunque_mia_2004",
+  "title": "Comunque mia",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3685883",
+    "imdb": "tt1776131",
+    "tmdb": 432350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

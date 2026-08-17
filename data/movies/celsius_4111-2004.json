@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_celsius_4111_2004",
+  "title": "Celsius 41.11",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5058447",
+    "imdb": "tt0424885",
+    "tmdb": 210864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

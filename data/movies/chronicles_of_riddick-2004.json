@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chronicles_of_riddick_2004",
+  "title": "The Chronicles of Riddick",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q471976",
+    "imdb": "tt0296572",
+    "tmdb": 2789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cause_toujours_2004",
+  "title": "Cause toujours!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2943137",
+    "imdb": "tt0383966",
+    "tmdb": 78279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 87
+}

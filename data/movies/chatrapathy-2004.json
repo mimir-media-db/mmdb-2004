@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chatrapathy_2004",
+  "title": "Chatrapathy",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3429499",
+    "imdb": "tt13789364",
+    "tmdb": 78628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

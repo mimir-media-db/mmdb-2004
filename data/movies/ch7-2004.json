@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ch7_2004",
+  "title": "CH7",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1023596",
+    "imdb": "tt0428288",
+    "tmdb": 1497245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chathikkatha_chanthu_2004",
+  "title": "Chathikkatha Chanthu",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5087726",
+    "imdb": "tt0393147",
+    "tmdb": 471789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
