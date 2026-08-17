@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_200_km_2004",
+  "title": "200 Km.",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90819932",
+    "imdb": "tt0460390",
+    "tmdb": 645397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-09",
+  "runtime_minutes": 94
+}
