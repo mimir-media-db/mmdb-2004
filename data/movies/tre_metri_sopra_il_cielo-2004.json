@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tre_metri_sopra_il_cielo_2004",
+  "title": "Tre metri sopra il cielo",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1062992",
+    "imdb": "tt0388483",
+    "tmdb": 56903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 98
+}

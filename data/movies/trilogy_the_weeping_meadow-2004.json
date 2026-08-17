@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trilogy_the_weeping_meadow_2004",
+  "title": "Trilogy: The Weeping Meadow",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2554809",
+    "imdb": "tt0366721",
+    "tmdb": 37952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 170
+}

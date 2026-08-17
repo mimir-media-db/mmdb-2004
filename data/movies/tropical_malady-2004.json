@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tropical_malady_2004",
+  "title": "Tropical Malady",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q594131",
+    "imdb": "tt0381668",
+    "tmdb": 11534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_level_one_2004",
+  "title": "Tokyo: Level One",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11524597",
+    "imdb": "tt0468924",
+    "tmdb": 831516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

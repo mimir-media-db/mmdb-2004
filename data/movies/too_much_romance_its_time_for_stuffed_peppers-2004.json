@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_too_much_romance_its_time_for_stuffed_peppers_2004",
+  "title": "Too Much Romance... It's Time for Stuffed Peppers",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3899363",
+    "imdb": "tt0418590",
+    "tmdb": 127450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 98
+}

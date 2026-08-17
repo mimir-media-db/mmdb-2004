@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thirty_lies_or_so_2004",
+  "title": "Thirty Lies or So",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3524715",
+    "imdb": "tt0452542",
+    "tmdb": 327956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

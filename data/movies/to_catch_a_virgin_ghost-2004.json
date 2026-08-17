@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_catch_a_virgin_ghost_2004",
+  "title": "To Catch a Virgin Ghost",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3485321",
+    "imdb": "tt0420183",
+    "tmdb": 48895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 109
+}

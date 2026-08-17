@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tripping_with_caveh_2004",
+  "title": "Tripping with Caveh",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7843755",
+    "imdb": "tt0429192",
+    "tmdb": 138716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

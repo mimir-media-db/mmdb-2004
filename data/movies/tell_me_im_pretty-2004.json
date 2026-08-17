@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_me_im_pretty_2004",
+  "title": "Tell Me I'm Pretty",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3156681",
+    "imdb": "tt0408927",
+    "tmdb": 56008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}

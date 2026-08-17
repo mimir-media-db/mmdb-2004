@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiovivo_c_1950_2004",
+  "title": "Tiovivo c. 1950",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q602651",
+    "imdb": "tt0425542",
+    "tmdb": 75508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 150
+}

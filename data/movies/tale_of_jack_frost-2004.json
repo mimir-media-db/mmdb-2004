@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_jack_frost_2004",
+  "title": "The Tale of Jack Frost",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4421372",
+    "imdb": "tt0499576",
+    "tmdb": 52834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 29
+}
