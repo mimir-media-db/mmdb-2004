@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_casino",
+  "title": "The Casino",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7721548",
+    "imdb": "tt0390688",
+    "tmdb": 10579
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

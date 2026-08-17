@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crazy_rulers_of_the_world",
+  "title": "The Crazy Rulers of the World",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128789812",
+    "imdb": "tt0437000",
+    "tmdb": 27791
+  },
+  "last_updated": "2026-08-17"
+}

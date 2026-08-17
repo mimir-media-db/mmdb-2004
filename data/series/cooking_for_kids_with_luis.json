@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cooking_for_kids_with_luis",
+  "title": "Cooking For Kids with Luis",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5167133",
+    "imdb": "tt2078035",
+    "tmdb": 13304
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

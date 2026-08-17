@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_corner_gas",
+  "title": "Corner Gas",
+  "start_year": 2004,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2276079",
+    "imdb": "tt0397138",
+    "tmdb": 429
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 107
+}

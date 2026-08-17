@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_casos_de_familia",
+  "title": "Casos de Familia",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5049004",
+    "imdb": "tt1244650"
+  },
+  "last_updated": "2026-08-17"
+}

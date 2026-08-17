@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_car_booty",
+  "title": "Car Booty",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5037209",
+    "imdb": "tt0416355"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 3
+}

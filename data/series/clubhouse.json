@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_clubhouse",
+  "title": "Clubhouse",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5136525",
+    "imdb": "tt0410970",
+    "tmdb": 9893
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

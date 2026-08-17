@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_count_of_myeongdong",
+  "title": "Count of Myeongdong",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12963009"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

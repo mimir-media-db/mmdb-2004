@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cold_blood",
+  "title": "Cold Blood",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5850339",
+    "imdb": "tt0411023",
+    "tmdb": 46537
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

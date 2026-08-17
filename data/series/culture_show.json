@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_culture_show",
+  "title": "The Culture Show",
+  "start_year": 2004,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7728389",
+    "imdb": "tt0435950",
+    "tmdb": 9505
+  },
+  "last_updated": "2026-08-17"
+}
