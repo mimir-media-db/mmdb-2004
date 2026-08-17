@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guys_and_balls_2004",
+  "title": "Guys and Balls",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q240535",
+    "imdb": "tt0375911",
+    "tmdb": 5873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 102
+}

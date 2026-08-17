@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_upriver_2004",
+  "title": "Going Upriver",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1534422",
+    "imdb": "tt0407263",
+    "tmdb": 78516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 87
+}

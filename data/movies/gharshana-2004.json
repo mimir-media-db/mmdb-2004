@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gharshana_2004",
+  "title": "Gharshana",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5555796",
+    "imdb": "tt0475591",
+    "tmdb": 63671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

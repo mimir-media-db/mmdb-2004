@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_of_earthly_delights_2004",
+  "title": "The Garden of Earthly Delights",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6988417",
+    "imdb": "tt0403056",
+    "tmdb": 117343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 103
+}

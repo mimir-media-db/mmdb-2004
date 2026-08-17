@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_the_distance_2004",
+  "title": "Going the Distance",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2734939",
+    "imdb": "tt0388285",
+    "tmdb": 19423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garcon_stupide_2004",
+  "title": "Garçon stupide",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3098674",
+    "imdb": "tt0419766",
+    "tmdb": 12453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 94
+}

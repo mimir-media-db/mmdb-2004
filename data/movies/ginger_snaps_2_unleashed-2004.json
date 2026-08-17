@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ginger_snaps_2_unleashed_2004",
+  "title": "Ginger Snaps 2: Unleashed",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1524996",
+    "imdb": "tt0353489",
+    "tmdb": 10361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 91
+}

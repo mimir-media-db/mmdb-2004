@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gangsta_girls_2004",
+  "title": "Gangsta Girls",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5521218",
+    "imdb": "tt3099152",
+    "tmdb": 386220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

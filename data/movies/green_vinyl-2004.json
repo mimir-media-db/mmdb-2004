@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_vinyl_2004",
+  "title": "Green Vinyl",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10391601",
+    "imdb": "tt1817292",
+    "tmdb": 172513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 13
+}

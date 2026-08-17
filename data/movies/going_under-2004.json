@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_going_under_2004",
+  "title": "Going Under",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5577855",
+    "imdb": "tt0431091",
+    "tmdb": 235708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
