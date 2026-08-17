@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zapata_el_sueno_de_un_heroe_2004",
+  "title": "Zapata: El sueño de un héroe",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8066381",
+    "imdb": "tt0307692",
+    "tmdb": 174120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
