@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_happy_day_2004",
+  "title": "Oh Happy Day",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12329944",
+    "imdb": "tt0381466",
+    "tmdb": 51147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-05",
+  "runtime_minutes": 98
+}

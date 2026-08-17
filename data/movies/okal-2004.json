@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_okal_2004",
+  "title": "Okal",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12228814",
+    "imdb": "tt0418986",
+    "tmdb": 42320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-06",
+  "runtime_minutes": 118
+}

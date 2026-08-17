@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_osama_2004",
+  "title": "Osama",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1352631",
+    "imdb": "tt0368913",
+    "tmdb": 14757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-15",
+  "runtime_minutes": 83
+}
