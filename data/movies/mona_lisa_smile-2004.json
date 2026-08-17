@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mona_lisa_smile_2004",
+  "title": "Mona Lisa Smile",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q642546",
+    "imdb": "tt0304415",
+    "tmdb": 11820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-22",
+  "runtime_minutes": 117
+}

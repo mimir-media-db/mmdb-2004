@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mail_2004",
+  "title": "Mail",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105096592",
+    "imdb": "tt0801512",
+    "tmdb": 117813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

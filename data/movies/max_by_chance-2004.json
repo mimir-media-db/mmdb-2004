@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_by_chance_2004",
+  "title": "Max by Chance",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729408",
+    "imdb": "tt1569490",
+    "tmdb": 606064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 29
+}

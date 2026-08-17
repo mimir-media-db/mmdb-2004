@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marie_et_le_loup_2004",
+  "title": "Marie et le Loup",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64392078",
+    "imdb": "tt0356863",
+    "tmdb": 416276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 92
+}

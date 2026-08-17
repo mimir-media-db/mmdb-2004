@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_pony_dancing_in_the_clouds_2004",
+  "title": "My Little Pony: Dancing in the Clouds",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18340932",
+    "imdb": "tt0899282",
+    "tmdb": 276306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 19
+}

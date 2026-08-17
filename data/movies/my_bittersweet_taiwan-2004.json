@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_bittersweet_taiwan_2004",
+  "title": "My Bittersweet Taiwan",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125454193",
+    "imdb": "tt0470935",
+    "tmdb": 545199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-07",
+  "runtime_minutes": 95
+}

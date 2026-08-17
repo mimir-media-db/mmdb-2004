@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_motorcycle_diaries_2004",
+  "title": "The Motorcycle Diaries",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q309246",
+    "imdb": "tt0318462",
+    "tmdb": 1653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-05-19",
+  "runtime_minutes": 120
+}

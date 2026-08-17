@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malla_2004",
+  "title": "Malla",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251156",
+    "imdb": "tt11930108",
+    "tmdb": 991292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

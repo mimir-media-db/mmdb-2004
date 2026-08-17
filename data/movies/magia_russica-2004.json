@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magia_russica_2004",
+  "title": "Magia Russica",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6730472",
+    "imdb": "tt0487698",
+    "tmdb": 213076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_of_avellaneda_2004",
+  "title": "Moon of Avellaneda",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3427449",
+    "imdb": "tt0347449",
+    "tmdb": 57977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-05",
+  "runtime_minutes": 143
+}

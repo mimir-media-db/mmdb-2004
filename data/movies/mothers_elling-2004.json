@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mothers_elling_2004",
+  "title": "Mother's Elling",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1332174",
+    "imdb": "tt0368045",
+    "tmdb": 11166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-05-06",
+  "runtime_minutes": 78
+}

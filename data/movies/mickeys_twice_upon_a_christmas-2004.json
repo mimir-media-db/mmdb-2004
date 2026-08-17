@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mickeys_twice_upon_a_christmas_2004",
+  "title": "Mickey's Twice Upon a Christmas",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1203831",
+    "imdb": "tt0424279",
+    "tmdb": 13378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-24",
+  "runtime_minutes": 68
+}

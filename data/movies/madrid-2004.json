@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madrid_2004",
+  "title": "Madrid",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718099",
+    "imdb": "tt0385854",
+    "tmdb": 503941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
