@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_eiszeit_2004",
+  "title": "Eiszeit",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1321031",
+    "imdb": "tt0414958"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_se_badhkar_ek_2004",
+  "title": "Ek Se Badhkar Ek",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350243",
+    "imdb": "tt0338959",
+    "tmdb": 510459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

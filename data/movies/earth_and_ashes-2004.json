@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_earth_and_ashes_2004",
+  "title": "Earth and Ashes",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3072309",
+    "imdb": "tt0420715",
+    "tmdb": 2702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 102
+}

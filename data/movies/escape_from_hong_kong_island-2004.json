@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_from_hong_kong_island_2004",
+  "title": "Escape from Hong Kong Island",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5397013",
+    "imdb": "tt0441359",
+    "tmdb": 221460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escuela_de_seduccion_2004",
+  "title": "Escuela de seducción",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5839323",
+    "imdb": "tt0409936",
+    "tmdb": 80742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 110
+}

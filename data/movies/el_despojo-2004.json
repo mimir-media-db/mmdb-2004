@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_despojo_2004",
+  "title": "El despojo",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5824646",
+    "imdb": "tt0441189",
+    "tmdb": 1046638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 73
+}

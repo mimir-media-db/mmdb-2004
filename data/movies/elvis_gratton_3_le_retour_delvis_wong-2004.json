@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elvis_gratton_3_le_retour_delvis_wong_2004",
+  "title": "Elvis Gratton 3: Le retour d'Elvis Wong",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3051851",
+    "imdb": "tt0380344",
+    "tmdb": 71509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 105
+}

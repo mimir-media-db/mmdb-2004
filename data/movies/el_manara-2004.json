@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_manara_2004",
+  "title": "El Manara",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5822379",
+    "imdb": "tt0470854",
+    "tmdb": 1340245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
