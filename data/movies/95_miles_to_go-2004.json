@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_95_miles_to_go_2004",
+  "title": "95 Miles to Go",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4646007",
+    "imdb": "tt0428196",
+    "tmdb": 79163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
