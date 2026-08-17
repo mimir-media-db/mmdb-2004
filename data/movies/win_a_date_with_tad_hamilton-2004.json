@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_win_a_date_with_tad_hamilton_2004",
+  "title": "Win a Date with Tad Hamilton!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1364349",
+    "imdb": "tt0335559",
+    "tmdb": 13476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-23",
+  "runtime_minutes": 92
+}

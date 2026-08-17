@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_right_one_comes_along_2004",
+  "title": "When the Right One Comes Along",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40988386",
+    "imdb": "tt0387681",
+    "tmdb": 231496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-12"
+}

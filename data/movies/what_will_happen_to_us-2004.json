@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_will_happen_to_us_2004",
+  "title": "What Will Happen to Us",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2961887",
+    "imdb": "tt0402912",
+    "tmdb": 38328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-03-05",
+  "runtime_minutes": 100
+}

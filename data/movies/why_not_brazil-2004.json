@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_why_not_brazil_2004",
+  "title": "Why (Not) Brazil?",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3400590",
+    "imdb": "tt0388348",
+    "tmdb": 78283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-05",
+  "runtime_minutes": 92
+}

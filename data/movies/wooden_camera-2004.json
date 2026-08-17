@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wooden_camera_2004",
+  "title": "The Wooden Camera",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6145499",
+    "imdb": "tt0402590",
+    "tmdb": 64190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-02-11",
+  "runtime_minutes": 92
+}
