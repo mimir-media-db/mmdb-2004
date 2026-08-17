@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_driver_for_vera_2004",
+  "title": "A Driver for Vera",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q718475",
+    "imdb": "tt0416292",
+    "tmdb": 64483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-27",
+  "runtime_minutes": 105
+}

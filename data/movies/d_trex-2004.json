@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_d_trex_2004",
+  "title": "D ' Trex",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28724686"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-12-02",
+  "runtime_minutes": 104
+}

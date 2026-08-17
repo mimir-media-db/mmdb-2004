@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_da_smert_2004",
+  "title": "Da, smert",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17512785",
+    "imdb": "tt2326069",
+    "tmdb": 621391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

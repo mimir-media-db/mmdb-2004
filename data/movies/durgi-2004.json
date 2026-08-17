@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_durgi_2004",
+  "title": "Durgi",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19571515",
+    "imdb": "tt27201036",
+    "tmdb": 1219383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

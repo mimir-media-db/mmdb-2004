@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dergi_in_roza_v_kraljestvu_svizca_2004",
+  "title": "Dergi in Roza v kraljestvu svizca",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28750151",
+    "imdb": "tt0409880",
+    "tmdb": 509063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 95
+}

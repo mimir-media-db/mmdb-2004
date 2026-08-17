@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_blutritter_2004",
+  "title": "Die Blutritter",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1211675",
+    "imdb": "tt0381059",
+    "tmdb": 379636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-09-30",
+  "runtime_minutes": 90
+}

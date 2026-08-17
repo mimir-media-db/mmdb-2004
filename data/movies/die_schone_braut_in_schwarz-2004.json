@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_schone_braut_in_schwarz_2004",
+  "title": "Die schöne Braut in Schwarz",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20850780",
+    "imdb": "tt0417111",
+    "tmdb": 287313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 184
+}

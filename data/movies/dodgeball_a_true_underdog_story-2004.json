@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dodgeball_a_true_underdog_story_2004",
+  "title": "DodgeBall: A True Underdog Story",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q908473",
+    "imdb": "tt0364725",
+    "tmdb": 9472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-06-18",
+  "runtime_minutes": 89
+}

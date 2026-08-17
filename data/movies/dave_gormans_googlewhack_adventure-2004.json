@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dave_gormans_googlewhack_adventure_2004",
+  "title": "Dave Gorman's Googlewhack Adventure",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56241149",
+    "imdb": "tt0439591",
+    "tmdb": 25262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 115
+}

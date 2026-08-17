@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dickie_roberts_former_child_star_2004",
+  "title": "Dickie Roberts: Former Child Star",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1210033",
+    "imdb": "tt0325258",
+    "tmdb": 13778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-07-29",
+  "runtime_minutes": 94
+}
