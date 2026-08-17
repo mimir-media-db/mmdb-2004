@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_at_the_movies",
+  "title": "At the Movies",
+  "start_year": 2004,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4812541",
+    "imdb": "tt0421288",
+    "tmdb": 3660
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 213
+}

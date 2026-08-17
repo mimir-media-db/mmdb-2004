@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_at_home_dad",
+  "title": "At Home Dad",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q626495",
+    "imdb": "tt1119172",
+    "tmdb": 38038
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_atlas",
+  "title": "Animal Atlas",
+  "start_year": 2004,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4764760",
+    "imdb": "tt0805797",
+    "tmdb": 17939
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 234
+}

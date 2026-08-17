@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_airline",
+  "title": "Airline",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4698743",
+    "imdb": "tt0395378",
+    "tmdb": 3827
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 70
+}

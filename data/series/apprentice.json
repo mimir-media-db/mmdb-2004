@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_apprentice",
+  "title": "The Apprentice",
+  "start_year": 2004,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q863122",
+    "imdb": "tt0364782",
+    "tmdb": 3531
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 188
+}

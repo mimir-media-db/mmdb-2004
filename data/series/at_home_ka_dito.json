@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_at_home_ka_dito",
+  "title": "At Home Ka Dito",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4812325",
+    "tmdb": 528
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 184
+}

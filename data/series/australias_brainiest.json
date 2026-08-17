@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_australias_brainiest",
+  "title": "Australia's Brainiest",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4823487",
+    "imdb": "tt0451989",
+    "tmdb": 12481
+  },
+  "last_updated": "2026-08-17"
+}

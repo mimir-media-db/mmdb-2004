@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_age_of_heroes",
+  "title": "The Age of Heroes",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7926220",
+    "tmdb": 128397
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

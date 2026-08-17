@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alfs_hit_talk_show",
+  "title": "Alf's Hit Talk Show",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4721609",
+    "imdb": "tt0417296",
+    "tmdb": 10504
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

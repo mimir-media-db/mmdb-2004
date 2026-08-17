@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_apuesta_por_un_amor",
+  "title": "Apuesta por un amor",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1248289",
+    "imdb": "tt0420364",
+    "tmdb": 13918
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 130
+}

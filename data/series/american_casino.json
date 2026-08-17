@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_casino",
+  "title": "American Casino",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q2100702",
+    "imdb": "tt0414718",
+    "tmdb": 12414
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 31
+}
