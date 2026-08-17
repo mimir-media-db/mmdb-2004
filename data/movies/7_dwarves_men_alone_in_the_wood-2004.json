@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_dwarves_men_alone_in_the_wood_2004",
+  "title": "7 Dwarves – Men Alone in the Wood",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q270063",
+    "imdb": "tt0382295",
+    "tmdb": 9803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 85
+}
