@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yes_yes_show",
+  "title": "Yes, Yes Show!",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q8052727",
+    "imdb": "tt0448313",
+    "tmdb": 19317
+  },
+  "last_updated": "2026-08-17"
+}
