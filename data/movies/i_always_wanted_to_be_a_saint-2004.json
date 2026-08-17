@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_always_wanted_to_be_a_saint_2004",
+  "title": "I Always Wanted to Be a Saint",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3156608",
+    "imdb": "tt0329232",
+    "tmdb": 145191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

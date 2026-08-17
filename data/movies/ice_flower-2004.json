@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_flower_2004",
+  "title": "Ice Flower",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5918600",
+    "imdb": "tt0498802",
+    "tmdb": 386793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

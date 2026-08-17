@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_my_country_2004",
+  "title": "In My Country",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2733540",
+    "imdb": "tt0349260",
+    "tmdb": 16635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 99
+}
