@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_xmas_xpress",
+  "title": "Xmas Xpress",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q42321580",
+    "imdb": "tt0426382"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
