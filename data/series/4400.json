@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_4400",
+  "title": "The 4400",
+  "start_year": 2004,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q234386",
+    "imdb": "tt0389564",
+    "tmdb": 1481
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 45
+}
