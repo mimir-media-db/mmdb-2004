@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_best_friends_date",
+  "title": "Best Friend's Date",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q104858033",
+    "imdb": "tt0430830"
+  },
+  "last_updated": "2026-08-17"
+}

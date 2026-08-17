@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_barbarians",
+  "title": "Barbarians",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4859459",
+    "imdb": "tt1209452",
+    "tmdb": 14427
+  },
+  "last_updated": "2026-08-17"
+}

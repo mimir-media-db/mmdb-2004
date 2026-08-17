@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_boiling_points",
+  "title": "Boiling Points",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q861604"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

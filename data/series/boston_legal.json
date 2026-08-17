@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boston_legal",
+  "title": "Boston Legal",
+  "start_year": 2004,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q308984",
+    "imdb": "tt0402711",
+    "tmdb": 4598
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 101
+}

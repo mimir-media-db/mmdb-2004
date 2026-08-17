@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_best_week_ever",
+  "title": "Best Week Ever",
+  "start_year": 2004,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4896832",
+    "imdb": "tt0405520",
+    "tmdb": 999
+  },
+  "last_updated": "2026-08-17"
+}

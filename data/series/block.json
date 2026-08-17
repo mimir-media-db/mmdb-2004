@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_block",
+  "title": "The Block",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7718628"
+  },
+  "last_updated": "2026-08-17"
+}

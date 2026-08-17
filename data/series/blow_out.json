@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_blow_out",
+  "title": "Blow Out",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4928523",
+    "imdb": "tt0418373",
+    "tmdb": 6643
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_boer_zoekt_vrouw",
+  "title": "Boer zoekt vrouw",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22236130",
+    "imdb": "tt1268141",
+    "tmdb": 28887
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

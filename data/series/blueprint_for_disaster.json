@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blueprint_for_disaster",
+  "title": "Blueprint for Disaster",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2910604",
+    "imdb": "tt0481438",
+    "tmdb": 6122
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

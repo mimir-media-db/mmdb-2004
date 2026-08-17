@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brotown",
+  "title": "Bro'Town",
+  "start_year": 2004,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2078672",
+    "imdb": "tt0491515",
+    "tmdb": 4369
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 32
+}

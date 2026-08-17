@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bodies",
+  "title": "Bodies",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4936576",
+    "imdb": "tt0398427",
+    "tmdb": 2371
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

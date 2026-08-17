@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_benedetti_dal_signore",
+  "title": "Benedetti dal Signore",
+  "start_year": 2004,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q594380",
+    "imdb": "tt0827755",
+    "tmdb": 40789
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_besos_robados",
+  "title": "Besos Robados",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8247153",
+    "imdb": "tt0414722",
+    "tmdb": 110482
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}
