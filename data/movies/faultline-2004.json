@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faultline_2004",
+  "title": "Faultline",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1167237",
+    "imdb": "tt0402175",
+    "tmdb": 126190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 82
+}

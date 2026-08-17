@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_children_and_it_2004",
+  "title": "Five Children and It",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2604842",
+    "imdb": "tt0366450",
+    "tmdb": 16791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 89
+}

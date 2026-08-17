@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flying_over_everest_2004",
+  "title": "Flying over Everest",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3746912",
+    "imdb": "tt1419921",
+    "tmdb": 428205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 53
+}
