@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uncovered_the_war_on_iraq_2004",
+  "title": "Uncovered: The War on Iraq",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q980415",
+    "imdb": "tt0420286",
+    "tmdb": 67889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 87
+}

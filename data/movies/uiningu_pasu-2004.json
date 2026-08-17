@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uiningu_pasu_2004",
+  "title": "Uiningu pasu",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11288350",
+    "imdb": "tt1731231",
+    "tmdb": 628726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}
