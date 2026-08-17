@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_leaf_village_grand_sports_festival_2004",
+  "title": "Hidden Leaf Village Grand Sports Festival",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11695099",
+    "imdb": "tt1298761",
+    "tmdb": 619432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-08-21"
+}

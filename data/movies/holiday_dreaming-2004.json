@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holiday_dreaming_2004",
+  "title": "Holiday Dreaming",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28745457",
+    "imdb": "tt0788133",
+    "tmdb": 335542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 99
+}

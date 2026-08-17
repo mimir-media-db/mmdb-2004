@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotmen_coolboyz_2004",
+  "title": "HotMen CoolBoyz",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q734819",
+    "imdb": "tt0285610",
+    "tmdb": 934637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-10-06",
+  "runtime_minutes": 90
+}

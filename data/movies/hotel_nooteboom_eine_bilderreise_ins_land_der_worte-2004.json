@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_nooteboom_eine_bilderreise_ins_land_der_worte_2004",
+  "title": "Hotel Nooteboom – Eine Bilderreise ins Land der Worte",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26839359",
+    "imdb": "tt0426031",
+    "tmdb": 407679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-04-08"
+}

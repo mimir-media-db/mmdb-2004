@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hi_dharma_2_showdown_in_seoul_2004",
+  "title": "Hi! Dharma 2: Showdown in Seoul",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16833305",
+    "imdb": "tt0411263",
+    "tmdb": 200601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

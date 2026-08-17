@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hellboy_the_seeds_of_creation_2004",
+  "title": "Hellboy: The Seeds of Creation",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126680785",
+    "imdb": "tt0424755",
+    "tmdb": 72867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

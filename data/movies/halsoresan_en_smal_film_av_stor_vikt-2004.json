@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_halsoresan_en_smal_film_av_stor_vikt_2004",
+  "title": "Hälsoresan – En smal film av stor vikt",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5963138",
+    "imdb": "tt0166653",
+    "tmdb": 24647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-17",
+  "runtime_minutes": 105
+}

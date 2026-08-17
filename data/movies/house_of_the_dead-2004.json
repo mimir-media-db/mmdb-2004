@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_the_dead_2004",
+  "title": "House of the Dead",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q705216",
+    "imdb": "tt0317676",
+    "tmdb": 11059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-11-02",
+  "runtime_minutes": 90
+}
