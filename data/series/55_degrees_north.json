@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_55_degrees_north",
+  "title": "55 Degrees North",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4640606",
+    "imdb": "tt0397756",
+    "tmdb": 11880
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}
