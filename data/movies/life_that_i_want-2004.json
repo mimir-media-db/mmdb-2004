@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_that_i_want_2004",
+  "title": "The Life That I Want",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824956",
+    "imdb": "tt0418299",
+    "tmdb": 20724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 125
+}

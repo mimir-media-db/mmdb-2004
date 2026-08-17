@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_glass_2004",
+  "title": "Land of Glass",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225349",
+    "imdb": "tt0471927",
+    "tmdb": 267541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

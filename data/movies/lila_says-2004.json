@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lila_says_2004",
+  "title": "Lila Says",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2096637",
+    "imdb": "tt0424237",
+    "tmdb": 46825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 89
+}

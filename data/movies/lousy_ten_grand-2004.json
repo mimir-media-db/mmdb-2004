@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lousy_ten_grand_2004",
+  "title": "A Lousy Ten Grand",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657959",
+    "imdb": "tt0435692",
+    "tmdb": 253099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

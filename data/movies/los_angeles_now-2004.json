@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_los_angeles_now_2004",
+  "title": "Los Angeles Now",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6682285",
+    "imdb": "tt1428225"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

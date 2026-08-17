@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_on_the_rocks_2004",
+  "title": "Love on the Rocks",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6691988",
+    "imdb": "tt0409016",
+    "tmdb": 45502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

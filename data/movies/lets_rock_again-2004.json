@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_rock_again_2004",
+  "title": "Let's Rock Again!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6532547",
+    "imdb": "tt0415935",
+    "tmdb": 64055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

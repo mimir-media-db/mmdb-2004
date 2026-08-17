@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lightning_in_a_bottle_2004",
+  "title": "Lightning in a Bottle",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11346425",
+    "imdb": "tt0396705",
+    "tmdb": 126148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 103
+}

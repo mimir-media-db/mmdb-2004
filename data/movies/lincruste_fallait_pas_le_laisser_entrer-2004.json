@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lincruste_fallait_pas_le_laisser_entrer_2004",
+  "title": "L'Incruste, fallait pas le laisser entrer!",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3204133",
+    "imdb": "tt0374764",
+    "tmdb": 57307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

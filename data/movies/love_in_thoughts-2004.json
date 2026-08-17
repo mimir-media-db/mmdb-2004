@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_thoughts_2004",
+  "title": "Love in Thoughts",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q681602",
+    "imdb": "tt0325733",
+    "tmdb": 1962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 90
+}

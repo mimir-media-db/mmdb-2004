@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_littoral_2004",
+  "title": "Littoral",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3256740",
+    "imdb": "tt0374828",
+    "tmdb": 259563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lhomme_sans_ombre_2004",
+  "title": "L'homme sans ombre",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3203776",
+    "imdb": "tt0415853",
+    "tmdb": 153118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 9
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_it_be_2004",
+  "title": "Let It Be",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3847174",
+    "imdb": "tt4692874",
+    "tmdb": 464460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01"
+}

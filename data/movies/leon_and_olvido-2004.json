@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leon_and_olvido_2004",
+  "title": "León and Olvido",
+  "year": 2004,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2740836",
+    "imdb": "tt0414225",
+    "tmdb": 188739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2004-01-01",
+  "runtime_minutes": 114
+}
