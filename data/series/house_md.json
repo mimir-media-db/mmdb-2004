@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_house_md",
+  "title": "House M.D.",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q23558",
+    "imdb": "tt0412142",
+    "tmdb": 1408
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 177
+}

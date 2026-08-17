@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hustle",
+  "title": "Hustle",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q841080",
+    "imdb": "tt0379632",
+    "tmdb": 3764
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 48
+}

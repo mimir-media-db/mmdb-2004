@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_huff",
+  "title": "Huff",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q930904",
+    "imdb": "tt0409570",
+    "tmdb": 2302
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

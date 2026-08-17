@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_help_me",
+  "title": "Help me",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21781788",
+    "imdb": "tt10570060"
+  },
+  "last_updated": "2026-08-17"
+}

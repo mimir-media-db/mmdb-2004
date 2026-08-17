@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hrvatski_idol",
+  "title": "Hrvatski Idol",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3435979",
+    "imdb": "tt1237843"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

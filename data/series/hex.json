@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hex",
+  "title": "Hex",
+  "start_year": 2004,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2008581",
+    "imdb": "tt0423668",
+    "tmdb": 2603
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

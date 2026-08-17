@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_headhunters",
+  "title": "Headhunters",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q26961390",
+    "imdb": "tt0401011"
+  },
+  "last_updated": "2026-08-17"
+}

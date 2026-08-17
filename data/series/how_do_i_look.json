@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_how_do_i_look",
+  "title": "How Do I Look?",
+  "start_year": 2004,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q16845091",
+    "imdb": "tt0417331",
+    "tmdb": 11510
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 196
+}

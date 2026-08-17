@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_het_eiland",
+  "title": "Het eiland",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3199848",
+    "imdb": "tt0401001",
+    "tmdb": 35700
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

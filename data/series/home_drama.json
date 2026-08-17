@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_home_drama",
+  "title": "Home Drama!",
+  "start_year": 2004,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11338413",
+    "tmdb": 36252
+  },
+  "last_updated": "2026-08-17"
+}

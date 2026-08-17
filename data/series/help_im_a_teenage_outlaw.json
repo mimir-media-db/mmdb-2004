@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_help_im_a_teenage_outlaw",
+  "title": "Help! I'm a Teenage Outlaw",
+  "start_year": 2004,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3502122",
+    "imdb": "tt0444574",
+    "tmdb": 1324
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}
